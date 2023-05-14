@@ -1,0 +1,136 @@
+<div class="field-item even" property="content:encoded"><div>
+	<a href="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/files/HTG_infoleht-17_22_01_2018.doc"><img align="right" alt="doc" border="2" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="margin-left:5px;padding:5px;" /></a>   <a href="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/files/HTG_infoleht-17_22_01_2018.pdf"><img align="right" alt="" border="2" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="margin-left:5px;padding:5px;" /></a></div>
+<h1>
+	<strong>HTG INFO </strong></h1>
+<h2>
+	Õppetöö
+<!--break--></h2>
+<ul>
+<li>
+		Aineõpetajad teatavad II perioodi <strong>järelarvestuste</strong> <strong>hinded</strong> 22. jaanuaril.</li>
+<li>
+		Kolmapäeval, 24. jaanuaril on <strong>UPT-18</strong> tööde esitamise tähtaeg veebruarikuisele kaitsmisele.</li>
+<li>
+		Kolmapäeval, 24. jaanuaril ja reedel, 26. jaanuaril viienda tunni ajal toimub <strong>UPT-19 </strong>uurimismeetodite testile eelnev seminar. Seminarid on sama sisuga, nendest osavõtt on vabatahtlik ning selleks tuleb end eelnevalt Moodle’s registreerida.</li>
+<li>
+		Neljapäeval, 25. jaanuaril toimub 4.-5. tunni ajal kõigile <strong>humanitaarklasside</strong> õpilastele aulas <strong>õpilaskonverents</strong>, esineb poetess Doris Kareva ja õpilased tutvustavad oma uurimis- ja praktilisi töid. Auditooriumis toimub samal ajal <strong>tarkusepäevake „Multitasking muutuvas maailmas“ reaalklasside</strong> õpilastele. Esinevad Karen K. Burns, Meelis Kull ja Darja Lavõgina. Õpilased tutvustavad oma praktilisi ja uurimistöid. Täpsem info kooli kodulehel. Nimetatud üritustest on vastava suuna õpilaste osavõtt kohustuslik. Loodussuuna õpilastel toimub 4. tund. Vabaainete tundi ei toimu.</li>
+<li>
+		Neljapäeval, 25. jaanuaril kell 15.45 toimub <strong>õnnetund</strong> ruumis 105. Osalemiseks saab registreeruda Stuudiumis 24. jaanuari hilisõhtuni.</li>
+</ul>
+<h2>
+	Abiturientidele</h2>
+<ul>
+<li>
+		Abiturientidel palun teatada <u>5. veebruariks</u> (vajalikud tabelid on klassijuhatajal) koolieksami II osa õppeaine. HTG koolieksami juhendi kohaselt ei saa koolieksamit sooritada riigieksami ainetes, usundiõpetuses, kehalises kasvatuses, praktikumides ning õpilase poolt eksami I osas valitud sotsiaal- ja loodusainetes. Koolieksami II osa saab sooritada õppeainetes, milles on läbitud vähemalt kaks kursust, lõimitud ainete eksami puhul on seotud vähemalt kaks erineva õppeaine kursust. Kõik eksamiaine(te) kursused peavad olema läbitud Hugo Treffneri gümnaasiumis enne eksami sooritamist.</li>
+</ul>
+<h2>
+	Muudatused tunniplaanis</h2>
+<p>teisipäev, 23.01<br />
+10.a    4. tund matemaatika õp. K. Orav-Puurand – 202. Füüsika praktikum jääb ära.<br />
+11.a    3. tund matemaatika kogu klassil õp. E. Timak – 139. Füüsika praktikum jääb ära.<br />
+11.b    5. tund matemaatika kogu klassil õp. E. Timak – 139. Füüsika praktikum jääb ära.<br />
+12.a    1. tund matemaatika õp. Ü. Hüva<br />
+5. tund matemaatika praktikum jääb ära, füüsika praktikum toimub<br />
+kolmapäev, 24.01<br />
+10.e    4. tund inimeseõpetus õp. U. Saar – 221<br />
+11.d    2. tund matemaatikas isesisev töö õp. H. Kiisel – 139<br />
+4. tund füüsika õp. J. Paaver – 213<br />
+KE ab    5. tund jääb ära<br />
+neljapäev, 25.01<br />
+10.a    4.-5. tund tarkusepäevake – 221<br />
+10.b    4.-5. tund tarkusepäevake – 221<br />
+10.c    3. tund matemaatika õp. K. Orav-Puurand – 225<br />
+4. tund bioloogia õp. S. Kaarna - 225<br />
+10.d    4.-5. tund humanitaarsuuna konverents - aula<br />
+10.e    4.-5. tund humanitaarsuuna konverents - aula<br />
+11.a    4.-5. tund tarkusepäevake – 221<br />
+11.b    4.-5. tund tarkusepäevake – 221<br />
+11.c    4. tund matemaatika õp. H. Kiisel – 135<br />
+11.d    4.-5. tund humanitaarsuuna konverents - aula<br />
+11.e    4.-5. tund humanitaarsuuna konverents - aula<br />
+12.a    4.-5. tund füüsika praktikum toimub, matemaatika praktikumi rühmal tarkusepäevake – 221<br />
+12.b    4.-5. tund tarkusepäevake – 221<br />
+12.c    4. tund ühiskonnaõpetus õp. A. Ristikivi - 141<br />
+12.d    4.-5. tund humanitaarsuuna konverents - aula<br />
+12.e    4.-5. tund humanitaarsuuna konverents - aula<br />
+Vabaainete tundi ei toimu.<br />
+reede, 26.01<br />
+10.b    4. tund kehaline kasvatus noormeestel jääb ära<br />
+11.c    3.-4. tund keemia õp. E. Paabo - 217</p>
+<h2>
+	Teated</h2>
+<ul>
+<li>
+		Täna, 22. jaanuaril kell 16.00 toimub auditooriumis klassidevahelise <strong>mälumängu</strong> III etapp. Kindlasti ootame kõiki varasemaid osalejaid, kuid kuna sari on alles poole peal, siis pole ka uutel huvilistel veel hilja liituda. Te kõik olete oodatud!</li>
+<li>
+		Teisipäeval, 23. jaanuaril kell 15.45 toimub raamatukogus <strong>klassivanemate ümarlaud</strong>, kuhu on oodatud kõikide klasside ja õpilaskogu esindajad.</li>
+<li>
+		Teisipäeval, 23. jaanuaril kell 15.50 kutsub <strong>ajalooring</strong> Tarmo Lausingu (vil 2001) raamatu „Mees, kes jäi ellu. Taadu“ tutvustusele. Vaatame vabariigi aastapäeva lävel ühe Eesti mehe eluteed, mis kulges sõjaeelsest Eesti Vabariigist Teise maailmasõja segadusse ja sealt juba Siberi vangilaagritesse ning halli nõukogude reaalsusse. Oodatud on kõik, kel möödaniku vastu huvi ning kes on mõelnud ka enda suguvõsa ajaloo talletamisele.</li>
+</ul>
+<h2>
+	Olümpiaadid ja võistlused</h2>
+<ul>
+<li>
+		Ajalooõpetajad kiidavad kõiki õpilasi, kes tegid iseseisvalt märkimisväärselt lisatööd ning osalesid 16. jaanuaril toimunud ajaloo-olümpiaadi koolivoorus. Piirkonnavoorus esindavad meie kooli:<br />
+		<u>teemal „Eesti 1917-1945“</u> Kaisa Rooba (12.c), Liis-Kristiin Närska (11.d), Rahel Uusküla (11.d), Renar Kihho (11.d), Liisbet Palm (11.d);<br />
+		<u>teemal „Reformatsioon ja vastureformatsioon“ </u>Hant Mikit Kolk (11.e), Iiris Vaask (11.c), Heile-Liise Roone (10.e), Karl Aleksander Kaplinski (11.a), Karolin Kivilaan (11.a), Eva-Maria Rannik (11.a), Auli Sander (11.a), Liisa-Maria Komissarov (10.e);<br />
+		<u>teemal „Esimene maailmasõda ja selle pärand“ </u>Margus Paaliste (12.d), Juhan Pikamäe (10.d), Henrik Narusberg (11.b), Marc David (12.b), Karl Krumm (11.e), Rauno Juntson (12.e), Karl-Johannes Kõiv (12.e), Ester Asso (11.e).</li>
+</ul>
+<p> </p>
+<h2>
+	Konkursid</h2>
+<ul>
+<li>
+		Eesti Teadusagentuur tuletab meelde, et <strong>õpilaste teadustööde</strong> riikliku konkursi tähtaeg on 20. veebruar, konkursi lõppvoor, õpilaste teadusfestival toimub 12.-13. aprillil Eesti Rahva Muuseumis. Täpsem info: <a href="http://www.etag.ee/tegevused/konkursid/opilaste-teadustoode-konkurss">http://www.etag.ee/tegevused/konkursid/opilaste-teadustoode-konkurss</a>.</li>
+</ul>
+<h2>
+	Õpetajad</h2>
+<ul>
+<li>
+		Õpetajad Helgi Pähno ja Madis Reemann on haigestunud, õpetaja Aimar Poom osaleb koolitusel 26. jaanuari pärastlõunal.</li>
+</ul>
+<h2>
+	Sport</h2>
+<ul>
+<li>
+		Tartu koolide karikavõistlustel sõudeergomeetritel sõudmises saavutas meie kooli naiskond koosseisus Anna Maria Paabumets (12.d), Kadri Jürissaar (12.a), Rachel Kõllo (10.a) ja Anette Habanen (10.b) 3. koha. 5.  koha saavutanud meeskonnas võistlesid Paul Erik Olli (10.a), Robert Põldoja (11.e), Andres Rõõm (12.a) ja Andrus Kuusk (12.c). Individuaalarvestuses võitis 2. koha Robert Põldoja.</li>
+<li>
+		10.b klassi õpilane Kristjan Marcus Sulaoja tegi kooli rekordi paigalt kaugushüppes tulemusega 3.06.</li>
+</ul>
+<h2>
+	Söökla teated</h2>
+<ul>
+<li>
+		Lähtudes Tartu Linnavalitsuse 16.01.2018 korraldusest nr 51 „Koolilõuna maksumuse kehtestamine“, on alates 01. veebruarist 2018 gümnaasiumiastme õpilaste <strong>koolilõuna maksumus</strong> järgmine: tava- ja taimetoit 1,70 €, omaosalus <strong><u>0,70 €</u></strong>. Hugo Treffneri Gümnaasiumis pakutava erimenüü maksumus: poisteports 2,05 €, omaosalus <strong><u>1,05 €</u></strong>.</li>
+<li>
+		Orientiiriks lapsevanematele <u>veebruarikuu</u> toiduraha:<br />
+		* kui õpilane sööb ka arvestuste nädalal:<br />
+		- tava- ja taimetoit 17 päeva x 0.70 eurot = 11.90 eurot, poisteports 17 päeva x 1.05 eurot = 17.85 eurot;<br />
+		* kui õpilane ei söö arvestuse nädalal:<br />
+		- tava- ja taimetoit 12 päeva x 0.70 eurot = 8.40 eurot, poisteports 12 päeva x 1.05 eurot = 12.60 eurot.</li>
+<li>
+		Tuletame meelde, et õpilased, kes ei söö arvestuste nädalal, peavad ennast süsteemis ARNO märkima sellel perioodil puudujaks.</li>
+</ul>
+<p>
+ <br />
+ </p>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 00:26</div></div></div></div>
+
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+              
+               <div id="ulemine" class="clearfix">
+                  </div>
+            
+            </section> <!-- /#main -->
+        </div>
+          
+         
+      
+              
+        </div>
+
+                  

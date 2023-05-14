@@ -1,0 +1,277 @@
+<div class="field-item even" property="content:encoded"><h1>
+	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2015_10.01.2022.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2015_10.01.2022.doc"><img alt="doc" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="float: right;" /></a></h1>
+<h1>
+	Koolipere õnnitleb</h1>
+<ul>
+<li>
+		õpetaja Ott Maidret, kellele haridus- ja teadusminister andis riikliku haridusstipendiumi enesetäiendamiseks ning haridusvaldkonna arendamiseks.</li>
+</ul>
+<h1>
+	Juhtkond tänab</h1>
+<ul>
+<li>
+		õpetajaid Ülle Hüva, Ave Külterit, Kristiina Pungat ja Ehtel Timakut õpilaste konkurssideks ettevalmistamise eest;</li>
+<li>
+		11.e klassi õpilasi ja nende klassijuhatajat Tiina Pluumi koolimaja kaunistamise ja pühade meeleolu tekitamise eest jõulude eel.</li>
+</ul>
+<!--break--><h1>
+	Õppetöö</h1>
+<ul>
+<li>
+		<strong>II perioodi järelarvestused</strong> toimuvad 11.-18. jaanuarini<br />
+		<u>teisipäev, 11.01</u><br />
+		kell 16.00 keemia õp E. Paabo – 217<br />
+		kell 16.00 vene keel õp E. Vinter – 301<br />
+		<u>kolmpäev, 12.01</u><br />
+		kell 16.00 matemaatika õp Ü. Hüva, A. Külter, K. Orav-Puurand, J. Polikarpus ja E. Timak – 221<br />
+		<u>neljapäev, 13.01</u><br />
+		kell 16.00 eesti keel õp A. Pullerits ja K. Soodla – 105<br />
+		kell 16.00 kirjandus õp A. Salo – 105<br />
+		<u>esmaspäev, 17.01</u><br />
+		kell 16.05 ajalugu ja ühiskonnaõpetus õp I. Pajur, K. Punga ja A. Ristikivi – 141<br />
+		kell 16.05 bioloogia õp S. Kaarna ja O. Maidre – 225<br />
+		kell 16.05 eesti keel õp T. Pluum – 102<br />
+		kell 16.05 füüsika õp S. Oks, J. Paaver ja M. Reemann – 213<br />
+		kell 16.05 geograafia õp Ü. Seevri – 225<br />
+		kell 16.05 saksa keel õp M. Matto – 204<br />
+		<u>teisipäev, 18.01</u><br />
+		Kell 16.00–17.30 ruumis 107 toimuvas <strong>õnnetunnis </strong>saavad II perioodi järelarvestusi sooritada õpilased, kellel langes kaks järelarvestust samale ajale või ei olnud haiguse tõttu võimalik järelarvestust ettenähtud ajal sooritada. Nimetatud juhul tuleb
+<ul>
+<li>
+				õpilasel valida õppeaine, milles ta sooritab järelarvestuse ettenähtud ajal (suuline arvestus tuleb sooritada kindlasti õigel ajal);</li>
+<li>
+				teavitada teise aine õpetajat kokkulangevusest, paludes luba sooritada järelarvestus 18. jaanuaril;</li>
+<li>
+				registreeruda elektrooniliselt õnnetundi hiljemalt 14. jaanuaril Stuudiumi keskkonnas (menüü all Muu&gt;Registreeri).<br />
+				 </li>
+</ul>
+</li>
+<li>
+		13. ja 14. jaanuaril toimub <strong>57. viie kooli lõppvõistlus</strong> matemaatikas, füüsikas ja keemias. Osalevad Tartu Tamme Gümnaasiumi, Miina Härma Gümnaasiumi, Nõo Reaalgümnaasiumi, Viljandi Gümnaasiumi, meie kooli ja külalisena Ida-Virumaa võistkonnad. Üldist olukorda arvestades lahendavad võistkonnad ülesandeid oma koolis, mitte üritust korraldavas M. Härma Gümnaasiumis.<br />
+		Võistluse ajakava:<br />
+		<u>neljapäev, 13.01</u><br />
+		kell 8.30–12.30 <strong>matemaatika </strong>ülesannete lahendamine õp Ü. Hüva (8.30–11.00), J. Polikarpus (kell 11.00–12.30) – 227<br />
+		kell 13.30–17.30 <strong>füüsika</strong> ülesannete lahendamine õp M. Reemann – 227<br />
+		<u>reede, 14.01</u><br />
+		kell 8.30–12.30 <strong>keemia </strong>ülesannete lahendamine õp J. Jõgela – 227<br />
+		kell 14.30 võistlustööde parandamine M. Härma Gümnaasiumis.<br />
+		Meie kooli võistkond koguneb viimaste juhtnööride saamiseks teisipäeval, 11. jaanuaril kell 14.25 ruumis 208.</li>
+<li>
+		Reedel, 14. jaanuaril kell 14.35 toimub auditooriumis <strong>õppealajuhataja infotund abiturientidele,</strong> kus räägitakse õppetöö korraldusest kevadpoolaastal ning kooli lõpetamisest.</li>
+<li>
+		<strong>11.a</strong> ja <strong>11.b</strong> klassi õpilastel on vastavalt kooli õppekavale kohustus läbida üks tehnoloogiakursus. Võimalus on valida kolme erineva kursuse vahel.
+<ul>
+<li>
+				<strong>Robootika</strong> kursuse (õp Siim Oks) tunnid toimuvad esmaspäeviti kell 16.05 ruumis 206, esimene tund toimub 24. jaanuaril.</li>
+<li>
+				<strong>Geoinformaatika</strong> kursuse (õp Ülle Seevri) tunnid toimuva teisipäeviti kell 16.00 ruumis 227, esimene tund toimub 25. jaanuaril.</li>
+<li>
+				<strong>Energeetikas kasutatavad tehnoloogiad</strong>. Kursus viiakse läbi koostöös Tallinna Tehnikaülikooliga ning õppegrupp avatakse, kui vähemalt 15 õpilast avaldavad soovi kursusel osalemiseks. Tundide toimumise aeg lepitakse kokku jaanuarikuu jooksul.<br />
+				Kursuste tutvustustega saab tutvuda Stuudiumi keskkonnas (Stuudium&gt;Tera).​
+<p>				<strong>11.a</strong> ja <strong>11.b </strong>klassi õpilastel tuleb kursuse valik klassijuhatajale teatada hiljemalt 17. jaanuaril. Kursusel osalejate maksimaalne arv on klassile määratud, seda ületada ei ole lubatud.<br />
+				Tehnoloogia kursusena arvestatakse veel järgmiste kursuste läbimist:</p></li>
+<li>
+				<strong>Joonestamine 2</strong> (õp Raimond Lepiste) toimub V perioodil vabaainete tundide ajal. Kursusele sai registreeruda õppeaasta alguses.</li>
+<li>
+				<strong>Fotograafia</strong> kursus (õp Siim Oks) toimus I perioodil.</li>
+<li>
+				<strong>Veebilehe arenduse </strong>kursus toimub koostöös Rakendusliku Kolledžiga (VOCO). Kursusele sai registreeruda õppeaasta alguses.
+<p>				Tehnoloogiakursuse läbimisest on vabastatud õpilased, kes 10. klassis osalesid aktiivselt füüsika, informaatika, keemia või matemaatika olümpiaadikursusel ning võtsid osa nimetatud ainete olümpiaadidest.<br />
+				12. klasside õpilastel, kellel eelmisel aastal jäi tehnoloogiakursus läbimata, tuleb kursusele registreerumiseks võtta ühendust õppealajuhatajaga.<br />
+				 </p></li>
+</ul>
+</li>
+<li>
+		<strong>Haridus- ja Noorteameti poolt korraldatavad rahvusvaheliselt tunnustatud eksamid</strong></li>
+</ul>
+<div class="rteindent1">
+	C1 Advanced eksamil saavad osaleda gümnasistid,</div>
+<ul>
+<li class="rteindent1">
+		kellel on läbitud riikliku õppekava järgi viis kohustuslikku inglise keele kursust,</li>
+<li class="rteindent1">
+		kes on sooritanud elektroonilise eeltesti CEPT tulemusele “C1 või kõrgem”,</li>
+<li class="rteindent1">
+		kes pole varem Haridus- ja Noorteameti poolt korraldataval C1 Advanced eksamil osalenud.</li>
+<li class="rteindent1">
+		Eksamid toimuvad:</li>
+</ul>
+<div class="rteindent1">
+	<strong>Cambridge Assessment English C1 Advanced </strong><br />
+	kirjalik osa: toimub 26. märtsil 2022<br />
+	suuline osa: toimub 26. märts–08. aprill 2022<br />
+	C1 Advanced kevadsessioonile registreerimine EIS-is: kuni <strong>20. jaanuar 2022.</strong><br />
+	 <br />
+	<strong>DELFscolaire B1-tase</strong> <strong>ja B2-tase </strong>– kirjalik osa toimub 18. aprillil 2022, suuline osa 18.–22. aprillil 2022.<br />
+	 <br />
+	<strong>Тест по русскому языку как иностранному</strong> B1-tase ja B2-tase  – kirjalik osa toimub 9. mail 2022, suuline osa 10. – 13. mail 2022.<br />
+	Rahvusvaheliselt tunnustatud Haridus- ja Noorteameti poolt korraldatavatele eksamitele saavad registreeruda ka <strong>10. ja 11. klasside õpilased.</strong> Kui õpilane on otsustanud sooritada rahvusvaheliselt tunnustatud Harno poolt korraldatava võõrkeele eksami, siis peab ta end ise registreerima vastava keele eksamile EISis (välja arvatud Saksa II astme keelediplomi eksam) <a href="https://eis.ekk.edu.ee/eis/">https://eis.ekk.edu.ee/eis/</a> hiljemalt <strong>20. jaanuaril 2022. a.</strong></div>
+<ul>
+<li>
+		<strong>"Enesejuhtimise alused 10. klassidele".</strong> Hea tervise jaoks on vaja lisaks füüsisele hoolitseda ka vaimse heaolu eest. Sellest ajendatuna toimuvad jaanuaris 10. klassides tunnid, milles keskendutakse iseendas toimuvate protsesside märkamisele ja mõistmisele ning enda vaimse ja emotsionaalse heaolu eest hoolitsemise oskuste arendamisele. Tunde viivad läbi õpilasnõustaja Trine Lepp ja psühholoog Triin Ulst. Igal klassil toimub kaks tundi, mis täiendavad kehalise kasvatuse kursust ning nendes osalemine on vajalik kursusehinde saamiseks. </li>
+</ul>
+<h2>
+	Muudatused tunniplaanis</h2>
+<ul>
+<li>
+		<strong>Tunniplaani muudatus alates 13. jaanuarist kuni III perioodi lõpuni<br />
+		10.a     </strong>1. tund inglise keel õp M. Hildebrandt – 309, E. Hunt – 136<br />
+		            2. tund geograafia õp Ü. Seevri – 227<br />
+		<strong>10.b     </strong>1. tund prantsuse, saksa ja vene keel õp D. K. Raave – 102, M. Matto – 204, L. Titova – 302, E. Vinter – 301<br />
+		2. tund inglise keel/ informaatika õp M. Hildebrandt – 309, E. Hunt – 308, K. Ojaveer – 312, A. Mägi - 206<br />
+		<strong>10.c     </strong>1. tund inglise, prantsuse, saksa ja vene keel õp K. Ojaveer – 312, D. K. Raave – 102, M. Matto – 204, L. Titova – 302, E. Vinter – 301<br />
+		2. tund inglise ja vene keel õp M. Hildebrandt – 309, E. Hunt – 308, K. Ojaveer – 312, L. Titova – 302<br />
+		<strong>10.d     </strong>1. tund inglise, prantsuse ja vene keel õp Ü. Roostoja – 308, D. K. Raave – 102, L. Titova – 302, E. Vinter – 301<br />
+		2. tund inglise ja saksa keel õp M. Hildebrandt – 309, E. Hunt – 308, K. Ojaveer – 312, M. Matto – 204<br />
+		<strong>10.e     </strong>1. tund geograafia õp Ü. Seevri – 227<br />
+		2. tund ajalugu õp K. Punga – 144<br />
+		<strong>11.a     </strong>1. tund informaatika/joonestamine õp A. Mägi – 206, R. Lepiste – 202<br />
+		2. tund keemia õp E. Paabo – 217<br />
+		<strong>11.b</strong>     1. tund keemia õp E. Paabo – 217<br />
+		2. tund matemaatika õp J. Polikarpus – 136<br />
+		<strong>11.c     </strong>1. tund bioloogia õp O. Maidre – 225<br />
+		2. tund kunstiajalugu õp R. Lepiste – 202<br />
+		<strong>11.d     </strong>1. tund matemaatika õp K. Orav-Puurand – 139<br />
+		2. tund muusika õp E. Paap – 220<br />
+		<strong>11.e     </strong>1. tund ajalugu õp K. Punga – 144<br />
+		2. tund matemaatika õp K. Orav-Puurand – 139<br />
+		<strong>12.b     </strong>1. tund muusika õp E. Paap – 220<br />
+		2. tund bioloogia õp O. Maidre – 225<br />
+		 </li>
+<li>
+		<strong>Muudatused tunniplaanis 10. – 17. jaanuar</strong><br />
+		<u>teisipäev, 11.01</u><br />
+		<strong>10.a     </strong>5. tund „Enesejuhtimise alused 1“ psühholoogid T. Lepp/T. Ulst – 227<br />
+		<strong>10.b</strong>     4. tund matemaatika õp Ü. Hüva – 227<br />
+		<strong>11.b</strong>     5. tund inglise keel õp M. Hildebrandti rühmal jääb ära<br />
+		<u>kolmapäev, 12.01</u><br />
+		<strong>10.a     </strong>2. tund muusika õp E. Paap – 220<br />
+		<strong>10.b     </strong>3. tund „Enesejuhtimise alused 2“ psühholoogid T. Lepp/T. Ulst – 227<br />
+		<strong>10.d     </strong>1. tund „Enesejuhtimise alused 1“ psühholoogid T. Lepp/T. Ulst – 227<br />
+		<strong>10.e     </strong>4. tund „Enesejuhtimise alused 1“ psühholoogid T. Lepp/T. Ulst – 227<br />
+		<strong>11.d     </strong>2. tund kirjandus õp K. Soodla – 141<br />
+		<strong>12.c     </strong>3. tund kirjandus õp K. Soodla – 141<br />
+		<strong>12.d</strong>     1. tund kirjandus õp K. Soodla – 141<br />
+		<strong>MAJ3 </strong>5. tund iseseisev töö<br />
+		<u>neljapäev, 13.01</u><br />
+		<strong>10.a     </strong>1. tund „Enesejuhtimise alused 2“ psühholoogid T. Lepp/T. Ulst – 102<br />
+		<strong>10.b     </strong>3. tund „Enesejuhtimise alused 1“ psühholoogid T. Lepp/T. Ulst – 105<br />
+		<strong>10.e     </strong>2. tund „Enesejuhtimise alused 2“ psühholoogid T. Lepp/T. Ulst – 135<br />
+		<strong>11.c     </strong>4. tund inglise keel õp S. Sagar – 308<br />
+		<strong>MAJ3 </strong>5. tund iseseisev töö<br />
+		<u>reede, 14.01</u><br />
+		<strong>10.c</strong>     1. tund matemaatika õp A. Külter – 139<br />
+		3. tund bioloogia õp O. Maidre – 144<br />
+		5. tund „Enesejuhtimise alused 1“ psühholoogid T. Lepp/T. Ulst – 144<br />
+		<strong>11.a</strong>     4. tund bioloogia õp S. Kaarna – 141<br />
+		<strong>11.b</strong>     4. tund matemaatika õp J. Polikarpus – 144<br />
+		<strong>11.c</strong>     2. tund bioloogia õp O. Maidre – 144<br />
+		<strong>11.d     </strong>3. tund kirjandus õp K. Soodla – 105<br />
+		4. tund keemia õp J. Jõgela – 217<br />
+		<strong>12.c     </strong>2. tund kirjandus õp K. Soodla – 105<br />
+		3. tund matemaatika õp A. Külter – 139<br />
+		4. tund bioloogia praktikum õp O. Maidre – 225<br />
+		<strong>12.d     </strong>1.-2. tund kunstiajalugu õp R. Lepiste – 144<br />
+		4. tund kirjandus õp K. Soodla – 105</li>
+</ul>
+<h2>
+	Abiturientidele</h2>
+<ul>
+<li>
+		12. klasside õpilastele on avatud eksamite infosüsteemis (EIS) <a href="https://eis.ekk.edu.ee/eis/">https://eis.ekk.edu.ee/eis/</a> <strong>riigieksamitele registreerimine</strong>. Süsteemi on võimalik siseneda ID-kaardi, mobiil-ID, Smart-ID või HarID abil. Kui ei sobi ükski võimalus, tuleb pöörduda õppealajuhataja poole, kes määrab süsteemi sisenemiseks parooli.</li>
+</ul>
+<p>Kooli lõpetamiseks peab õpilane sooritama eesti keele, matemaatika ja võõrkeele riigieksami, gümnaasiumi koolieksami ning õpilasuurimuse või praktilise töö.<br />
+<em>Eesti keele riigieksam</em> on kohustuslik kõikidele eesti õppekeelega õpilastele.<br />
+<em>Matemaatikas </em>on võimalus valida kitsa või laia matemaatika ainekava järgi koostatud riigieksam. Õpilane teeb valiku, registreerides end kitsa või laia kursuse matemaatika eksamile.<br />
+<em>Võõrkeeles</em> võib õpilane:</p>
+<ol style="list-style-type:lower-alpha;">
+<li>
+		sooritada inglise keele riigieksami</li>
+</ol>
+<p>(mõõdab keeleoskust nii B1- kui ka B2-keeletasemel) <strong><u>või</u></strong> Haridus- ja Noorteameti korraldatava rahvusvaheliselt tunnustatud inglise keele eksami C1 Advanced. Mõlemat inglise keele eksamit sooritada ei saa. Õpilane, kes ei saavuta rahvusvaheliselt tunnustatud inglise keele eksamil vähemalt B2 taset ega saa keeleoskust tõendavat tunnistust, saab gümnaasiumi lõpetamiseks sooritada inglise keele lisaeksami, mis toimub 26.-27. mail 2022.a.</p>
+<ol style="list-style-type:lower-alpha;">
+<li value="2">
+		sooritada Haridus- ja Noorteameti korraldatava ja riigieksamiga võrdsustatud rahvusvaheliselt tunnustatud prantsuse, saksa või vene keele eksami B1- või B2-tasemel (edukas sooritamine annab rahvusvahelise keeleoskustunnistuse/diplomi);</li>
+<li value="3">
+		esitada riigieksami asendamiseks <strong>omal kulul varem sooritatud ja riigi poolt</strong> <strong>tunnustatud</strong> (nt TOEFL, IELTS, PTE General jne) rahvusvahelise inglise, prantsuse, saksa või vene keele eksami vähemalt B1-tasemel keeleoskust tõendava eksami tunnistuse/diplomi, mille vastavust originaalile kinnitab kool.</li>
+</ol>
+<p>Rahvusvaheline tunnistus, mille õpilane esitab, peab olema kehtiv vähemalt jooksva õppeaasta 31. augustini.<br />
+Lisaks inglise keele riigieksamile <strong><u>või</u></strong> C1 Advanced eksamile võib õpilane valida kuni kaks rahvusvaheliselt tunnustatud prantsuse, saksa või vene keele eksamit.<br />
+Kui õpilane on otsustanud sooritada rahvusvaheliselt tunnustatud Haridus- ja Noorteameti poolt korraldatava võõrkeele eksami, siis peab ta end ise registreerima vastava keele eksamile EISis (välja arvatud Saksa II astme keelediplomi eksam).<br />
+Võõrkeele lõpueksamiks võib õpilane valida ka võõrkeele, mida ta ei ole koolis õppinud.<br />
+Õpilastele on riigieksamitele registreerumine avatud kuni <strong>20. jaanuarini 2022. aastal.</strong></p>
+<h2>
+	Olümpiaadid ja võistlused</h2>
+<ul>
+<li>
+		<strong>Lingvistikaolümpiaadi</strong> I voorus saavutasid meie kooli õpilased väga tublid tulemused ning vabariiklikkusse vooru on kutsutud Oliver Tennisberg (12.b), Rando Lukk (11.a), Pärl Pind (12.a), Triinu Vaher (11.b), Hanna Liisa Hõim (12.d), Jonathan Darvish-Kojori (12.d), Leen Vallikivi (10.a) ja Marja Järv (10.e).</li>
+<li>
+		11. detsembril toimunud lahtisel <strong>matemaatika</strong> võistlusel olid meie parimad:<br />
+		<u>Noorem rühm</u> (97 osavõtjat): 15.-16. Jaagup Konksi (10.c), 27.-32. Annette Annok (10.a);<br />
+		<u>Vanem rühm</u> (77 osavõtjat): 5. Hannes Sidorov, 7. Oliver Tennisberg (mõlemad 12.b), 18.-21. Pärl Pind (12.a).</li>
+</ul>
+<h2>
+	Konkursid</h2>
+<ul>
+<li>
+		22. jaanuaril 2022 toimub virtuaalselt TalTechi <strong>majandusvõistlus</strong>, mis on mõeldud majandusteadmiste ja majandusliku nupukuse jõuprooviks kõigile gümnaasiumi õpilastele. Võistluse kümme parimat teenivad ülikooli sisseastumiseks priipääsme ja nende õppeprogrammi lävend loetakse täidetuks sõltumata riigieksamite tulemustest. Lisaks on parimatele välja pandud rahalised auhinnad. Täpsem info: <u><a href="https://taltech.ee/taltechi-majandusvoistlus-gumnasistidele">https://taltech.ee/taltechi-majandusvoistlus-gumnasistidele</a></u>.</li>
+</ul>
+<h2>
+	Teated</h2>
+<ul>
+<li>
+		Kolmapäeval, 12. jaanuaril kell 16.00 toimub klassis 206 Küberpuuring 2021 võidukatele tüdrukutele auhinnaks saadud kohtumine IT- ja küberturbe valdkonnas eduka naise Karen Burnsiga (HTG vil 2005), kes räägib oma isiklikku lugu ja ettevõtlusest Fyma OÜ näitel ning vastab küsimustele. Osalema on oodatud ka teised huvilised tüdrukud. Et me oskaks ruumiga arvestada, siis kirjutage oma osalemissoovist aadressile <a href="mailto:anneli.magi@htg.tartu.ee" target="_blank">anneli.magi@htg.tartu.ee</a>.</li>
+<li>
+		Reedel, 14. jaanuaril 5. tunni ajal vaatavad 10.c ja 10.e klassi õpilased Elektriteatris Joosep Matjuse filmi „Pingeväljade aednik“ kirjanik Mehis Heinsaarest. Seanss algab kell 14.45, pilet maksab 3 eurot. Kui keegi õpilastest või õpetajatest soovib liituda, siis andke palun sellest uue aasta esimese koolinädala jooksul õpetaja Age Salole või Tiina Pluumile teada.</li>
+</ul>
+<h2>
+	Õpetajad koolist eemal</h2>
+<ul>
+<li>
+		Õpetaja Ü. Seevri ja arendusjuht A. Ristikivi osalevad Nordplus projektikoordinaatorite kogunemisel Stockholmis 11.–14. jaanuarini.</li>
+</ul>
+<h2>
+	Raamatukogu teated</h2>
+<ul>
+<li>
+		2022. aasta on Eestis kuulutatud raamatukogude teema-aastaks. See avatakse möödunud aastal enim laenutatud Eesti autori ilukirjandusliku teose üleriigilise ettelugemisega. Treffneri koolis saab kuulata katkendit Mudlumi eelmisel aastal üle 3500 korra laenutatud romaanist „Mitte ainult minu tädi Ellen“ kolmapäeval, 12. jaanuaril kell 12.50 aatriumis. Teema-aasta sündmustel on võimalik silma peal hoida veebilehe <a href="https://www.raamatukogudeaasta.ee/" target="_blank">https://www.raamatukogudeaasta.ee/</a> abil.</li>
+</ul>
+<h2>
+	Eelteated</h2>
+<ul>
+<li>
+		Neljapäeval, 20. jaanuaril toimub <strong>õppetöö analüüs, </strong>millest kõikide aineõpetajate osavõtt on vajalik.</li>
+<li>
+		<strong>20. jaanuaril</strong> <strong>kell 9.30–15.00</strong> kutsuvad Tartu kõrgkoolid abituriente inspireerivale kõrghariduspäevale <strong>„Õpi Tartus!“</strong>, mis toimub <strong>veebis</strong>. Tutvustatakse õppimisvõimalusi Tartu Ülikoolis, Eesti Maaülikoolis, Kaitseväe Akadeemias, Eesti Lennuakadeemias, Tartu Kõrgemas Kunstikoolis Pallas ja Tartu Tervishoiu Kõrgkoolis. Toimub <strong>konverents</strong>, osaleda saab töötubades, mis aitavad mõista erialade sisu. Keskendutakse küsimustele, mida edasi õppida ja kuidas teha õige erialavalik. Võimalus on esitada kõrgkoolide esindajatele, sealhulgas tudengitele küsimusi õppimise ja üliõpilaselu kohta.<br />
+		<strong>Vestlusringides </strong>jagavad oma kogemusi ja nõuandeid kuidas valida õige eriala ja hiljem leida erialane töö tudengid ja vilistlased. <strong>Põnevad ettekandeid</strong> teevad oma eriala tipud. Päeva juhib näitleja Sander Rebane.<br />
+		Registreerimine konverentsile ja töötubadesse on alanud. Kohtade arv on piiratud. Registreerunud õpilastele on üritus tasuta.<br />
+		<strong>Päevakavaga saab tutvuda ja üritusele registreeruda aadressil</strong> <a href="https://opitartus.ee/" target="_blank">https://opitartus.ee/</a>.<br />
+		 </li>
+<li>
+		UPT-22 tööde esitamise tähtaeg III kaitsmiseks on 19. jaanuar.</li>
+</ul>
+<ul>
+<li>
+		Reedel, 21. jaanuaril 5. tunni ajal toimub kõikidel 11. klassi õpilastel UPT-23 juhendajaseminar. Täpsema info leiate järgmisest infolehest.<br />
+		 </li>
+</ul>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 00:26</div></div></div></div>
+
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+              
+               <div id="ulemine" class="clearfix">
+                  </div>
+            
+            </section> <!-- /#main -->
+        </div>
+          
+         
+      
+              
+        </div>
+
+                  

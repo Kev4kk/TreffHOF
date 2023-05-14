@@ -4,7 +4,7 @@ import os
 import json
 
 # Folder path
-folder_path = './infolehed2'
+folder_path = './infolehed3'
 
 sf = open("students.txt", "r")
 students = []
@@ -21,6 +21,8 @@ studentMentions = []
 for student in students:
     i+=1
     print(student)
+    lõpetamisAasta = student[1][0:4]
+    vaadeldavad = [str(int(lõpetamisAasta)), str(int(lõpetamisAasta)-1), str(int(lõpetamisAasta)-2), str(int(lõpetamisAasta)-3)] 
     mentions = []
     # Iterate over all filenames in the folder
     for filename in os.listdir(folder_path):
@@ -31,7 +33,9 @@ for student in students:
         if os.path.isfile(file_path):
             # Process the file
             # print(filename)
-            f = open("./infolehed2/" + filename, "r")
+            if filename[0:4] not in vaadeldavad:
+                continue
+            f = open("./infolehed3/" + filename, "r")
             cntnt = f.read()
             f.close()
             cnt = cntnt.count(student[0])

@@ -1,0 +1,154 @@
+<div class="field-item even" property="content:encoded"><h1>
+	<strong>HTG INFO </strong></h1>
+<h2>
+	Juhtkond tänab</h2>
+<ul>
+<li>
+		õpetaja Saima Kaarnat õpilaste ettevalmistamise ja juhendamise eest rahvusvahelisel konkursil.</li>
+</ul>
+<!--break--><h2>
+	Õppetöö</h2>
+<ul>
+<li>
+		Selle õppeaasta esimene <strong>õnnetund</strong> toimub kolmapäeval, 26. septembril kell 16.15–17.00 ruumis 105. Õnnetunni viib läbi õpetaja Monika Piirimäe ning osalemiseks saab registreeruda 24. septembri hilisõhtuni. Registreerimine toimub Stuudiumi keskkonnas.<br />
+		Õnnetunnis on õpilasel, kes mõjuval põhjusel kontrolltöö ajal puudus või kellel töö ebaõnnestus, võimalus sooritada järeltöö.<br />
+		Õpilane, kes soovib õnnetunnis järeltööd kirjutada, on kohustatud seda tegema esimesel võimalusel (arvestame, et tööks õppimiseks peab jääma vähemalt kaks päeva). Erandid on õpilase haigus, olümpiaadidel osalemine või mõni muu väga mõjuv põhjus. Õnnetunnis osalemiseks tuleb pöörduda aineõpetaja poole ning paluda luba järeltööks (õpilasele, kes ei ole käinud luba küsimas, õpetaja järeltöö teksti õnnetundi ei anna).<br />
+		I perioodi järgmised õnnetunnid toimuvad 3. ja 12. oktoobril.</li>
+<li>
+		Kuna <strong>matemaatikaolümpiaadi </strong>koolivooru ajal tekitas segadust ülekooliline evakuatsiooniõppus, korraldatakse lisavõistlus 10.a, 10.b ja 20. septembril olümpiaadil osalenud humanitaar- ning loodusharu õpilastele teisipäeval, 2. oktoobril 1. tunni ajal. Ülesannete lahendamine toimub auditooriumis. Juhtkond vabandab tekitatud segaduse pärast.</li>
+<li>
+		Kolmapäeval, 26. septembril on <strong>UPT-19 </strong>tööde esitamise tähtaeg teiseks kaitsmiseks.</li>
+</ul>
+<p> </p>
+<h1>
+	Muudatused tunniplaanis</h1>
+<p><u>teisipäev, 25.09</u><br />
+11.a    1. tund kirjandus õp. K. Soodla – 105<br />
+4. tund matemaatika õp. K. Orav – Puurand – 202<br />
+11.e    5. tund kirjandus õp. M. Piirimäe - 107<br />
+12.b    1. tund kirjandus õp. T. Pluum – 102<br />
+4. tund ühiskonnaõpetus õp. A. Ristikivi – 141<br />
+12.c    1. tund ühiskonnaõpetus õp. A. Ristikivi – 141<br />
+    4. tund kirjandus õp. K. Soodla – 105</p>
+<p><u>kolmapäev, 26.09</u><br />
+10.b    1. tund matemaatika õp. Ü. Hüva – 141<br />
+2. tund eesti keel õp. K. Soodla - 105<br />
+3. tund ajalugu õp. A. Pettai – 203<br />
+11.c    1. tund keh. kasvatus koos 12.a klassiga õp. A. Saarva/A. Poom <br />
+    3. tund kirjandus õp. T. Pluum – 102<br />
+12.b    1. tund bioloogia õp. S. Kaarna – 225<br />
+3. tund füüsika õp. M. Reemann – 213<br />
+4. tund matem.-füüsika praktikum – 139/212<br />
+12.c    1. tund kirjandus õp. K. Soodla – 105<br />
+3. tnd bioloogia õp. S. Kaarna – 225<br />
+12.d    1. tund matemaatika õp. H. Kiisel – 135<br />
+3. tund kirjandus õp. K. Soodla – 105<br />
+12.e    1. tund ajalugu õp. A. Pettai – 203<br />
+3. tund matemaatika õp. H. Kiisel – 135</p>
+<p><u>neljapäev, 27.09</u><br />
+10.a    2. tund muusika õp. Ü. Keerberg – 220<br />
+4. tund keemia õp. E. Paabo – 217<br />
+10.b    1. tund kehaline kasvatus õp. A. Saarva/A. Poom <br />
+10.c    2. tund keemia õp. E. Paabo – 217<br />
+4. tund eesti keel õp. T. Pluum – 102<br />
+11.c    3. tund kehaline kasvatus õp. A. Saarva/A. Poom<br />
+11.e    2. tund kehaline kasvatus õp. A. Saarva/A. Poom<br />
+12.b    1. tund bioloogia õp. S. Kaarna – 225<br />
+12.c    2. tund bioloogia õp. S. Kaarna – 141<br />
+4. tund muusika õp. Ü. Keerberg – 220<br />
+12.d    2. tund matemaatika õp. H. Kiisel – 135<br />
+3. tund füüsika õp. J. Paaver – 141<br />
+12.e    2. tund füüsika õp. J. Paaver – 141</p>
+<p><u>reede, 28.09</u><br />
+10.b    1. tund matemaatika õp. Ü. Hüva – 136<br />
+2. tund eesti keel õp. L. Pettai – 141<br />
+10.d    2. tund keemia õp. H. Pähno – 217<br />
+    3. tund eesti keel õp. L. Pettai - 144<br />
+11.c    3. tund kirjandus õp. M. Piirimäe – 141<br />
+11.d    1. tund ajalugu õp. K. Punga – 221<br />
+2. tund matemaatika õp. Ü. Hüva – 136<br />
+11.e    1. tund ajalugu õp. K. Punga - 221<br />
+11.e    4. tund kirjandus õp. M. Piirimäe - 107<br />
+12.b    2. tund kirjandus õp. M. Piirimäe – 141<br />
+12.e    2. ja 4. tund matemaatika õp. H. Kiisel – 135<br />
+ </p>
+<h2>
+	Teated</h2>
+<ul>
+<li>
+		Täna, 24. septembril kell 16.00 toimub auditooriumis õppeaasta esimene <strong>mälumäng</strong>. Osa võtma on oodatud kõik õpilased, õpetajad ja vilistlased. Võistkonna suurus ei ole piiratud.</li>
+<li>
+		26. septembril, <strong>Euroopa keeltepäeval</strong> toimub auditooriumis kaks miniloengut. Esimeses pikas vahetunnis tutvustatakse rootsi ning teises itaalia keelt ja kultuuri. Esinejateks on TÜ külalislektorid Venusia Armillei ja Maria Engqvist.</li>
+<li>
+		Lingvistikaülesannete lahendamine toimub esmaspäeviti kell 16 klassiruumis 144.</li>
+<li>
+		<strong>Ajalooringis</strong> räägib sel nädalal Liisi Laineste (Eesti Kirjandusmuuseumi vanemteadur ja Eesti-uuringute Tippkeskuse nüüdiskultuuri ja -meedia töörühma juht) teemal „Meemid kui kommunikatsioon“. Loengus tuleb muu hulgas juttu, kuidas nali erinevates kultuurides toimib, kuidas meeme teaduslikult uuritakse; loeng sobib sissejuhatavalt hästi ka õpilastele, kes soovivad osaleda rahvaluuleolümpiaadil. Täpsem informatsioon HTG ajalooringi kodulehel. Loeng algab kell 16.00 ajalooklassis 141.</li>
+<li>
+		Reedel, 28. septembril toimub 10. klassidele <strong>rebaste ristimine</strong>. Päev algab kell 7.35 hommikuvõimlemisega Jaani kiriku ees (halva ilma korral võimlas) ning lõppeb õhtuse üritusega, mis algab kell 19.00 aatriumis. Korraldav klass (11.c) ja kõik 10ndikud on sellel päeval kell 14.15 oodatud sööklasse suppi sööma.</li>
+<li>
+		Reedel, 28. septembril toimub Teadlaste Öö festivali ühe osana esimene üle-eestiline humanitaarainete õpilaste <strong>konverents</strong> HUNTS, mille üheks korraldajaks on ka meie kool. Õpilastel, kes soovivad konverentsist kuulajatena osa võtta, palutakse hiljemalt 25. septembril teatada õp Kristiina Pungale. Täpsem informatsioon: <u><a href="http://www.kirmus.ee/est/teenused/hunts2018">http://www.kirmus.ee/est/teenused/hunts2018</a>.</u></li>
+<li>
+		<strong>Ballieelsed seltskonnatantsu kursused</strong> algavad 25. septembril ja kestavad kuni 4. detsembrini (k.a.). Kursus toimub igal teisipäeval kell 17.30-19.00 kooli võimlas (nõutud on vahetusjalanõud). Ühe tunni hind on 2 eurot. Kursus on suunatud ennekõike 10. klasside õpilastele, aga oodatud on ka vanemate klasside õpilased. Tantsimist hakkab õpetama võistlustantsu treener Hardi Rikand (HTG vil. 2006).</li>
+</ul>
+<h2>
+	Õpilased</h2>
+<ul>
+<li>
+		10.d ja 10.e külastasid Tartu Ülikooli foneetikalaborit, kus neile räägiti foneetikast kui teadusharust ning tutvustati teadlaste käsutuses olevat tipptehnoloogiat uuringute tegemiseks.</li>
+<li>
+		19.09.-21.09. osalesid Denis Petrov ja Jürgen Öövel Eesti võistkonnana rahvusvahelisel võistlusel „Noored Euroopa metsades“ Leedus. Rahvusmeeskonnana tutvustati Eesti kultuuri ja esitati teaduslik ülevaade Eesti metsamajandusest. Edasi näidati kirjalikult teoreetilisi teadmisi Euroopa metsadest ning osaleti praktilistel võistlustel metsas rahvusvahelistes võistkondades.</li>
+</ul>
+<h2>
+	Õpetajad</h2>
+<ul>
+<li>
+		Õpetaja Age Salo on haigestunud, õppealajuhataja Aime Punga ja direktor Ott Ojaveer viibivad 26.-27.09. haridusosakonna poolt korraldatud sügisseminaril, arendusjuht Aare Ristikivi osaleb 26.-30.09. projekti Erasmus+ koordinaatorite kohtumisel Saksamaal. Õpetaja Kristiina Punga osaleb 28.09. kirjandusmuuseumis toimuval konverentsil HUNTS, 29.09.–05.10. viibib õpetaja Karin Soodla õpilastega projekti Erasmus+ õpirändel Belgias.</li>
+</ul>
+<h2>
+	Sport</h2>
+<ul>
+<li>
+		Eesti Olümpiakomitee kinnitatud Tartu Spordiakadeemia 2018/2019 õppeaasta sportlaste nimekirja, kuhu kuulub 20 silmapaistvat noorsportlast, on arvatud ka triatleet Johan Tamm (10.c).</li>
+<li>
+		Orienteerumise Eesti meistrivõistlustel M-18 vanuseklassis pikal rajal tuli kolmandaks Rasmus Kruusa (12.b).</li>
+<li>
+		Tartu koolide teatejooksupäeval võitis HTG gümnaasiumide arvestuses esikoha pendelteatejooksus. Kooli esindasid Kadi-Liis Hansen, Eliise Lõhmus (10.b), Mia Marii Märks (10.c), Kristin Valge (11.c), Andrea Jagur, Saara Jaani (11.e), Hanna Sõnajalg (12.a), Ilona Kann, Katri Kõva, Mirjam Mõttus, Andtriine Navi (12.e), Peeter Lääniste (10.a), Johan Tamm (10.c), Kristian Tigane (10.d), Talis Timmi (10.e), Kristjan Paavel, Ehar Kala (11.a), Mihkel Reinula, Kristjan Marcus Sulaoja (11.b), Sander Jaaniste (12.b) ja Tristan Roosipuu (12.d). 4x400 m jooksus said tüdrukud teise koha koosseisuga Mirjam Mõttus, Andrea Jagur, Kadi-Liis Hansen ja Hanna Sõnajalg. Järgnevad noormehed said 4x400 m jooksus esikoha: Priidik Meelo Västrik (10.a), Johan Tamm, Ott Eric Ottender (11.a) ning Sander Jaaniste.</li>
+<li>
+		Eesti meistrivõistlustel duatlonis sai A-klassis III koha Austin Roose (10.a).</li>
+</ul>
+<h2>
+	Söökla teated</h2>
+<ul>
+<li>
+		Orientiiriks lapsevanematele oktoobrikuu <strong>toiduraha</strong>:<br />
+		*<u>kui õpilane sööb ka arvestuste nädalal: </u><br />
+		tava- ja taimetoit 18 päeva x 0.70 eurot = 12.60 eurot, poisteports 18 päeva x 1.05 eurot = 18.90 eurot;<br />
+		*<u>kui õpilane ei söö arvestuse nädalal:</u><br />
+		tava- ja taimetoit 13 päeva x 0.70 eurot = 9.10 eurot, poisteports 13 päeva x 1.05 eurot = 13.65 eurot.
+<p>		<u>Tuletame meelde</u>, et õpilased, kes ei söö arvestuste nädalal, peavad ennast süsteemis ARNO märkima sellel perioodil puudujaks.<br />
+		<strong>Söökla on avatud I perioodil kuni arvestuste nädalani:</strong><br />
+		esmaspäevast reedeni kell 7.30 – 9.30<br />
+		esmaspäevast kolmapäevani kell 10.30 – 16.00<br />
+		neljapäeval ja reedel kell 10.30 – 15.00<br />
+		 </p></li>
+</ul>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 00:26</div></div></div></div>
+
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+              
+               <div id="ulemine" class="clearfix">
+                  </div>
+            
+            </section> <!-- /#main -->
+        </div>
+          
+         
+      
+              
+        </div>
+
+                  
