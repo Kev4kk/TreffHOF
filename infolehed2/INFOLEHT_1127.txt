@@ -1,0 +1,179 @@
+<div class="field-item even" property="content:encoded"><h1>
+	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr02_19.09.2022.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr02_19.09.2022.docx"><img alt="doc" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="float: right;" /></a></h1>
+<h1>
+	Juhtkond tänab</h1>
+<ul>
+<li>
+		Roheliste ringi õpilasi ja nende juhendajat Ott Maidret Maailmakoristuspäeval kaasalöömise eest, mille raames tehti korda ka Hugo Treffneri ausamba ümbrus.</li>
+</ul>
+<!--break--><h1>
+	Õppetöö</h1>
+<ul>
+<li>
+		Kolmapäeval, 21. septembril on <strong>UPT-23</strong> tööde esitamise tähtaeg teiseks kaitsmiseks.</li>
+<li>
+		Õppeaasta esimene <strong>õnnetund</strong> toimub reedel, 23. septembril (75 min) kell 16.00. Õnnetundi saab registreeruda Stuudiumis (menüü all ☰ &gt;Registreeri) 21. septembri hilisõhtuni. Õnnetunni viib läbi õpetaja Monika Piirimäe ruumis 107.</li>
+<li>
+		<strong>11.a</strong> ja <strong>11.b</strong> klassi õpilastel tuleb registreeruda <strong>tehnoloogia kursusele</strong> hiljemalt <strong>22. septembril</strong>. Tabel kursusele registreerumiseks ja kursuste tutvustused on klassijuhataja käes. Nii <strong>11.a</strong> kui ka <strong>11.b</strong> klassil on igas grupis maksimaalselt 9 kohta.<br />
+		Tehnoloogia kursuste loetelus 11. klassidele on järgmised kursused:
+<ul>
+<li>
+				<strong>Robootika</strong>. Kursus toimub esimesel ja teisel perioodil kokkuleppel juhendaja õp Siim Oksaga. Õppegrupp on juhendaja poolt moodustatud.</li>
+<li>
+				<strong>Digitaalelektroonika ja mikro-kontrollerid.</strong> Kursuse viivad läbi Tallinna Tehnikaülikooli õppejõud ja kursus toimub TalTechi Tartu kolledži ruumides 2023. a. jaanuarist maini kord nädalas. Kursuse läbinud õpilased:
+<ul>
+<li>
+						omandavad algteadmisi digi-elektroonikast;</li>
+<li>
+						omandavad algteadmisi mikro-kontrollerite valikust ja ehitusest;</li>
+<li>
+						õpivad kasutama mikrokontrollereid;</li>
+<li>
+						õpivad lugema lihtsamaid elektroonika-skeeme;</li>
+<li>
+						õpivad kasutama elektroonika-skeemide simulatsioonikeskkonda TincerCAD näitel;</li>
+<li>
+						õpivad mikrokontrollereid programmeerima C+/C++ ja microPython keeles.​</li>
+</ul>
+</li>
+<li>
+				<strong>Arvutivõrkude alused. </strong>Kursus toimub perioodil 05.–09.06.2023 Tartu Rakendusliku Kolledži Kopli 1 asuvas õppehoones. Kursusel õpitakse, kuidas on WiFi-, mobiil- kui ka kaabelside võrgud ehitatud. Missuguseid seadmeid on vaja ning kuidas neid korrektselt tööle panna, et tagada kaasaegne, kiire ja turvaline internetiühendus.</li>
+<li>
+				<strong>Visuaalse brändi loomine ettevõtetele. </strong>Kursus toimub perioodil 05. – 09.06.2023 Tartu Rakendusliku Kolledži Kopli 1 asuvas õppehoones. Osalejad õpivad:
+<ul>
+<li>
+						looma ettevõttele logo, reklaamiplakatit ja -videot ning animeeritud graafikat;</li>
+<li>
+						looma ja muutma eri formaatides multimeedia sisu (graafika, video, animatsioon). Osalejad kasutavad brändi identiteedi loomiseks veebipõhiseid ja vabavaralisi vahendeid.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+		<strong>Tartu Ülikooli teaduskooli</strong> sügisel algavatele kursustele saab registreeruda <strong>25. septembrini</strong> või kuni kohti jätkub. Jaanuaris õppetööga alustavatele kursustele registreerumine kestab uue aasta alguseni.<br />
+		Kursuste kirjeldused on leitavad TÜ teaduskooli <a href="https://e-oppekeskus.ee/kursused/" target="_blank">e-õppekeskuse lehelt</a>.<br />
+		Kool tasub kursusel osalemise eest tingimusel, et
+<ul>
+<li>
+				koolis ei pakuta analoogsel kursusel osalemise võimalust;</li>
+<li>
+				eelmis(t)el õppeaasta(te)l on läbitud kursused, millele registreeruti.</li>
+</ul>
+</li>
+<li>
+		Haridus- ja Noorteamet saatis kooli 2022. a. kevadel toimunud prantsuse keele rahvusvahelise DELF eksamil edukalt esinenud õpilaste diplomid, mille saab kätte õppealajuhatajalt. Diplomi kättesaamist tuleb kinnitada allkirjaga.</li>
+</ul>
+<p> </p>
+<h2>
+	Muudatused tunniplaanis</h2>
+<p><u>esmaspäev, 19.09</u><br />
+<strong>10.b</strong>     5. tund informaatika õp A. Mägi – 303<br />
+<strong>11.a     </strong>5. tund matemaatika jääb ära, juhised isesisvaks tööks on Stuudiumis<br />
+<u>teisipäev, 20.09</u><br />
+<strong>10.b     </strong>2. tund keemia õp E. Paabo – 141<br />
+            4. tund informaatika õp A. Mägi – 303<br />
+            5. tund matemaatika õp E. Timak – 136<br />
+<strong>10.e     </strong>3. tund inglise keel õp S. Sagari rühma tundi asendab õp M. Hildebrandt – 204<br />
+<strong>11.a     </strong>4. tund matemaatika õp J. Polikarpus – 136<br />
+<strong>11.b     </strong>5. tund matemaatika õp J. Polikarpus – 136<br />
+<strong>12.a     </strong>3. tund matemaatika õp J. Polikarpus – 136<br />
+<strong>12.c     </strong>5. tund inglise keel õp S. Sagari rühmal jääb ära<br />
+<u>kolmapäev, 21.09</u><br />
+Tunde ei toimu, kooli piknik Taevaskojas<strong>. </strong><br />
+<u>neljapäev, 22.09</u><br />
+<strong>11.a     </strong>3. tund füüsika õp S. Oks – 136<br />
+<strong>11.b     </strong>4. tund füüsika õp S. Oks – 136<br />
+<strong>10.a     </strong>4. tund inglise keel õp M. Hildebrandti rühma tundi asendab õp Ü. Roostoja - 309<br />
+<strong>10.d     </strong>2. tund inimeseõpetus õp U. Saar – 221<br />
+<strong>11.c     </strong>3. tund kunstiajalugu õp R. Lepiste – 102<br />
+<strong>10.e     </strong>3. tund inimeseõpetus õp U. Saar – 221<br />
+<strong>10.d     </strong>4. tund kunstiajalugu õp R. Lepiste – 227<br />
+<strong>MAJ1 </strong>5. tund majandusõpetus vil. Ranol Kaseväli – 227<br />
+<strong>LK3    </strong>5. tundi ei toimu, iseseisev töö kodus<br />
+<strong>12. klasside</strong> tunde ei toimu, õpilased on õppekäigul Vargamäele<br />
+<u>reede, 23.09</u><br />
+<strong>10.e     </strong>2. - 3. tund geograafia õp Ü. Seevri – 227<br />
+ </p>
+<h2>
+	Konkursid</h2>
+<ul>
+<li>
+		Värske Rõhu <strong>kriitikakonkursile</strong> on oodatud kuni 30-aastaste autorite arvustused. Tähtaeg 25. oktoober 2022. Vaata lähemalt <a href="https://va.ee/kriitikakonkurss2022/" target="_blank">https://va.ee/kriitikakonkurss2022/</a>.</li>
+</ul>
+<p> </p>
+<h2>
+	Teated</h2>
+<ul>
+<li>
+		Teisipäeval, 20. septembril korraldavad 12. E klassi õpilased Anette Ama, Veera Beljajeva, Eleonora Kolga ja Amina Rebane ühiskonnaõpetuse projekti raames 10. klassidele <strong>rebaste ristimisriiete laada</strong>. Rebased saavad osta oma klassi värvides 11. ja 12. klasside ristimise riideid. Laat toimub auditooriumis I ja II söögivahetunni ajal. Õpilased, kes soovivad oma riideid müüki anda, peavad ennast registreerima. Täpsema info leiate Facebooki grupist HTG rebased 2022/2023</li>
+<li>
+		Kolmapäeval, 21. septembril sõidame kogu <strong>kooliperega piknikule Taevaskotta</strong>.<br />
+		Bussid väljuvad Vanemuise alumisest parklast järgmiselt:<br />
+		09.00 – kõik abituriendid ning 11.a, 11.b ja 11.c<br />
+		10.30 – kõik 10ndikud ja 11.d ning 11.e</li>
+<li>
+		Alanud on sesoonsete viirushaiguste aeg. Ka meie koolis on tõusnud viiruse tunnustega (nohu, köha, aevastamine jne) õpilaste hulk, kes käivad koolis, kandmata seejuures kaitsemaski ning levitades viirust kaasõpilastele ja õpetajatele. <strong>Haigustunnustega õpilane peab jääma koju</strong>, oluline on see just viiruse esimesel kolmel päeval, kus teiste nakatamine on kõige tõenäolisem. Kaitsemaski tuleb kanda koolis kuni täieliku tervenemiseni. Samuti on oluline viiruse leviku tõkestamisel kätehügieen. Haigestumise korral on mõistlik ennast koroonaviiruse suhtes kiirtestiga vähemalt korra päevas testida. Haigussümptomitega positiivse kiirtesti saanud õpilasel tuleb koju jääda kuni tervenemiseni, kuid mitte vähem kui 5 päevaks (eeldusel, et vähemalt 24 h ei ole olnud palavikku) ning teavitada haigestumisest ka klassijuhatajat. Hoiame end ja üksteist!</li>
+<li>
+		<strong>Õpilaskogu koosolek</strong> toimub täna, 19. septembril kell 16.05 ruumis 105.</li>
+<li>
+		Teisipäeval, 20. septembril on <strong>ajalooring</strong> mõtetes veel Inglismaal ja vaatame filmi "Kuninga kõne" (2010). Palju tunnustust pälvinud mängufilm keskendub Elisabeth II isa kuningaks kujunemise loole, kuid aitab hästi mõista kuninganna lapsepõlve tausta. Alustame filmiga kell 16.10 klassiruumis 141. Kõik huvilised on oodatud!</li>
+<li>
+		Neljapäeval, 22. septembril toimub 5. tunni ajal auditooriumis <strong>kooli ajaloo 2. loeng</strong> 10. klasside õpilastele.</li>
+<li>
+		Reedel, 23. septembril toimub 5. tunni ajal auditooriumis <strong>loeng 10. klasside õpilastele, kes ei osale vabaaine tunnis</strong> teemal Sotsiaalmeedia varjuküljed ja tühistamise kultuur. Lektor Maria Murumaa-Mengel.</li>
+<li>
+		Reedel, 23. septembril kell 16.00 tutvustavad <strong>autokoolid</strong> 11. ja 12. klasside õpilastele ruumis 135 õppimisvõimalusi nende koolis.</li>
+<li>
+		<strong>Roheliste ring</strong> külastab 24. septembril Vaibla linnujaama, kus õpime lindude määramist ja rõngastamist. Buss väljub kell 10.00 Tartu bussijaamast (maakonnaliin). Täpsemat infot on võimalik saada ringi juhendajalt Ott Maidrelt.</li>
+<li>
+		<strong>Roheliste ring</strong> käis eelmisel neljapäeval Maailmakoristuspäeva raames koristamas kesklinna parke. Alustati Tõnissoni pargist ja liiguti läbi erinevate parkide (Peeter Põllu, Vabaduse, Jannseni ja Koidula) Hugo Treffneri ausamba juurde, koristati suitsukonisid ja muud pisirämpsu. Juhendaja tänab osalenud Roheliste ringi õpilasi!</li>
+<li>
+		<strong>Klassivanemate ümarlaud</strong>, kuhu on oodatud kõikide klasside ja õpilasomavalitsuse esindajad, toimub esmaspäeval, 26. septembril kell 16.10 raamatukogu lugemissaalis. Õpilaste küsimustele vastavad kooli juhtkonna liikmed. </li>
+</ul>
+<h2>
+	Õpetajad</h2>
+<p>Õpetajad M. Hildebrandt, T. Pluum, A. Pullerits, A. Ristikivi, Ü. Seevri ja K. Soodla sõidavad 22. septembril abiturientidega õppekäigule Vargamäele.<br />
+ </p>
+<h2>
+	Raamatukogu teated</h2>
+<ul>
+<li>
+		Teisipäeval, 20. septembril teise pika vahetunni ajal toimub raamatukogu lugemissaalis selle aasta esimene<strong> HTG kirjandusklubi</strong> kokkusaamine. Huvilised kõikidest klassidest on väga oodatud! Kes seekord tulla ei saa, aga soovib kirjandusklubiga liituda, andku sellest palun Stuudiumi kaudu teada Mehka Kartaule (11.c) või Anna Viktoria Tammikule (11.c).</li>
+<li>
+		Raamatukogu lugemissaalis on väljas valik viimasel aastal kaitstud praktilisi töid. Tulge uurima!</li>
+<li>
+		Vanemuise teatri hooajakirjas Ramp ilmus Maara Parhomenko (12.e) teatriarvustuste konkursi võidutöö "Tants ploomipuu ümber". Ajakirja ja arvustust saab lugeda <a href="https://www.vanemuine.ee/vanemuise-hooajakiri-ramp/" target="_blank">https://www.vanemuine.ee/vanemuise-hooajakiri-ramp/</a>.</li>
+</ul>
+<h2>
+	 Eelteated</h2>
+<ul>
+<li>
+		Neljapäeval, 29. septembril kell 11.20 toimub arvutiklassis (303) bioloogiaolümpiaadi koolivoor.</li>
+<li>
+		Kolmapäeval, 5. oktoobril algusega kell 16.00 korraldab Põhja-Ameerika ülikoolide teabekeskus TÜ raamatukogu „Tõstamaa“ ruumis infosessiooni õppimisvõimalustest USA ülikoolides.<br />
+		Infot ülikoolide kohta jagavad Põhja-Ameerika ülikoolide teabekeskuse spetsialistid, õppimisvõimalusi USA keskkoolides tutvustab FLEX-programmi esindaja. Link infotunnis osalemise registreerimisvormile: <a href="https://bit.ly/3wYSCLQ" target="_blank">https://bit.ly/3wYSCLQ</a>.</li>
+</ul>
+<p>
+	 </p>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-14 21:26</div></div></div></div>
+
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+              
+               <div id="ulemine" class="clearfix">
+                  </div>
+            
+            </section> <!-- /#main -->
+        </div>
+          
+         
+      
+              
+        </div>
+
+                  

@@ -1,0 +1,160 @@
+<div class="field-item even" property="content:encoded"><h1>
+	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2017_24.01.2022.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2017_24.01.2022.doc"><img alt="doc" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="float: right;" /></a></h1>
+<p>
+	 <br />
+	Seoses koroonaviiruse ülimalt kiire levikuga on kõigil <strong>õpilastel ja kooli töötajatel kohustus koolimajas olles kanda maski.</strong> Linnalt tulnud juhiste kohaselt kehtib kohustus veebruari lõpuni.</p>
+<h1>
+	Juhtkond tänab</h1>
+<ul>
+<li>
+		õpetajaid Ülle Hüva, Siim Oksa, Eha Paabot, Julia Polikarpust. Anett Pulleritsu, Madis Reemanni ja Ehtel Timakut õpilaste konkurssideks ettevalmistamise eest.</li>
+</ul>
+<!--break--><h1>
+	Õppetöö</h1>
+<ul>
+<li>
+		<strong>11.c</strong> klassi biotehnoloogia praktikum TÜ Tehnoloogiainstituudis toimub 31. jaanuarist kuni 3. veebruarini.</li>
+<li>
+		<strong>12.c</strong> klassil algab teisipäeval, 25. jaanuaril filosoofia kursus õp T. Jürgenstein. Tunnid toimuvad III perioodil 25. jaanuaril, 1. ja 3. veebruaril ning jätkuvad IV perioodil.</li>
+<li>
+		Kolmapäeval, 26. jaanuaril ja reedel, 28. jaanuaril 5. tunni ajal toimuvad <strong>UPT-23</strong> testiks ettevalmistavad seminarid. Kolmapäevane seminar toimub virtuaalselt (link saadetakse Stuudiumi kaudu), reedene ruumis 221, seminarid on sama sisuga ja nendes osalemine on vabatahtlik. Ajavahemikus 31.01.-4.02. peavad kõik 11. klasside õpilased sooritama UPT testi teemal teaduslik teadmine ja uurimismeetodid, materjalid on kättesaadavad UPT-23 kursusel.</li>
+<li>
+		<strong>Õnnetund, </strong>mis pidi toimuma kolmapäeval, 26. jaanuaril, lükkub edasi ja toimub reedel, 28. jaanuaril kell 16.00–17.30 ruumis 107. Õnnetundi saab registreeruda neljapäeval, 27. jaanuaril kella 16.00. Järgmine õnnetund (90 min) toimub neljapäeval, 3. veebruaril.</li>
+<li>
+		<strong>11.a ja 11.b klassi tehnoloogia kursuste</strong> esimene tund lükkub nädala võrra edasi. Geoinformaatika kursuse esimene tund toimub teisipäeval, 1. veebruaril kell 16.00 ruumis 227 ja robootika kursuse esimene tund esmaspäeval, 31. jaanuaril kell 16.05 ruumis 206. Tallinna Tehnikaülikooli kursust ei avata soovijate vähesuse (3 õpilast) tõttu. Selle kursuse valinutel palutakse pöörduda õppealajuhataja poole.</li>
+<li>
+		Pikendatakse järelarvestuste sooritamise võimalust õpilastele, kellel jäi II perioodi järelarvestus <strong>sooritamata haigestumise tõttu</strong>. Õpilased, kes olid järelarvestuste nädalal 11.‑18. jaanuaril haiged, palutakse ühendust võtta aineõpetajaga ning kokku leppida järelarvestuse sooritamise aeg.</li>
+<li>
+		27. jaanuaril toimuma pidanud <strong>humanitaarsuuna konverents</strong> lükkub edasi ja toimub 4. veebruaril 5. tunni ajal.</li>
+</ul>
+<h2>
+	Muudatused tunniplaanis</h2>
+<p><u>teisipäev, 25.01</u><br />
+<strong>11.b     </strong>1.-2. tund matemaatika õp J. Polikarpus, füüsika praktikumi ei toimu<br />
+<strong>11.d     </strong>4. tund ajalugu õp A. Ristikivi – 141<br />
+<strong>12.a     </strong>5. tund füüsika praktikum algab TÜ füüsikahoones Physicum kell 15.15<br />
+<strong>12.b     </strong>4. tund füüsika praktikum algab TÜ füüsikahoones Physicum kell 13.15<br />
+<strong>12.c</strong>     5. tund filosoofia õp T. Jürgenstein – 203<br />
+<u>kolmapäev, 26.01</u><br />
+<strong>11.a     </strong>4. tund kirjandus õp K. Soodla<br />
+<u>neljapäev, 27.01</u><br />
+<strong>11.a</strong>     3. tund matem. praktikum õp Ü. Hüva – 136 / füüsika praktikum õp M. Reemann – 212<br />
+<strong>11.b</strong>     2. tund matem. praktikum õp J. Polikarpus – 136 / füüsika praktikum õp M. Reemann – 212<br />
+<strong>12.d     </strong>1. tund ühiskonnaõpetus õp A. Ristikivi<br />
+<strong>11.d</strong>     2. tund ajalugu õp A. Ristikivi<br />
+<u>reede, 28.01</u><br />
+<strong>10.a</strong>     5. tundi ei toimu<br />
+<strong>10.b</strong>     1. tund matem. praktikum õp Ü. Hüva – 136 / füüsika praktikum õp M. Reemann - 212<br />
+5. tundi ei toimu<br />
+<strong>10.c     </strong>1. tund kirjandus õp T. Pluum – 102<br />
+            4. tund bioloogia õp O. Maidre – 227<br />
+5. tund Enesejuhtimise alused psühholoogid T. Lepp ja T. Ulst – 227<br />
+<strong>10.d</strong>     5. tundi ei toimu<br />
+<strong>10.e</strong>     5. tundi ei toimu<br />
+<strong>11.a</strong>     5. tund kirjandus õp K. Soodla – 105<br />
+<strong>11.b     </strong>4.-5. tund jäävad ära, klass sõidab õppekäigule<br />
+<strong>11.c     </strong>4.-5. tund jäävad ära, klass sõidab õppekäigule<br />
+<strong>11.d</strong>     5. tundi ei toimu<br />
+<strong>11.e</strong>     5. tundi ei toimu<br />
+<strong>12.a</strong>     5. tundi ei toimu<br />
+<strong>12.b</strong>     5. tundi ei toimu<br />
+<strong>12.c     </strong>2. tund ühiskonnaõpetus õp A. Ristikivi<br />
+<strong>12.d     </strong>5. tundi ei toimu<br />
+<strong>12.e     </strong>1. tund usundiõpetus õp T. Jürgenstein – 203<br />
+            2. tund füüsika õp J. Paaver – 217<br />
+            3.-5. tund kirjandus õp T. Pluum – 102<br />
+<u>esmaspäev, 31.01</u><br />
+<strong>11.c     </strong>lõunatab erakorraliselt pärast 2. tundi;<br />
+klassijuhataja õp Ü. Seevri infominutid toimuvad kohe pärast 3. tundi – 139<br />
+kell 14.45 algab I rühma praktikum TÜ Tehnoloogiainstituudis (Nooruse 1)<br />
+<strong>12.d     </strong>4. tund ühiskonnaõpetus õp A. Ristikivi</p>
+<h2>
+	Abiturientidele</h2>
+<ul>
+<li>
+		Abituriendid saavad <strong>koolieksami aine </strong>valiku teatada klassijuhatajale 31. jaanuarist kuni 15. veebruarini.</li>
+</ul>
+<h2>
+	Olümpiaadid ja võistlused</h2>
+<ul>
+<li>
+		Lauren Aunpuu (12.e) saavutas Riigikohtu <strong>kaasuskonkursil</strong> gümnaasiumi vanuseklassis II koha.</li>
+<li>
+		Reedel, 21. jaanuaril toimus Eesti kirjandusmuuseumis Tartu linna ja maakonna <strong>õpilasetlejate </strong>konkurss, kus gümnaasiumiastmes sai 2. koha Arabella Antons (10.c) ja 3. koha Maara Parhomenko (11.e). Mõlemad said võimaluse osaleda 11. veebruaril vabariiklikul etluskonkursil.</li>
+<li>
+		13.-14. jaanuaril toimus <strong>57.</strong> <strong>viie kooli võistlus.</strong> Treffneristide tulemused olid järgmised:</li>
+</ul>
+<div class="rteindent1">
+	<u>Matemaatika</u> (50 osavõtjat): 1. Kristjan-Erik Kahu (11.b), 4. Hannes Sidorov (12.b), 6. Stefan Ehin (12.b), Pärl Pind (12.a), 10. Toomas Herodes (11.b).<br />
+	Koolide järjestus: HTG, MHG, NRG, VG, TTG.<br />
+	<u>Füüsika</u> (50 osavõtjat):<br />
+	4. Mattias Timm Rast (11.a) ja Kristjan-Erik Kahu (11.b), 8. Ander Pavlov (11.a).<br />
+	Koolide järjestus: MHG, HTG, NRG, VG, TTG.<br />
+	<u>Keemia</u> (50 osavõtjat): 3. Liisa Tafenau (11.c), Karl Valter Oja (12.c), Toomas Herodes (11.b).<br />
+	Koolide järjestus: HTG, MHG, NRG, VG, TTG.<br />
+	<u>Kolme aine kokkuvõttes</u> (20 võistlejat):<br />
+	3. Kristjan-Erik Kahu (11.b), 5. Mattias Timm Rast (11.a), 7. Toomas Herodes (11.b).<br />
+	Koolide järjestus: HTG, MHG, NRG, VG, TTG.<br />
+	<strong>57. viie kooli kohtumise lõpetamine toimub veebis neljapäeval, 27. jaanuaril kell 15.00.</strong></div>
+<h2>
+	Konkursid</h2>
+<ul>
+<li>
+		President Alar Karis korraldab jaanuaris-veebruaris kooliõpilaste seas vanuses 7-19 aastat kirja- ja mõttetalgud ning kutsub üles <strong>jagama mõtteid</strong> teemal „Millist Eestit me siis tahame?“. Kirjutised on oodatud 14. veebruariks, täpsem info <u><a href="https://www.president.ee/et/meediakajastus/pressiteated/53368">https://www.president.ee/et/meediakajastus/pressiteated/53368</a></u>.</li>
+</ul>
+<h2>
+	Teated</h2>
+<ul>
+<li>
+		<strong>D-klasside ööakadeemia</strong> jääb 28. jaanuaril ära.</li>
+<li>
+		HTG <strong>kirjandusklubi</strong> kokkusaamine, mis pidi toimuma 25. jaanuaril, lükkub distantsõppe tõttu edasi. Uue aja kohta ilmub teade järgmises infolehes. Seniks lugegem Bernard Kangro romaani „Jäälätted“, mis järgmisel kohtumisel kirjandusklubis vaatluse alla tuleb.</li>
+</ul>
+<h2>
+	Klasside tegemised</h2>
+<ul>
+<li>
+		19. jaanuaril lõpetas 11.a klass koolipäeva meeleoluka piparkookide valmistamisega kooli sööklas. Koos vormiti tainast piparkoogid, küpsetati ahjus ja kaunistati glasuuriga.</li>
+</ul>
+<h2>
+	Õpilased</h2>
+<ul>
+<li>
+		Alustanud on <strong>Rakett 69</strong> uus hooaeg, teiste osalejate seas saab kaasa saab elada kolmele meie kooli õpilasele: sinises meeskonnas tegutseb Kevin Akkermann (11.b), rohelises meeskonnas Grete Paat (12.b) ja punases meeskonnas Mattias Timm Rast (11.a).</li>
+</ul>
+<h2>
+	Sport</h2>
+<ul>
+<li>
+		Tartu linna aasta noorsportlase tiitli pälvis teiste hulgas vehkleja Susanne Lannes (11.b).</li>
+<li>
+		Kärt Trinity Sillaots (11.b) saavutas Tartu meistrivõistlustel kuulitõukes U20 vanuseklassis. 1. koha.</li>
+</ul>
+<h2>
+	Eelteated</h2>
+<ul>
+<li>
+		Keemiaolümpiaadi piirkonnavoor toimub laupäeval, 29. jaanuaril kell 10.00–15.00 ruumides 136 ja 221.</li>
+<li>
+		Matemaatikaolümpiaadi piirkonnavoor toimub kolmapäeval, 2. veebruaril kell 10.00‑15.00 ruumides 105 ja 221.</li>
+</ul>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-14 18:26</div></div></div></div>
+
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+              
+               <div id="ulemine" class="clearfix">
+                  </div>
+            
+            </section> <!-- /#main -->
+        </div>
+          
+         
+      
+              
+        </div>
+
+                  

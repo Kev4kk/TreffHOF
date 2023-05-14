@@ -1,0 +1,208 @@
+<div class="field-item even" property="content:encoded"><h1>
+	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2016_17.01.2022.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2016_17.01.2022.doc"><img alt="doc" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="float: right;" /></a></h1>
+<h1>
+	Õppetöö</h1>
+<ul>
+<li>
+		Jätkuvad 
+<!--break--><p><strong>II perioodi järelarvestused</strong>.<br />
+		<u>esmaspäev, 17.01</u><br />
+		kell 16.05 ajalugu ja ühiskonnaõpetus õp I. Pajur, K. Punga ja A. Ristikivi – 141<br />
+		kell 16.05 bioloogia õp S. Kaarna ja O. Maidre – 225<br />
+		kell 16.05 eesti keel õp T. Pluum – 102<br />
+		kell 16.05 füüsika õp S. Oks, J. Paaver ja M. Reemann – 213<br />
+		kell 16.05 geograafia õp Ü. Seevri – 225<br />
+		kell 16.05 saksa keel õp M. Matto – 204<br />
+		<u>teisipäev, 18.01</u><br />
+		Kell 16.00 – 17.30 ruumis 107 toimuvas õnnetunnis saavad II perioodi järelarvestusi sooritada õpilased, kellel langes kaks järelarvestust samale ajale või ei olnud haiguse tõttu võimalik järelarvestust ettenähtud ajal sooritada. Registreeruda sai 18. jaanuaril toimuvale järelarvestusele 14. jaanuarini.</p></li>
+<li>
+		Kolmapäeval, 19. jaanuaril on <strong>UPT-22</strong> esitamise tähtaeg nendele, kes valisid sügisel IV kaitsmise aja.</li>
+<li>
+		Reedel, 21. jaanuaril 5. tunni ajal toimub kõikidel 11. klassi õpilastel <strong>UPT-23</strong> juhendajaseminar. Juhendajad ootavad õpilasi järgmistes ruumides:<br />
+		Marcus Hildebrandt 309<br />
+		Erika Hunt 308<br />
+		Ülle Hüva 136<br />
+		Toomas Jürgenstein 203<br />
+		Saima Kaarna 225<br />
+		Ave Külter 139<br />
+		Raimond Lepiste 303<br />
+		Ott Maidre 221<br />
+		Mall Matto 204<br />
+		Anneli Mägi 206<br />
+		Katrin Ojaveer 312<br />
+		Siim Oks 213<br />
+		Kerli Orav-Puurand 202<br />
+		Eha Paabo 217<br />
+		Eve Paap 220<br />
+		Jaan Paaver 214<br />
+		Indrek Pajur 108<br />
+		Monika Piirimäe 109<br />
+		Tiina Pluum 102<br />
+		Aimar Poom 228/201<br />
+		Kristiina Punga 144<br />
+		Anett Pullerits 105<br />
+		Doris Kristina Raave 310<br />
+		Madis Reemann 212<br />
+		Aare Ristikivi 141<br />
+		Ülli Roostoja 301<br />
+		Jaanika Saarepuu 205<br />
+		Anneli Saarva 228/201<br />
+		Age Salo 107<br />
+		Ülle Seevri 227<br />
+		Ehtel Timak 135<br />
+		Ljubov Titova 302<br />
+		Triin Ulst 311<br />
+		Trine Lepp 219<br />
+		Psühholoog Triin Ulst ning õpetajad Joana Jõgela ja Karin Soodla paluvad juhendatavatel kokkusaamiseks aeg kokku leppida hiljemalt 25. jaanuaril.</li>
+</ul>
+<p>
+	 </p>
+<ul>
+<li>
+		Õpilastele, kes tahavad teha <strong>uurimistööd</strong> ülikooli kaasjuhendaja käe all, tuleb appi Tartu Ülikooli teaduskool. Kui õpilane on leidnud oma tööle pealkirja ja püstitanud uurimisküsimuse, siis jääb üle vaid lisada motivatsioonikiri ning koolipoolse juhendaja soovitus. Edasi tegutseb juba teaduskool ja leiab õpilasele sobiva juhendaja ühest Tartu Ülikooli neljast valdkonnast: humanitaarteadused ja kunstid, sotsiaalteadused, meditsiiniteadused või loodus- ja täppisteadused. Ühendust saab võtta meiliaadressil <a href="mailto:teaduskool@ut.ee">teaduskool@ut.ee</a>.</li>
+<li>
+		<strong>11.a</strong> ja <strong>11.b</strong> klassi robootika kursuse esimene tund toimub esmaspäeval, 24. jaanuaril kell 16.05 ruumis 206 ja geoinformaatika kursuse esimene tund teisipäeval, 25. jaanuaril kell 16.00 ruumis 227.</li>
+<li>
+		<strong>Kursustel osalemise pakkumine</strong></li>
+</ul>
+<ol>
+<li>
+		Tartu Rakenduslik Kolledž (endise nimega Tartu Kutsehariduskeskus) pakub võimalust osaleda järgmistel ülelinnalistel kursustel:</li>
+</ol>
+<ul style="list-style-type:circle;">
+<li align="left">
+		<em>Arvuti operatsioonisüsteemid (35 tundi)</em></li>
+<li align="left">
+		<em>Dünaamilise veebilehe loomine HTML, CCS ja JavaScript abil (35 tundi)</em></li>
+<li align="left">
+		<em>Arvutitehnika kursus (35 tundi)</em></li>
+<li align="left">
+		<em>3D printimine (35 tundi)</em><br />
+		Kursused on planeeritud toimuma käesoleva õppeaasta II poolaastal (märts-mai 2022) ning kursust arvestatakse HTG lõpetamiseks vajalike kursuste hulka.<br />
+		Kursuste õppekavadega saab tutvuda Stuudiumis (Stuudium&lt;Tera), registreeruda saab Tartu Rakendusliku Kolledži (VOCO) kodulehe kaudu <a href="https://voco.ee/uldinfo/uldhariduskoolidele/">https://voco.ee/uldinfo/uldhariduskoolidele/</a></li>
+</ul>
+<ol>
+<li>
+		24. jaanuaril algab 10-nädalane programmeerimise veebikursus “<a href="https://didaktika.cs.ut.ee/progttl/" target="_blank"><strong>Tehnoloogia tarbijast loojaks</strong></a>”. Kursus on mõeldud õpilastele, kes varem ei ole programmeerimisega kokku puutunud või on senine kokkupuude väike.<br />
+		Kursusel tuleb lahendada programmeerimisülesandeid, sooritada nädalatestid, koostada digilahenduse arendusprojekt ning teha arvestustöö. Kogu õpe on üles ehitatud veebis ning tuge jagavad kaugmentorid Tartu Ülikooli arvutiteaduse instituudist.<br />
+		Kui arvestustöö tulemus on vähemalt 90%, on lihtne pääseda 2022. aasta suvel Tartu Ülikooli informaatika bakalaureuseõppesse.<br />
+		Kindlasti annab see e-kursus sulle selgust, kas IT on ala, millega soovid tulevikus siduda oma õpingu- ja karjääriplaanid.<br />
+		<a href="https://www.is.ut.ee/pls/ois/!tere.tulemast?leht=OK.AR.ID&amp;id_ay_toimumine=66693&amp;systeemi_seaded=10,1,12,1&amp;sessioon=0" target="_blank">Registreeru kursusele</a>, pane end proovile ning avasta programmeerimise võlu ja võimalused!<br />
+		Küsimuste korral saad abi: <a href="mailto:prog@ut.ee">prog@ut.ee</a></li>
+</ol>
+<p> </p>
+<ol>
+<li value="2">
+		Välisülikoolidesse kandideerimine on avatud ning parim aeg enda võimalustega lähemalt tutvuda on just praegu.<br />
+		- Millistesse ülikoolidesse on võimalik kandideerida?<br />
+		- Milliseid erialasid ülikoolid pakuvad?<br />
+		- Kuidas kandideerida?<br />
+		- Elamine ja kulutused välisriigis<br />
+		- Rahastusvõimalused õpinguteks<br />
+		Konsultatsioonifirma BELLNOR vastab kõikidele küsimustele.<br />
+		Leia endale konsultatsiooniks sobiv vaba aeg aadressil <a href="https://calendly.com/bellnorconsultation/konsultatsioon" target="_blank">https://calendly.com/bellnorconsultation/konsultatsioon</a>.<br />
+		Lisaks konsultatsioonidele toimub <strong>Skandinaavia ülikoolide infotund</strong>, mis keskendub õpingutele Taanis ja Soomes. Infotund toimub Zoomi keskkonnas 01.02.2022 algusega 18:00. Osalemine on tasuta, kuid kohtade arv on piiratud, mille tõttu tuleb registreeruda esimesel võimalusel aadressil: <a href="https://forms.gle/1DRCd5Z559jgK6cb9" target="_blank">https://forms.gle/1DRCd5Z559jgK6cb9</a></li>
+</ol>
+<ul>
+<li>
+		13.-14. jaanuaril toimunud <strong>viie kooli võistlusel</strong> kuulusid meie kooli võistkonda Kert Lelov, Hans Henrik Rebane (mõlemad 10.a), Maria Kozõreva, Kaur Huko Käämbre ja Annika Aho (kõik 10.b). Mehka Kartau (10.c), Mattias Timm Rast, Ander Pavlov (mõlemad 11.a), Kristjan-Erik Kahu, Toomas Herodes, Laur Härm ja Siim-Erik Viiding (kõik 11.b), Liisa Tafenau (11.c), Pärl Pind, Egert Koppel (mõlemad 12.a), Hannes Sidorov, Peeter Pissarenko, Stefan Ehin (12.b), Annika Prillop ja Karl Valter Oja (12.c). Võistluse tulemused selguvad alanud nädala jooksul.</li>
+</ul>
+<h2>
+	Muudatused tunniplaanis</h2>
+<p><u>esmaspäev, 17.01</u><br />
+<strong>11.d     </strong>5. tund ajalugu jääb ära<br />
+<u>teisipäev, 18.01</u><br />
+<strong>12.c     </strong>1. tund kehaline kasvatus õp A. Saarva/A. Poom – 228<br />
+            4. tund ajalugu õp I. Pajur – 141<br />
+<strong>12.d     </strong>2.-3. tund ajalugu õp I. Pajur – 221<br />
+<u>kolmapäev, 19.01</u><br />
+<strong>11.d     </strong>2. tund muusika õp E. Paap – 220<br />
+<strong>12.c     </strong>3. tund matemaatika õp A. Külter – 139<br />
+<strong>12.d     </strong>1. tund matemaatika õp A. Külter – 141<br />
+            3. tund kirjandus õp T. Pluum – 102<br />
+<u>neljapäev, 20.01</u><br />
+<strong>11.a     </strong>2. ja 4. tund keemia õp E. Paabo – 217<br />
+<strong>12.c     </strong>2. tund ühiskonnaõpetus õp A. Ristikivi – 141<br />
+<strong>12.d     </strong>1. tund ühiskonnaõpetus õp A. Ristikivi – 105<br />
+<u>reede, 21.01</u><br />
+<strong>10.a     </strong>5. tundi ei toimu<br />
+<strong>10.b     </strong>5. tundi ei toimu<br />
+<strong>10.c     </strong>5. tund „Enesejuhtimise alused“ psühholoogid T. Lepp / T. Ulst - 203<br />
+<strong>10.d     </strong>5. tundi ei toimu<br />
+<strong>10.e     </strong>5. tundi ei toimu<br />
+<strong>11.a     </strong>5. tund UPT-23 juhendajaseminar<br />
+<strong>11.b     </strong>5. tund UPT-23 juhendajaseminar<br />
+<strong>11.c     </strong>5. tund UPT-23 juhendajaseminar<br />
+<strong>11.d     </strong>5. tund UPT-23 juhendajaseminar<br />
+<strong>11.e     </strong>5. tund UPT-23 juhendajaseminar<br />
+<strong>12.a     </strong>5. tundi ei toimu<br />
+<strong>12.b     </strong>5. tundi ei toimu<br />
+<strong>12.c     </strong>5. tundi ei toimu<br />
+<strong>12.d     </strong>5. tundi ei toimu<br />
+<strong>12.e     </strong>5. tundi ei toimu<br />
+<u>esmaspäev, 24.01</u><br />
+<strong>10.e     </strong>2. tund ajalugu õp K. Punga – 144 (ära jääb matemaatika, õp E. Timaku tund toimus 13.01)<br />
+            5. tund muusika õp E. Paap – 220<br />
+<strong>10.c     </strong>2. tund muusika õp E. Paap – 220<br />
+            5. tund keemia õp E. Paabo – 217<br />
+<strong>10.d     </strong>5. tund ajalugu õp K. Punga – 144</p>
+<h2>
+	Abiturientidele</h2>
+<ul>
+<li>
+		12. klasside õpilastele on 20. jaanuarini avatud eksamite infosüsteemis (EIS) <a href="https://eis.ekk.edu.ee/eis/">https://eis.ekk.edu.ee/eis/</a> <strong>riigieksamitele registreerimine</strong>. Süsteemi on võimalik siseneda ID-kaardi, mobiil-ID, Smart-ID või HarID abil. Kui ei sobi ükski võimalus, tuleb pöörduda õppealajuhataja poole, kes määrab süsteemi sisenemiseks ajutise parooli. Õpilane, kes hiljemalt 20. jaanuaril riigieksamitele ei registreeri, ei saa 2022. aasta kevadel riigieksameid sooritada.</li>
+</ul>
+<h2>
+	Konkursid</h2>
+<ul>
+<li>
+		19. veebruaril toimub esimest korda TalTechi <strong>tehnikaolümpiaad</strong>, mis on kõikidele gümnasistidele mõeldud tehnoloogiavõistlus. Olümpiaadile registreerumine lõpeb 11. veebruaril kell 17.00. Olümpiaadi viiele edukamale on välja pandud rahalised auhinnad, lisaks on kahekümnel edukamal õpilasel, kes on saanud olümpiaadi tulemuseks vähemalt 60%, võimalus asuda gümnaasiumi lõpetamise järel õppima TalTechi mis tahes erialale (v.a. arhitektuuriõpe) väljaspool tavapärast vastuvõtukonkurssi. Täpsem info <a href="https://taltech.ee/tehnikaolumpiaad">https://taltech.ee/tehnikaolumpiaad</a>.</li>
+</ul>
+<h2>
+	Teated</h2>
+<ul>
+<li>
+		Teisipäeval, 18. jaanuaril ootab <strong>ajalooring</strong> kõiki huvilisi vaatama suurfilmi „Tõde ja õigus“. Alustame kell 16.00 ruumis 141.</li>
+<li>
+		<strong>Mentorid</strong> 11. ja 12. klassidest, saame kokku 24. jaanuaril kell 16.10 ruumis 107. Räägime, kuidas seni läinud on ja püüame leida vastused vahepeal tekkinud küsimustele.</li>
+<li>
+		Brite Tõniste ja Gleen Gross (11.e) korraldavad 17.-20. jaanuarini <strong>karjäärinädala</strong>. Oma erialast ja kogemustest räägivad südamekirurg Raili Ermel, näitleja Karol Kuntsel, neuroteadlane Jaan Aru (HTG vil 2004) ja ettevõtja Ranol Kaseväli (HTG vil 2001). Kohtumised toimuvad ruumis 105. Täpsed kuupäevad ja kellaajad on kirjas karjäärinädala plakatitel. Kõik huvilised on oodatud!</li>
+</ul>
+<h2>
+	Õpetajad koolist eemal</h2>
+<ul>
+<li>
+		Õppetööst on nädala esimesel poolel eemal õpetaja A. Ristikivi, huvijuht U. Saar on korralisel puhkusel 19.-28. jaanuarini.</li>
+</ul>
+<h2>
+	Sport</h2>
+<ul>
+<li>
+		Reedel, 21. jaanuaril toimub petangis HTG uusaastaturniir. Algus pärast 5. tundi, kavas paarismäng, osaleda saavad nii õpilased kui õpetajad. Iga naise eest võistkonnas mängu alguses kaks lisapunkti. Eelregistreerimine õpetaja Aimar Poomi juures ning lisainfo FB grupist HTG petank.</li>
+</ul>
+<h2>
+	Raamatukogu teated</h2>
+<ul>
+<li>
+		Raamatukogude teema-aasta alguse puhul on lugemissaalis väljapanek raamatutest, mida õpetajad lugeda soovitavad. Tulge vaatama ja proovige arvata, kes mida soovitada võiks. Õige vastuse leiate raamatuid lehitsedes. Teiste hulka on end ära peitnud ka üks hoiatav mittesoovitus!</li>
+</ul>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-14 18:26</div></div></div></div>
+
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+              
+               <div id="ulemine" class="clearfix">
+                  </div>
+            
+            </section> <!-- /#main -->
+        </div>
+          
+         
+      
+              
+        </div>
+
+                  
