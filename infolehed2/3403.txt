@@ -1,0 +1,354 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1257">
+<meta name=Generator content="Microsoft Word 11 (filtered)">
+<title>HTG INFO</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;}
+@font-face
+	{font-family:Haettenschweiler;
+	panose-1:2 11 7 6 4 9 2 6 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:11.35pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+h1
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:Haettenschweiler;
+	font-weight:normal;}
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:18.0pt;
+	margin-bottom:.0001pt;
+	font-size:16.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyTextIndent2, li.MsoBodyTextIndent2, div.MsoBodyTextIndent2
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:11.35pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;
+	text-decoration:underline;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+pre
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+@page Section1
+	{size:21.0cm 842.0pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+</head>
+
+<body lang=ET link=blue vlink=purple>
+
+<center><table WIDTH="70%" >
+<tr>
+<td>
+
+<div class=Section1>
+
+<p class=MsoNormal style='text-indent:0cm'><b><span style='font-size:36.0pt;
+font-family:"Bookman Old Style"'>HTG INFO</span></b></p>
+
+<p class=MsoNormal align=right style='text-align:right'><span style='font-size:
+14.0pt;font-family:Arial'>Nr. 34</span></p>
+
+<p class=MsoNormal align=right style='text-align:right'><span style='font-size:
+14.0pt;font-family:Arial'>24. mai 2004</span></p>
+
+<h1>Juhtkond tänab</h1>
+
+<p class=MsoNormal style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><b>Eeva-Eili Kaske, Maia Käppat ja Kristiina Pungat</b> õpilaste
+eduka juhendamise eest;</p>
+
+<p class=MsoBodyText3 style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><b>Merille Hommikut ja kunstiringi õpilas</b>i meeleoluka
+aastanäituse korraldamise eest;</p>
+
+<p class=MsoBodyText3 style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><b>Helgi Teringut, Mari Nurka ja kõiki näiteringi liikmeid</b>
+meeldejääva teatriõhtu eest 20. mail.</p>
+
+<h1>Õpetajad</h1>
+
+<p class=MsoBodyText3 style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>Riigieksamitööde parandamisega on seotud õp. <b>Hele Kiisel</b>
+18. -30. maini ja õp. <b>Mall Matto</b> 25. - 26. maini.</p>
+
+<p class=MsoBodyText3 style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>Õpetaja <b>Kristiina Punga</b> viibib 25.05 - 10.06 õppereisil
+Uppsalas.</p>
+
+<h1>Abiturientidele</h1>
+
+<p class=MsoNormal>24. mai infominutites jagavad 12. klasside juhatajad oma
+õpilastele <b>kontrollimiseks </b>kätte<b> hinnetelehed</b>. Vigade ilmnemisel
+tuleb pöörduda aineõpetaja poole, kes parandab vea oma päeviku alusel. Kui <u>kõik
+vead</u> on parandatud, pöörduda õppealajuhataja poole. Parandusi saab
+õppealajuhataja juures teha 26.-31. maini kella 10 - 14-ni.</p>
+
+<p class=MsoBodyText3>Kui hinnetelehel ei ole vigu, pole lehte vaja tagastada.</p>
+
+<h1>Riigieksamid</h1>
+
+<p class=MsoBodyText3 style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>Teisipäeval, 25. mail toimub <b>ühiskonnaõpetuse eksam</b>
+ruumides 220 ja 221. Alates kella 11-st on läbikäiguks suletud koridor nende
+ruumide ees. Koolikell ei helise.</p>
+
+<p class=MsoBodyText3 style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>Laupäeval, 29. mail kell 11.00 algab <b>bioloogia eksam</b>
+ruumides 213, 217, 220, 221.</p>
+
+<h1>Õppetöö</h1>
+
+<p class=MsoBodyTextIndent2>Muudatused tunniplaanis ja ruumide kasutuses on sel
+nädalal järgmised:</p>
+
+<p class=MsoBodyText3><b><u>E 24.05</u></b></p>
+
+<p class=MsoNormal style='text-indent:0cm'><b>11a</b>      7.-8. tund
+matemaatika -           </p>
+
+<p class=MsoNormal style='text-indent:0cm'>                                           
+jääb ära</p>
+
+<p class=MsoNormal style='text-indent:0cm'><b>11b</b>      5.-6. tund informaatika</p>
+
+<p class=MsoNormal>        L. Jõgi / H. Sepp - 303/ 206</p>
+
+<p class=MsoBodyText3><b><u>T 25.05</u></b></p>
+
+<p class=MsoBodyText3 style='margin-left:36.0pt;text-indent:-36.0pt'><b>11a</b>      5.-6.
+tund  - ajalugu M. Käppa - 141</p>
+
+<p class=MsoBodyText3><b>10b</b>      7.-8. tund - ajalugu</p>
+
+<p class=MsoBodyText3>            K. Punga - 144</p>
+
+<p class=MsoBodyText3><b>10c</b>      1.tund geograafia </p>
+
+<p class=MsoBodyText3 style='text-indent:36.0pt'>Ü.Seevri - 217</p>
+
+<p class=MsoBodyText3>            2.-3. tund keemia</p>
+
+<p class=MsoBodyText3>            E. Paabo - 217</p>
+
+<p class=MsoBodyText3>            5.-6. tund ajalugu</p>
+
+<p class=MsoBodyText3>            K. Punga - 102</p>
+
+<p class=MsoBodyText3><b>10d</b>      3.-4. tund ajalugu</p>
+
+<p class=MsoBodyText3>            M. Käppa -141</p>
+
+<p class=MsoBodyText3>            7.-8. tund meedia</p>
+
+<p class=MsoBodyText3>            A. Salo -107</p>
+
+<p class=MsoBodyText3><b>11a</b>      5.-6. tund matemaatika</p>
+
+<p class=MsoBodyText3>            Aigar Vaigu - 135</p>
+
+<p class=MsoBodyText3><b>11b</b>      7. -8.tund informaatika</p>
+
+<p class=MsoBodyText3>            L. Jõgi/ H. Sepp 303/206</p>
+
+<p class=MsoBodyText3><b><u>K 26.06</u></b></p>
+
+<p class=MsoBodyText3>Õpetaja M. Matto tunde asendab õp. A. Roots.</p>
+
+<p class=MsoBodyText3><b>10a</b>      3. tund matemaatika</p>
+
+<p class=MsoBodyText3>            Ü. Hüva - 136</p>
+
+<p class=MsoBodyText3><b>10b</b>      3.-4. tund kunstiajalugu</p>
+
+<p class=MsoBodyText3>            P. Beier - 203</p>
+
+<p class=MsoBodyText3><b>10c</b>      3. tund keemia E. Paabo - 217</p>
+
+<p class=MsoBodyText3>            4. tund matemaatika</p>
+
+<p class=MsoBodyText3>            Ü. Hüva - 136</p>
+
+<p class=MsoBodyText3><b>11b</b>      1.-2. tund matemaatika</p>
+
+<p class=MsoBodyText3>            K. Kubjas - 135</p>
+
+<p class=MsoBodyText3>            3.-4. tund kirjandus</p>
+
+<p class=MsoBodyText3>            A. Salo - 107</p>
+
+<p class=MsoBodyText3><b><u>N 27.05</u></b></p>
+
+<p class=MsoBodyText3><b>11a</b>      1.-2. tund kehal. Kasvatus</p>
+
+<p class=MsoBodyText3>            A. Saarva/P. Parisoo</p>
+
+<p class=MsoBodyText3 style='margin-left:36.0pt'>5.-6. tund A. Vaigu - 135</p>
+
+<p class=MsoBodyText3><b>10d</b>      1.-2. tund kirjandus</p>
+
+<p class=MsoBodyText3 style='text-indent:36.0pt'>M. Järveoja - 102</p>
+
+<p class=MsoBodyText3 style='text-indent:36.0pt'>5.-6. tund kehal. Kasvatus</p>
+
+<p class=MsoBodyText3 style='text-indent:36.0pt'>A. Saarva/P. Parisoo </p>
+
+<p class=MsoBodyText3><b><u>R 28.05</u></b></p>
+
+<p class=MsoBodyText3><b>11a</b>      5.-6. tund matemaatika</p>
+
+<p class=MsoBodyText3 style='margin-left:54.0pt;text-indent:-18.0pt'>A.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Vaigu -135</p>
+
+<p class=MsoBodyText3><b>11b</b>      3.-4. tund matemaatika</p>
+
+<p class=MsoBodyText3>            K. Kubjas - 135</p>
+
+<h1>Õpilased</h1>
+
+<p class=MsoNormal style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><b>Eesti Vabariigi Presidendi auhindadele toimunud õpilaste
+ajalooalaste uurimustööde võistlusel</b> teemal &quot;Muutuv Eesti XX
+sajandil&quot; hinnati eripreemiatega Kertu Sääritsa (12b) ja Keiu Kriidi (11a)
+uurimust teemal &quot;HTG õpetajad muutuvas ajas&quot; ja Pille Rinne (10d)
+uurimust &quot;Miilang - ühe koolilehe lugu&quot;. Ära märgiti ka Kaur Riismaa
+(11d) töö. Auhindasid andsid kätte president Arnold Rüütel ning haridus- ja
+teadusminister Toivo Maimets. Esile tõstetud viie Eesti kooli hulgas, mis on
+alati aktiivselt ja tulemuslikult võistlustel osalenud, oli ka meie kool.</p>
+
+<p class=MsoBodyText3 style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><b>Rahvusvahelise matemaatika olümpiaadi valikvõistlusel</b> olid
+kolm parimat treffneristid: I koht Juhan Aru, II koht Laur Tooming ja III koht
+Kaie Kubjas. Kõik kolm osalevad Eesti võistkonna koosseisus, kuhu kuuluvad ka
+Jaan Vajakas Tallinna Reaalkoolist, Aleksander Mattai Tallinna Tõnismäe
+Reaalkoolist ja Jekaterina Prostakova Narva Pähklimäe Gümnaasiumist, 6.-18.
+juulini toimuval lõppvõistlusel Ateenas.</p>
+
+<h1>Teated</h1>
+
+<p class=MsoNormal style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>Teisipäeval, 25. mail möödub <b>seitse aastat Hugo Treffneri
+mälestussamba avamisest Ülejõe pargis</b>. Sündmuse tähistamisega seoses
+oodatakse kõiki ÕOV liikmeid 25. mail pärast 8. tundi kooli peaukse juurde, et
+ühiselt minna Hugot pesema ja ÕOV tegevusaastat piknikuga lõpetama.</p>
+
+<p class=MsoNormal style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>26. mail kella 15.30 - 18.30-ni on kõigil huvilistel võimalus
+kooli aulas lähemalt teha tutvust <b><i>footbag</i>’iga</b> - vaadata
+demonstratsiooni ja ise katsetada. <span style='color:black'>Lähemalt <a
+href="http://www.footbag.ee/"><span style='color:black'>www.footbag.ee</span></a></span>.</p>
+
+<p class=MsoBodyText3 style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><b>Kolmanda korra arvestuste avalduste</b> esitamise viimane päev
+on kolmapäev, 26.mai.</p>
+
+<p class=MsoBodyText3>Reedel, 28.mail kell 14.00 toimub <b>„miniõppenõukogu“</b>
+(osalevad kooli juhtkond ja kõik klassijuhatajad), kus otsustatakse õpilaste
+kolmanda korra arvestustele lubamine.</p>
+
+<p class=MsoBodyText3 style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>Neljapäeval, 27.mail toimuvad <b>karjääriplaneerimise tunnid</b>
+Tartumaa Tööhõiveametis (Riia mnt 35) ja reedel, 28.mail Tartu Maakonna
+kriminaalhooldusosakonnas (Kalevi 1). Algus kell 14.15. Tulla võivad kõik
+huvilised.</p>
+
+<pre style='margin-left:0cm;text-indent:0cm'><span lang=EN-GB style='font-size:
+12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+lang=EN-GB style='font-size:12.0pt;font-family:"Times New Roman"'>Neljapäeval,   27. mail  kell  18.00 esitleb <b>filmiklubi</b> auditooriumis Kaljo Kiisa 1968.  aasta  filmi  “Hullumeelsus”. </span></pre>
+
+<p class=MsoBodyText3 style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>28. maiks palub huvijuht U. Saar 10. ja 11. klassidel tagastada
+kooliaasta üritusi puudutavad küsitluslehed.</p>
+
+<p class=MsoBodyText3 style='margin-left:0cm;text-indent:0cm'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>Sooja toitu saab tellida   kooli sööklast kuni 4. juunini.</p>
+
+<p class=MsoBodyText3><b>Söökla on avatud:</b></p>
+
+<p class=MsoBodyText3>27. maist kuni 4. juunini 10.00-14.00</p>
+
+<p class=MsoBodyText3>7.-16. juunini 10.00 - 13.00.</p>
+
+<p class=MsoBodyText3>&nbsp;</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h1>&nbsp;</h1>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+</tr>
+</table></center>
+
+</body>
+
+</html>

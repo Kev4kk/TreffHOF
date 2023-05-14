@@ -1,0 +1,386 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+   <meta name="ProgId" content="Word.Document">
+   <meta name="Generator" content="Microsoft Word 10">
+   <meta name="Originator" content="Microsoft Word 10">
+   <meta name="GENERATOR" content="Mozilla/4.79 [en] (Windows NT 5.0; U) [Netscape]">
+   <title>HTG INFO</title>
+<link rel=File-List href="2602_failid/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Inge</o:Author>
+  <o:Template>HTGinfo.dot</o:Template>
+  <o:LastAuthor>kasutaja</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>92</o:TotalTime>
+  <o:LastPrinted>2003-03-24T07:01:00Z</o:LastPrinted>
+  <o:Created>2003-04-01T09:14:00Z</o:Created>
+  <o:LastSaved>2003-04-01T09:14:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>447</o:Words>
+  <o:Characters>2599</o:Characters>
+  <o:Company>Hugo Treffneri Gümnaasium</o:Company>
+  <o:Lines>21</o:Lines>
+  <o:Paragraphs>6</o:Paragraphs>
+  <o:CharactersWithSpaces>3040</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Haettenschweiler;
+	panose-1:2 11 7 6 4 9 2 6 2 4;
+	mso-font-charset:186;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;
+	mso-font-charset:186;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:11.35pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+h1
+	{mso-style-next:Normaallaad;
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Haettenschweiler;
+	mso-font-kerning:14.0pt;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:11.35pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:21.0cm 842.0pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:207959980;
+	mso-list-type:simple;
+	mso-list-template-ids:67698689;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:668286415;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-696752886 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:1546407207;
+	mso-list-type:hybrid;
+	mso-list-template-ids:354174084 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:Normaaltabel;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]-->
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]-->
+<!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang="ET" style="tab-interval:36.0pt">
+
+<div class=Section1>&nbsp;
+<center><table WIDTH="80%" >
+<tr>
+<td>
+<div class=Section1>
+<div class="MsoNormal" style="text-indent:0cm"><span 
+style='font-size:36.0pt;mso-bidi-font-size:10.0pt;font-family:"Bookman Old Style"'><b>HTG
+INFO</b><o:p></o:p></span></div>
+
+<div align=right><span style='font-family:
+Arial;mso-bidi-font-family:"Times New Roman"'>Nr.
+26<o:p></o:p></span>
+<p><span style='font-family:
+Arial;mso-bidi-font-family:"Times New Roman"'>24.
+märts 2003<o:p></o:p></span></div>
+
+<h1>
+<o:p>&nbsp;</o:p></h1>
+
+<h1>
+Juhtkond tänab<span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'><o:p></o:p></span></h1>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>õpetaja&nbsp;<span class=SpellE><b>Age</span><span 
+class=SpellE>Salot</span></b>ja
+<b>Ülle&nbsp;<span class=SpellE>Hüvat</span></b> ning <b>11e klassi õpilasi<span style='mso-spacerun:yes'></span></b>emakeelepäeva
+ettevalmistamise ja läbiviimise eest</div>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>kõiki
+inglise keele õpetajaid</b> ülelinnalise inglisekeelse kõnevõistluse korraldamise
+eest ning <b>Külli Rootsit</b> õpilaste eduka ettevalmistamise eest&nbsp;</div>
+
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>õpetaja
+<b>Helgi&nbsp;<span class=SpellE>Teringut</span></b>
+Mann&nbsp;<span class=SpellE>Lintropi</span> (12d) juhendamise eest, kes
+pälvis vabariiklikul rahvaluule-olümpiaadil III koha&nbsp;
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>õpetaja&nbsp;<span class=SpellE><b>Age</span><span 
+class=SpellE>Salot</span></b>
+kooli ajalehe "<span class=SpellE>Miilang</span>" toimetuse tegevuse juhatamise
+eest: üle-eestilisel koolilehtede konkursil hinnati "<span class=SpellE>Miilangu</span>"
+kujundus III koha vääriliseks ning portreelugude arvestuses saavutas esikoha
+Mart&nbsp;<span 
+class=SpellE>Zirnask</span> (12e) kirjutisega õpetaja
+Märt Kasest.&nbsp;
+
+<p class="MsoBodyTextIndent"><span style='font-size:14.0pt;mso-bidi-font-size:
+10.0pt;font-family:Haettenschweiler;mso-font-kerning:14.0pt'>Õnnitleme<o:p></o:p></span>
+
+<p class="MsoBodyTextIndent">kõiki<span style='mso-spacerun:yes'></span>konkurssidel
+edukalt esinenud õpilasi!
+<h1>
+Eelmisel nädalal</h1>
+
+<div class="MsoNormal">14. ja 15. märtsil Tartus peetud <b>hariduskonverentsil</b>
+esines direktor Ott Ojaveer ettekandega "HTG õpetajate kompetentsusmudel
+ja täiendkoolitusprogramm".</div>
+
+<h1>
+Sport</h1>
+
+<div class="MsoNormal"><b>Klassidevahelisel saalihokiturniiril neidudele</b>
+saavutasid I koha 11b klassi tüdrukud<span style='mso-spacerun:yes'></span><span 
+class=SpellE>Raili</span>
+Kala,&nbsp;<span class=SpellE>Kertu</span><span 
+class=SpellE>Säärits</span>,
+Teele Raudsepp, Imbi Haljasorg ja Inge Kuld. II koha pälvis 11a klass (Helen
+Maalinn, Triin Sikk, Piret Jaani, Karin&nbsp;<span 
+class=SpellE>Paloots</span>,&nbsp;<span class=SpellE>Geete</span>
+Haljas,&nbsp;<span 
+class=SpellE>Maarit</span> Kärp,&nbsp;<span class=SpellE>Piibe</span>
+Lehtsaar); III koht kuulus 10c klassi neidudele: Maarja&nbsp;<span class=SpellE>Orasson</span>,
+Liina&nbsp;<span class=SpellE>Remm</span>, Kadri Ligi,&nbsp;<span class=SpellE>Kaili</span>
+Sarapuu, Tiina Kasu.<o:p></o:p></div>
+
+<h1>
+Teated</h1>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>25.
+märtsil<b> peavad osakonnajuhatajad nõu </b>10ndatesse klassidesse sisseastumiskatsete
+korraldamise<b> </b>ja õpilaste vastuvõtu põhimõtete üle.</div>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>25.
+märtsil koguneb <b>kooli hoolekogu. </b>Õppealajuhataja Aime Punga esineb
+ettekandega 10. klasside õppeedukusest.&nbsp;</div>
+
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>27.
+märtsil kell 15.45 on õpetajate toas <b>õppenõukogu</b>. Päevakorras õpilaste
+vastuvõtt 10ndatesse klassidesse.&nbsp;
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Neljapäeval,
+27. märtsil kell 18.00 esitleb <b>filmiklubi</b> auditooriumis USA lavastaja&nbsp;<span class=SpellE>Cameron</span><span 
+class=SpellE>Crowe’i</span>
+2001.a. draamat “<span class=SpellE>Vanilla</span><span 
+class=SpellE>Sky</span>
+- ava oma silmad”.&nbsp;
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>28.
+märtsil osalevad reaalharu 10ndate klasside õpilased rahvusvahelisel <b>matemaatika-olümpiaadil
+"Känguru 2003".</b>
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Vastuvõtukatsed
+10. klassidesse</b> toimuvad 29. märtsil ja 2. aprillil.&nbsp;
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Vabariiklikule
+geograafia-olümpiaadile</b> on HTGst kutsutud Erik&nbsp;<span class=SpellE>Jaaniso</span>
+ning Riho Taba.&nbsp;
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Filmitootja
+Ruut korraldab <b>üleriigilise filmiteemalise kirjandivõistluse </b>põhikoolide
+ja gümnaasiumide õpilastele teemal "Film - elu peegel" filmi "Vanad ja
+kobedad saavad jalad alla" põhjal. Võistluskirjandeid hinnatakse kahes
+vanuserühmas ning gümnaasiumi-õpilasi premeeritakse järgmiselt:&nbsp;
+
+<p class="MsoNormal">I koht 2000 krooni&nbsp;
+
+<p class="MsoNormal">II koht 1000 krooni&nbsp;
+
+<p class="MsoNormal">III koht 500 krooni&nbsp;
+
+<p class="MsoNormal">Mõlema vanuserühma 20 paremat saavad kingituseks filmi
+"Vanad ja kobedad saavad jalad alla"&nbsp;<span class=SpellE><i>soundtrack</i>i</span>plaadi.&nbsp;
+
+<p class="MsoNormal">Võistlustööd saata hiljemalt 30. aprilliks<span 
+style='mso-spacerun:yes'></span>2003
+märgusõnaga "Kirjandivõistlus" aadressil Ruut,&nbsp;<span class=SpellE>Faehlmanni</span>
+10, 10125 Tallinn. Igal tööl peab olema märgitud autori nimi, kool ja klass
+ning õpilase tööd juhendanud õpetaja nimi. Võistluse tulemused kuulutatakse
+välja 15. mail 2003.&nbsp;
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Viimastel
+nädalatel on lõhutud kaks laes asuvat tuletõrje-signalisatsiooni andurit.
+Juhtkond soovib kooli raha kulutada uute õppevahendite soetamisele, mitte
+investeerida lõhutud asjade parandamisse. Hoidkem kooli vara!&nbsp;
+
+<p class="MsoNormal"><o:p></o:p>
+<h1>
+<o:p>&nbsp;</o:p></h1>
+
+<div class="MsoNormal"><o:p></o:p></div>
+</div>
+</td>
+</tr>
+</table></center>
+</div>
+
+</body>
+</html>

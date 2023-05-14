@@ -3,7 +3,7 @@ import requests
 
 f = open("students.txt", "w")
 
-for aasta in range(2010, 2023):
+for aasta in range(2004, 2023):
     print("parseing ", aasta)
     url = f'https://www.htg.tartu.ee/d7/lennud_d.php?aasta={aasta}'
 

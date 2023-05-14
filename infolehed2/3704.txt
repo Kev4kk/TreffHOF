@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+                        <!--HeviEst-->
+<head>
+<meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/eileitud" />
+<link rel="shortlink" href="/node/240" />
+<meta name="viewport" content="width=device-width" />
+<link rel="shortcut icon" href="https://www.htg.tartu.ee/sites/default/files/HTG_logo_0_0.png" type="image/png" />
+<title>LehekĆ¼lge ei leitud | Hugo Treffneri GĆ¼mnaasium</title>
+<link type="text/css" rel="stylesheet" href="https://www.htg.tartu.ee/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.htg.tartu.ee/sites/default/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.htg.tartu.ee/sites/default/files/css/css_UpXxMkBEWb6wvfM6dn72MdMb8v7ZqxAUOmOkBwBQsiU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.htg.tartu.ee/sites/default/files/css/css_GAGU2rkb9oNKxeJ4TSFiY5UFfpvnz6qZvvxSAW2vPUI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.htg.tartu.ee/sites/default/files/css/css_S-vJomt8BM9WSDWChd5Au5diXDZf4Kr1tIY_oi_nYrE.css" media="all" />
+<script type="text/javascript" src="https://www.htg.tartu.ee/sites/default/files/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://www.htg.tartu.ee/sites/default/files/js/js_Vi5_wVerqxGJrxaGffbTgdEZ4U_4t0NJ2MQ2mOcgSNY.js"></script>
+<script type="text/javascript" src="https://www.htg.tartu.ee/sites/default/files/js/js_oiYWhk712ZMb_9f1BVYTeIWrPqpHLyJd-PIYBQcp97k.js"></script>
+<script type="text/javascript" src="https://www.htg.tartu.ee/sites/default/files/js/js_ATUSofLQjNuhe_WvgxXyq2JX8fbtOIuL58LGXYgGbrE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-74137706-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.htg.tartu.ee/sites/default/files/js/js_8IpVIs2D5U426dRVcKcRXh2YULezs3_EyrWzhuURr2A.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"software","theme_token":"Y9Zu1IIlOGFKF1dIfLngpedcMhvqFqMCp00GHXe2fmU","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/collapsiblock\/collapsiblock.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"public:\/\/languages\/et_QOcRo5g0RcnyOGGzSLov0YYhGhVC_kXagsfRNYRmOwY.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/iframe\/iframe.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/software_responsive_theme\/js\/custom.js":1,"sites\/all\/themes\/software_responsive_theme\/js\/jquery.bgswitcher.js":1,"sites\/all\/themes\/software_responsive_theme\/js\/header.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/collapsiblock\/collapsiblock.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/themes\/software_responsive_theme\/css\/font-awesome.css":1,"sites\/all\/themes\/software_responsive_theme\/css\/style.css":1,"sites\/all\/themes\/software_responsive_theme\/css\/media.css":1}},"collapsiblock":{"blocks":{"block-block-14":"1","block-block-5":"1","block-block-21":"1","block-block-22":"1","block-block-15":"1","block-block-9":"1","block-block-11":"1","block-block-17":"1","block-block-8":"1","block-block-13":"1","block-block-12":"1","block-locale-language":"1","block-block-20":"1","block-block-18":"1","block-menu-menu-kool":"1","block-views-frontpage-block-3":"1","block-system-main":"1","block-views-frontpage-block-1":"2","block-views-esileht-test-block":"1","block-block-24":"1","block-block-1":"1","block-block-23":"1","block-block-3":"1","block-block-16":"1","block-views-infoleht-arhiiv-block-1":"1","block-views-konkurss-block":"3","block-print-ui-print-links":"1","block-views-archive-block":"1","block-user-login":"1","block-block-7":"1","block-views--exp-uudised-vuudised-1":"1","block-views-uudised-block-1":"1","block-views-frontpage-block-2":"3","block-views-uudised-block-2":"3","block-views-dd08dc808cfec369d59a38e01bcdfc48":"3","block-search-form":"1"},"default_state":1,"slide_type":1,"slide_speed":200,"block_title":":header:first","block":"section.block","block_content":"div.content"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"googleCSE":{"cx":"016949751149157755221:fgr-poh1iqy","resultsWidth":600,"domain":"www.google.ee","showWaterMark":1},"viewsSlideshow":{"esileht_slideshow-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_esileht_slideshow-block_1":{"num_divs":4,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"esileht_slideshow-block_1","effect":"scrollRight","transition_advanced":1,"timeout":20000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/kinfoleht\/2004\/3704.html":true}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-240 node-type-page">
+    
+
+<div id="header_wrapper">
+
+  <div class="user-menu-wrapper clearfix">
+    <div class="full-wrap">
+          </div>
+  </div>
+	
+  <div id="inner_header_wrapper">
+
+    <header id="header" role="banner">
+
+      <div class="top_left">
+
+                  <div id="logo">
+            <a href="/" title="Avaleht">
+              <img src="https://www.htg.tartu.ee/sites/default/files/Hugo-Treffneri-G%C3%BCmnaasium_2.png"/>
+            </a>
+          </div>
+        
+        <h1 id="site-title">
+          <a href="/" title="Avaleht"></a>
+          <div id="site-description"></div>
+        </h1>
+      </div>
+
+      <div class="top_right">
+        <!-- Search -->
+        <div class="region region-search">
+  <div id="block-block-14" class="block block-block">
+
+      
+  <div class="content">
+    <div class="rteright">
+	Ā Ā  <a href="http://www.htg.tartu.ee/en19/" target="_blank"><img alt="" src="/d/pildid/Ingliselipp.jpg" style="height:11px; width:20px" /></a>Ā <a href="/ru"><img alt="RU" src="https://www.htg.tartu.ee/sites/default/files/images/ru-flag2.png" style="width: 22px; height: 15px;" /></a>
+<div class="rteright">
+		Ā </div>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </div>
+    <div class="clear"></div>
+    </header>
+
+  </div>
+  
+	
+	<div class="region region-slideshow">
+  <div id="block-views-esileht-slideshow-block" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-esileht-slideshow view-id-esileht_slideshow view-display-id-block view-dom-id-b3cbe79fc39820e066935bbd683a16e6">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_esileht_slideshow-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_esileht_slideshow-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_esileht_slideshow-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-slideshow">        <div class="field-content"><img typeof="foaf:Image" src="https://www.htg.tartu.ee/sites/default/files/kevad21-2.jpg" width="1024" height="160" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_esileht_slideshow-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-slideshow">        <div class="field-content"><img typeof="foaf:Image" src="https://www.htg.tartu.ee/sites/default/files/pilt_koolist.png" width="1024" height="160" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_esileht_slideshow-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-slideshow">        <div class="field-content"><img typeof="foaf:Image" src="https://www.htg.tartu.ee/sites/default/files/htg%20vasakh.png" width="1024" height="160" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_esileht_slideshow-block_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-last views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-slideshow">        <div class="field-content"><img typeof="foaf:Image" src="https://www.htg.tartu.ee/sites/default/files/joul20mle.jpg" width="1024" height="160" alt="" /></div>  </div></div>
+</div>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+	
+  <div class="menu_wrapper">
+    <nav id="main-menu"  role="navigation">
+      <a class="nav-toggle" href="#">MenĆ¼Ć¼</a>
+      <div class="menu-navigation-container">
+        <ul class="menu"><li class="first expanded"><a href="/esileht">Esileht</a><ul class="menu"><li class="first last leaf"><a href="http://www.htg.tartu.ee/start.html" title="">Stardileht</a></li>
+</ul></li>
+<li class="expanded"><a href="/Koolimaja">Kool</a><ul class="menu"><li class="first leaf"><a href="/Koolimaja" title="">Koolimaja</a></li>
+<li class="leaf"><a href="/Kooli_ajalugu">Kooli ajalugu</a></li>
+<li class="leaf"><a href="/Traditsioonid">Traditsioonid</a></li>
+<li class="leaf"><a href="/%C3%95pilasreeglid">Kodukord</a></li>
+<li class="leaf"><a href="/%C3%95ppen%C3%B5ukogu">Ć•ppenĆµukogu</a></li>
+<li class="leaf"><a href="/Hoolekogu">Hoolekogu</a></li>
+<li class="leaf"><a href="/Teenused">Teenused</a></li>
+<li class="leaf"><a href="/Dokumendid">Dokumendid</a></li>
+<li class="last leaf"><a href="/Galerii">Galerii</a></li>
+</ul></li>
+<li class="expanded"><a href="/tunniplaan">Ć•ppetĆ¶Ć¶</a><ul class="menu"><li class="first leaf"><a href="/tunniplaan" title="">Tunniplaan</a></li>
+<li class="leaf"><a href="/Infolehed" title="">Infolehed</a></li>
+<li class="leaf"><a href="/onnetund" title="Ć•nnetunni avaldus">Ć•nnetund</a></li>
+<li class="leaf"><a href="/aastajaotus" title="">Ć•ppeaasta plaan</a></li>
+<li class="leaf"><a href="/oppekava">Ć•ppekava</a></li>
+<li class="leaf"><a href="/hindamisjuhend">Hindamisjuhend</a></li>
+<li class="leaf"><a href="/ainekavad">Ainekavad</a></li>
+<li class="leaf"><a href="/vabaaine">Vabaained</a></li>
+<li class="leaf"><a href="/huvitegevus">Huvitegevus</a></li>
+<li class="leaf"><a href="/projektid">Projektid</a></li>
+<li class="leaf"><a href="/koolilopetamine">Kooli lĆµpetamine</a></li>
+<li class="last leaf"><a href="/oppematerjalid">Ć•ppematerjalid</a></li>
+</ul></li>
+<li class="expanded"><a href="/%C3%95pilased">Koolipere</a><ul class="menu"><li class="first leaf"><a href="/%C3%95pilased">Ć•pilased</a></li>
+<li class="leaf"><a href="/opilase_info">Ć•pilase info</a></li>
+<li class="leaf"><a href="/%C3%95pilaskogu">Ć•pilaskogu</a></li>
+<li class="leaf"><a href="/tootajad">TĆ¶Ć¶tajad</a></li>
+<li class="leaf"><a href="/Klassijuhatajad">Klassijuhatajad</a></li>
+<li class="leaf"><a href="/Tunnustused">TĆ¶Ć¶tajate tunnustamised</a></li>
+<li class="leaf"><a href="/Juhtkond">Juhtkond</a></li>
+<li class="last leaf"><a href="/career">Vabad tĆ¶Ć¶kohad</a></li>
+</ul></li>
+<li class="expanded"><a href="/Koosolekud">Lapsevanemale</a><ul class="menu"><li class="first leaf"><a href="/Koosolekud" title="">Koosolekud</a></li>
+<li class="leaf"><a href="/stuudium">Stuudium</a></li>
+<li class="leaf"><a href="/aastajaotus">Ć•ppeaasta jaotus, vaheajad</a></li>
+<li class="leaf"><a href="/Toitlustus">Toitlustus</a></li>
+<li class="leaf"><a href="/Toitlustusinfo">Toitlustuse korraldus</a></li>
+<li class="leaf"><a href="/Klassijuhatajad" title="">Klassijuhatajad</a></li>
+<li class="last leaf"><a href="/opilase_info">Info Ćµpilasele</a></li>
+</ul></li>
+<li class="expanded"><a href="/vastuvotuinfo">Sisseastujale</a><ul class="menu"><li class="first leaf"><a href="/vastuvotuinfo" title="">VastuvĆµtuinfo</a></li>
+<li class="leaf"><a href="/sisseastujale">Kooli tutvustus</a></li>
+<li class="last leaf"><a href="/11ja12klassid">11. ja 12. klassid</a></li>
+</ul></li>
+<li class="expanded"><a href="/vilistlaskogu">Vilistlased</a><ul class="menu"><li class="first leaf"><a href="/vilistlaskogu" title="">Vilistlaskogu</a></li>
+<li class="leaf"><a href="/Lennud">Lennud</a></li>
+<li class="leaf"><a href="/Medalid">Medaliga lĆµpetanud</a></li>
+<li class="leaf"><a href="/Ol%C3%BCmpiaadid">OlĆ¼mpiaadide tulemused</a></li>
+<li class="last leaf"><a href="/vilistlastele">Ćritused vilistlastele</a></li>
+</ul></li>
+<li class="last expanded"><a href="/Kontakt">Kontakt</a><ul class="menu"><li class="first leaf"><a href="/Kontakt" title="">Kontakt</a></li>
+<li class="leaf"><a href="/Info">Info</a></li>
+<li class="last leaf"><a href="/Teenused" title="">Teenused</a></li>
+</ul></li>
+</ul>      </div>
+      <div class="clear"></div>
+    </nav><!-- end main-menu -->
+  </div>
+
+</div>
+
+
+  
+  <div id="container">
+    <div class="container-wrap">
+      <div class="content-sidebar-wrap">
+        <div id="content">
+                                 <section id="post-content" role="main">
+                                    <h1 class="page-title">LehekĆ¼lge ei leitud</h1>                                                            
+                              
+              
+              <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+                          <span property="dc:title" content="LehekĆ¼lge ei leitud" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>
+	Soovitud lehte sisestatud aadressiga ei leitud!</h2>
+<p>
+	The requested page could not be found.</p>
+<h1 class="rtecenter">
+	<a href="/esileht"><span style="color:#88A777;">Esilehele</span></a></h1>
+</div></div></div>  </div>
+
+      <footer>
+          </footer>
+  
+  <div class='uuendatud'> Uuendatud: 3/10/2022</div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-views-uudised-block-1" class="block block-views">
+
+        <h2 >Varasemad uudised</h2>
+    
+  <div class="content">
+    <div class="view view-uudised view-id-uudised view-display-id-block_1 view-dom-id-bb3882ea4e19186008c27604dca7dca5">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      <article id="node-1222" class="node node-uudised node-teaser clearfix" about="/node/1222" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/node/1222">Vilistlaskogu Ćµpetajapreemia</a></h2>
+            <span property="dc:title" content="Vilistlaskogu Ćµpetajapreemia" class="rdf-meta element-hidden"></span>  
+      
+          </header>
+  
+  <div class="content node-uudised">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>
+	<a href="https://www.htg.tartu.ee/sites/default/files/images/230414-TPluum.jpg"><img alt="" src="https://www.htg.tartu.ee/sites/default/files/images/230414-TPluumv.jpg" style="float: right; height: 234px; margin-left: 5px; margin-right: 5px; width: 350px;" /></a>Alates 2004. a. annab kooli vilistlaskogu vĆ¤lja Ćµpetajapreemiat, mis tavapĆ¤raselt antakse Ćµpetajale viimase koolikella aktusel.</p>
+<p>	2023. a. Ćµpetajapreemia, mille andis Ć¼le vilistlaskoguĀ aseesimees Juhani PĆ¼ttsepp, sai emakeele- ja kirjanduseĆµpetajaĀ <strong>Tiina Pluum</strong>. Palju Ćµnne!</p>
+</div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/1222" rel="tag" title="Vilistlaskogu Ćµpetajapreemia">Loe lĆ¤hemalt <span class="element-invisible">Vilistlaskogu Ćµpetajapreemia kohta</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+<div class='uuendatud'> Uuendatud: 15/05/2023</div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      <article id="node-1221" class="node node-uudised node-teaser clearfix" about="/node/1221" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/node/1221">SuurepĆ¤rased tulemused Ćµpilaste teadustĆ¶Ć¶de konkursil!</a></h2>
+            <span property="dc:title" content="SuurepĆ¤rased tulemused Ćµpilaste teadustĆ¶Ć¶de konkursil!" class="rdf-meta element-hidden"></span>  
+      
+          </header>
+  
+  <div class="content node-uudised">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>
+	Treffneri Ćµpilastel lĆ¤ks teadustĆ¶Ć¶de konkursi lĆµppvoorus vĆ¤ga hĆ¤sti. PĆ¤Ć¤sesime sinna lausa 11 tĆ¶Ć¶ga.</p>
+<p>
+	<strong>Leene PĆ¤rtel</strong> (12.c) pĆ¤lvis tĆ¶Ć¶ ā€˛Taimede elurikkus XX sajandi eesti maalikunstisā€ (juhendaja Ott Maidre) eest I preemia ja Ćµiguse esindada Eestit Euroopa Liidu noorte teadlaste konkursil. Leenele anti ka Keskkonnaministeeriumi eriauhind, Eesti Teaduste Akadeemia 1. auhind, Tartu Ćlikooli raamatukogu eriauhind ja Eesti Rahva Muuseumi eriauhind.</p>
+<p>
+	Eesti Teaduste Akadeemia pĆµhjenduse jĆ¤rgi lubas ā€˛Eesti kunstnike maalidel kujutatud taimeliikide taksonoomiline analĆ¼Ć¼s teha autoril huvitavaid Ć¼ldistusi nii elurikkuse kui ka Ć¼hiskonnas levinud vaadete ja ideoloogiate muutumisest 20. sajandi jooksul. VĆ¤ga originaalne tĆ¶Ć¶, kus on kombineerunud humanitaar-, sotsiaal- ja keskkonnateaduste erinevad aspektid.ā€</p>
+<p>
+	<a href="https://www.htg.tartu.ee/sites/default/files/images/230413-ttoodek2.jpg"><img alt="" src="https://www.htg.tartu.ee/sites/default/files/images/230413-ttoodek1.jpg" style="float: left; height: 399px; width: 300px; margin-left: 5px; margin-right: 5px;" /></a><strong>Kristiine Kaldmaa</strong> (12.b) sai tĆ¶Ć¶ ā€˛MatemaatikaĆ¼lesannete keelekasutuse ja tulemuste vaheline seos aastate 2014ā€“2021 riigieksamite nĆ¤itelā€ (juhendajad Julia Polikarpus, Kati Ain) eest Haridus- ja Teadusministeeriumi eriauhinna, Eesti Teaduste Akadeemia 2. auhinna ja Eesti Keele Instituudi eriauhinna.</p>
+<p>
+	<strong>Kea Rael Kukk</strong> (12.c) pĆ¤lvis tĆ¶Ć¶ ā€˛Aktiivsus- ja tĆ¤helepanuhĆ¤ire sĆ¼mptomid ning legaalsete stimulantide tarvitamineā€ (juhendajad Anett Pillmann, Kariina Laas) eest Sotsiaalministeeriumi eriauhinna, Tervise Arengu Instituudi eriauhinna ja Ćµiguse esindada Eestit London International Youth Science Forumā€™il 2023.</p>
+<p>
+	<strong>Marie Loog</strong> (12.c) sai tĆ¶Ć¶ ā€˛Hugo Treffneri GĆ¼mnaasiumi Ćµpilaste valuvaigistite tarbimisharjumused ning Ćµpilaste teadlikkus valuvaigistite tarbimise mĆµjustā€ (juhendaja Ott Maidre) eest Sotsiaalministeeriumi eriauhinna.</p>
+<p>
+	<strong>Kauri Ilves</strong> (12.c) pĆ¤lvis tĆ¶Ć¶ ā€˛Makoto Yukimura manga ā€˛Vinland Saga" ajalooline tĆ¤psusā€ (juhendaja Kristiina Punga) eest Eesti Kirjandusmuuseumi eriauhinna.</p>
+<p>
+	<strong>Johan VĆ¤rv</strong> (12.b) sai tĆ¶Ć¶ ā€˛Soome-ugri ainestik Tartu Ćlikooli eesti murrete ja sugulaskeelte arhiivisā€ (juhendajad Monika PiirimĆ¤e, Tuuli Tuisk) eest Eesti Keele Instituudi eriauhinna.</p>
+<p>
+	<strong>Veera Beljajeva</strong> (12.e) pĆ¤lvis tĆ¶Ć¶ ā€˛Priit Strandbergi lavastuse ā€˛Naiste koolā€ rollide analĆ¼Ć¼sā€ (juhendajad Monika PiirimĆ¤e, Karin Allik) eest Eesti Ajaloomuuseumi eriauhinna.</p>
+<p>
+	<strong>Holger Eric Hain</strong> (12.c) sai tĆ¶Ć¶ ā€˛Emataimeefekti olemasolu ja selle mĆµju hariliku odra taimede omavahelise konkurentsi intensiivsuseleā€ (juhendajad Saima Kaarna, Susanna Vain) eest Swiss Youth in Science eriauhinna ja Ćµiguse esindada Eestit International Wildlife Research Weekā€™il 2023.</p>
+<p>
+	KĆµikide lĆµppvoorus osalenud tĆ¶Ć¶de plakatitega on vĆµimalik tutvuda HTG aatriumis.</p>
+</div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/1221" rel="tag" title="SuurepĆ¤rased tulemused Ćµpilaste teadustĆ¶Ć¶de konkursil!">Loe lĆ¤hemalt <span class="element-invisible">SuurepĆ¤rased tulemused Ćµpilaste teadustĆ¶Ć¶de konkursil! kohta</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+<div class='uuendatud'> Uuendatud: 15/05/2023</div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      <article id="node-1207" class="node node-uudised node-teaser clearfix" about="/node/1207" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/node/1207">EV 105 aktus</a></h2>
+            <span property="dc:title" content="EV 105 aktus" class="rdf-meta element-hidden"></span>  
+      
+          </header>
+  
+  <div class="content node-uudised">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>
+	<a href="https://photos.app.goo.gl/Nxut7jVybC9cJUz87" target="_blank"><img alt="" src="https://www.htg.tartu.ee/sites/default/files/images/230223-ev105aktus.jpg" style="float: right; height: 300px; width: 300px;" /></a>23. veebruaril toimus Eesti Vabariigi 105. aastapĆ¤evale pĆ¼hendatud aktus.</p>
+<p>	AktusekĆµne pidas Eesti suursaadik Ukrainas Kaimo Kuusk (vilĀ 1994). Aktusel tĆ¤nati ja tunnustati 12. klasside Ćµpilasi, kelle esinemised olĆ¼mpiaadidel, ainekonkurssidel ja vĆµistlustel olnud tulemuslikud. TĆ¤nati ka Ćµpilasi juhendanud Ćµpetajaid. Aktuse muusikalise-tantsulise poole kujundasid segakoor Anima ja tantsuansambel Tantsutallad.Ā </p>
+<p>
+	Aktuse lĆµpuks ulatas Ćµpilaskogu president Anna Malena Kuris Ćµpilaste poolt Ā sĆ¼nnipĆ¤evalaulu saatel Ćµppealajuhataja Aime Pungale sĆ¼nnipĆ¤eva puhul lillesĆ¼lemi.</p>
+</div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/1207" rel="tag" title="EV 105 aktus">Loe lĆ¤hemalt <span class="element-invisible">EV 105 aktus kohta</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+<div class='uuendatud'> Uuendatud: 15/05/2023</div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      <article id="node-1205" class="node node-uudised node-teaser clearfix" about="/node/1205" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/node/1205">Suursaadiku kĆ¼lastus</a></h2>
+            <span property="dc:title" content="Suursaadiku kĆ¼lastus" class="rdf-meta element-hidden"></span>  
+      
+          </header>
+  
+  <div class="content node-uudised">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>
+	<a href="https://photos.app.goo.gl/E72pLH2acPpC9ajL9" target="_blank"><img alt="" src="https://www.htg.tartu.ee/sites/default/files/images/230222_UKsuursaadikv.jpg" style="float: right; height: 400px; width: 300px;" /></a>22. veebruaril 2023 kĆ¼lastas meie kooli <strong>Suurbritannia suursaadik Ross Allen</strong>, kes kohtus 10. ka 11. klasside Ćµpilastega, kellele ta rĆ¤Ć¤kis oma tĆ¶Ć¶st diplomaadina ning kelle kĆ¼simustele ka vastas.</p>
+<p></div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/1205" rel="tag" title="Suursaadiku kĆ¼lastus">Loe lĆ¤hemalt <span class="element-invisible">Suursaadiku kĆ¼lastus kohta</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+<div class='uuendatud'> Uuendatud: 15/05/2023</div>  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-previous first">&nbsp;</li>
+<li class="pager-current">1 of 5</li>
+<li class="pager-next last"><a href="/eileitud?destination=kinfoleht/2004/3704.html&amp;page=1">&gt;&gt;</a></li>
+</ul></div>  
+  
+      
+<div class="more-link">
+  <a href="/vuudised">
+      </a>
+</div>
+  
+      <div class="view-footer">
+      <div class="more-link">
+<a href="/Arhiiv/2021/Uudised">NĆ¤ita kĆµik 2021 </a><br>
+<a href="/Arhiiv/2020/Uudised">NĆ¤ita kĆµik 2020 </a><br>
+</div>    </div>
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+              
+               <div id="ulemine" class="clearfix">
+                  </div>
+            
+            </section> <!-- /#main -->
+        </div>
+          
+         
+      
+                  <aside id="sidebar-first" role="complementary">
+            <div class="region region-sidebar-first">
+  <div id="block-views-frontpage-block-2" class="block block-views">
+
+        <h2 >Uudised</h2>
+    
+  <div class="content">
+    <div class="view view-frontpage view-id-frontpage view-display-id-block_2 view-dom-id-1fc5ef95de62d090ab4c61b740318711">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-title-1">    <span class="views-label views-label-title-1">āˇ</span>    <strong class="field-content"><a href="/node/1232">KIMM 2023</a></strong>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </aside>  <!-- /#sidebar-first -->
+              
+        </div>
+
+                  <aside id="sidebar-second" role="complementary">
+            <div class="region region-sidebar-second">
+  <div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/kinfoleht/2004/3704.html" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Otsinguvorm</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Otsing </label>
+ <input title="Sisesta mĆ¤rksĆµnad, mida soovid otsida." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Otsing" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-PbVy6KzdLn5kuAC7rK1DcR5F_mBPfGtjrviuqofZBfA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-5" class="block block-block">
+
+      
+  <div class="content">
+    <h2>
+	Ā </h2>
+<h2>
+	<a href="http://www.htg.tartu.ee/start.html"><img alt="" src="/d/pildid/Lingi-pilt.png" style="float:left; height:23px; width:23px" /></a>Ā  LingidĀ <a href="https://mail.google.com/a/htg.tartu.ee"><img alt="" src="https://www.htg.tartu.ee/sites/default/files/images/gmail.png" style="width: 30px; height: 30px; float: right;" /></a></h2>
+<p>
+	<strong><a href="/Infolehed">HTG infolehed</a><br />
+	<a href="https://htg.ope.ee">STUUDIUM</a>Ā  &gt;<a href="/stuudium"><span style="color:#008000;">abiinfo</span></a>Ā <a href="/stuudium"><img alt="" src="/d/icons/infogrv.png" style="width: 16px; height: 16px;" /></a><br />
+	<a href="http://net.htg.tartu.ee/moodle/" target="_blank">Kooli Moodle</a></strong><br />
+	<strong><a href="/Tunniplaan">Tunniplaan</a><br />
+	<a href="http://www.htg.tartu.ee/miilang/" target="_blank">Koolileht <span style="font-size:14px;"><span style="font-family:comic sans ms,cursive;"><span src="url('/imgs/OptimusPrinceps.ttf') format('truetype')">Miilang</span></span></span></a><br />
+	<a href="https://www.htg.tartu.ee/artiklid_HH">Hariduse HĆ¤Ć¤l</a><br />
+	<a href="https://tartu.kooliraamatukogud.ee/index.asp?action=135&amp;lid=2" target="_blank">Veebiraamatukogu</a><br />
+	<a href="/Ć•nnetund">Ć•nnetunni info</a><br />
+	<a href="/Toitlustus">KoolisĆ¶Ć¶kla info</a><br />
+	<a href="/aastajaotus">Ć•ppeaasta jaotus, vaheajad</a></strong><br />
+	Ā </p>
+  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-3" class="block block-block">
+
+      
+  <div class="content">
+    <h2>
+	<a href="/kalender3/"><img alt="" src="/d/pildid/Kalender-pilt.png" style="height:25px; width:25px" /></a>Ā KalenderĀ Ā </h2>
+<div class="kalender">
+	<strong><a href="/kalender3">vaata kalendrit</a>Ā | <a class="abi" href="/Kalendrist&amp;addins=A">arhiiv</a> </strong></div>
+<script async="" src="https://info-htg.ope.ee/calendar.js?days=3&amp;hide-heading=1"></script>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </aside>  <!-- /#sidebar-first -->
+        
+        
+    </div>
+</div>
+
+<div id="footer">
+
+  <div id="footer_wrapper">
+     
+      <div id="footer-area" class="clearfix">
+                <div class="column"><div class="region region-footer-first">
+  <div id="block-block-7" class="block block-block">
+
+      
+  <div class="content">
+    <p>
+	<a href="http://www.facebook.com/HugoTreffneriGymnaasium" target="_blank"><img alt="" src="/d/pildid/facebook.png" style="height:16px; width:16px" />Ā <strong>HTG</strong></a><br />
+	<a href="https://www.facebook.com/groups/25884165988/?fref=ts" style="font-size: 13.3333339691162px; line-height: 23.1111106872559px;" target="_blank"><img alt="" src="/d/pildid/facebook.png" style="height:16px; width:16px" />Ā <strong>HTG kommuun</strong></a><br />
+	<strong>Ā  Ā  Ā Ā <a href="/KarjĆ¤Ć¤rinĆµustamine">KarjĆ¤Ć¤rinĆµustamine</a></strong><br />
+	<strong>Ā  Ā  Ā Ā <a href="/Ćlikool">KoostĆ¶Ć¶ Ć¼likoolidegaĀ </a></strong><br />
+	Ā </p>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+                        <div class="column"><div class="region region-footer-second">
+  <div id="block-block-8" class="block block-block">
+
+      
+  <div class="content">
+    <p class="rtecenter">
+	<a href="http://novaator.err.ee/" target="_blank"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/novaator16.jpg" style="width: 150px; height: 30px;" /></a><br />
+	<a href="http://www.cambridgeenglish.org/" target="_blank"><img alt="" src="/d/pildid/CAE-logo.jpg" style="width: 213px; height: 36px;" /></a><br />
+	<a href="/projektid" target="_blank"><img alt="" src="/sites/default/files/images/19erasmus_v.jpg" style="height: 42px; width: 200px;" /></a><br />
+	<strong>&gt;Ā <a href="/projektid">KĆµik kooliĀ projektid</a></strong></p>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+                        <div class="column"><div class="region region-footer-third">
+  <div id="block-block-12" class="block block-block">
+
+      
+  <div class="content">
+    <p>
+	<a href="https://maailmakool.ee/eesti-unesco-uhendkoolide-vorgustik/" target="_blank"><strong><img alt="" src="/d/pildid/Unesco_vorgustik_22.jpg" style="height: 100px; width: 200px;" /></strong></a><br />
+	<a href="http://www.humanrightsestonia.ee/haridus/inimoigused-haridussusteemis/inimoigusi-austavad-koolid/" target="_blank"><img alt="" src="/d/pildid/inimoigusi-austavad-koolid-logo-v.jpg" style="width: 150px; height: 68px;" /></a></p>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+                        <div class="column"><div class="region region-footer-forth">
+  <div id="block-block-1" class="block block-block">
+
+      
+  <div class="content">
+    <p>
+	<span style="color:#FFFFFF">Munga 12, Tartu 51007<a href="https://www.htg.tartu.ee/login"><img alt="" src="/d/pildid/authentication.png" style="float:right; height:10px; width:20px" /></a><br />
+	e-post </span><a href="mailto:kantselei@htg.tartu.ee"><span style="color:#FFFFFF">kantselei@htg.tartu.ee</span></a><br />
+	<span style="color:#FFFFFF">tel <a href="tel:+3727461715">+372 7461715</a></span></p>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+              </div>
+      </div>
+  
+  <div class="footer_credit">
+
+  <!-- Social Links -->
+        
+    <div id="copyright">
+      <p class="copyright">Copyright &copy, Hugo Treffneri GĆ¼mnaasium 2023</p>
+    </div>
+  </div>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63281053-1', 'auto');
+  ga('send', 'pageview');
+
+</script></div>
+
+
+
+
+  </body>
+</html>

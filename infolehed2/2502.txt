@@ -1,0 +1,643 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+   <meta name="ProgId" content="Word.Document">
+   <meta name="Generator" content="Microsoft Word 10">
+   <meta name="Originator" content="Microsoft Word 10">
+   <meta name="GENERATOR" content="Mozilla/4.79 [en] (Windows NT 5.0; U) [Netscape]">
+   <title>HTG INFO</title>
+<link rel=File-List href="2502_failid/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Inge</o:Author>
+  <o:Template>HTGinfo.dot</o:Template>
+  <o:LastAuthor>kasutaja</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>49</o:TotalTime>
+  <o:LastPrinted>2003-03-10T07:20:00Z</o:LastPrinted>
+  <o:Created>2003-04-01T09:16:00Z</o:Created>
+  <o:LastSaved>2003-04-01T09:16:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>704</o:Words>
+  <o:Characters>4084</o:Characters>
+  <o:Company>Hugo Treffneri Gümnaasium</o:Company>
+  <o:Lines>34</o:Lines>
+  <o:Paragraphs>9</o:Paragraphs>
+  <o:CharactersWithSpaces>4779</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;
+	mso-font-charset:186;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:Haettenschweiler;
+	panose-1:2 11 7 6 4 9 2 6 2 4;
+	mso-font-charset:186;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:11.35pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+h1
+	{mso-style-next:Normaallaad;
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Haettenschweiler;
+	mso-font-kerning:14.0pt;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:11.35pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.MsoBodyTextIndent2, li.MsoBodyTextIndent2, div.MsoBodyTextIndent2
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:11.35pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;
+	text-decoration:underline;
+	text-underline:single;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:21.0cm 842.0pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:155925236;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-816788170 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:207959980;
+	mso-list-type:simple;
+	mso-list-template-ids:67698689;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:449979089;
+	mso-list-type:hybrid;
+	mso-list-template-ids:455615842 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:479805866;
+	mso-list-type:hybrid;
+	mso-list-template-ids:455615842 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l4
+	{mso-list-id:532497209;
+	mso-list-type:hybrid;
+	mso-list-template-ids:455615842 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l5
+	{mso-list-id:852114801;
+	mso-list-type:simple;
+	mso-list-template-ids:134807567;}
+@list l5:level1
+	{mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l6
+	{mso-list-id:1208755986;
+	mso-list-type:hybrid;
+	mso-list-template-ids:455615842 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l7
+	{mso-list-id:1268659149;
+	mso-list-type:hybrid;
+	mso-list-template-ids:455615842 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l7:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l8
+	{mso-list-id:1388993125;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1745923666 946904566 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l8:level1
+	{mso-level-tab-stop:33.75pt;
+	mso-level-number-position:left;
+	margin-left:33.75pt;
+	text-indent:-30.75pt;}
+@list l9
+	{mso-list-id:1406101043;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-5200482 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l9:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:Normaaltabel;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]-->
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]-->
+<!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body link="#0000FF" vlink="#800080" lang="ET" style="tab-interval:36.0pt">
+
+<div class=Section1>
+<div class="MsoNormal"></div>&nbsp;
+
+<center><table COLS=1 WIDTH="80%" >
+<tr>
+<td>
+<div class=Section1>
+<div class="MsoNormal" style="text-indent:0cm"><span 
+style='font-size:36.0pt;mso-bidi-font-size:10.0pt;font-family:"Bookman Old Style"'><b>HTG
+INFO</b><o:p></o:p></span></div>
+
+<div align=right>
+<p><span style='font-family:
+Arial;mso-bidi-font-family:"Times New Roman"'>Nr.
+25<o:p></o:p></span>
+<p><span style='font-family:
+Arial;mso-bidi-font-family:"Times New Roman"'>10.
+märts 2003<o:p></o:p></span></div>
+
+<h1>
+<o:p>&nbsp;</o:p></h1>
+
+<h1>
+Juhtkond tänab</h1>
+
+<div class="MsoNormal">Tarmo&nbsp;<span class=SpellE>Ainsaart</span>,&nbsp;<span 
+class=SpellE>Heivo</span><span class=SpellE>Kikkatalot</span>,
+Kristiina&nbsp;<span 
+class=SpellE>Pungat</span>,&nbsp;<span class=SpellE>Harry</span>
+Seppa ja osalenud õpilasi Eesti ja HTG tutvustamise eest videokonverentsil.</div>
+
+<h1>
+Õppetöö</h1>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l9 level1 lfo5;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Õpetaja
+E. Kase tundide asendus</b> 14.03</div>
+
+
+<p class="MsoNormal">1.-2. tund <b>12b<span style='mso-spacerun:yes'></span><span class=SpellE></b>keh.</span>
+kasv.
+
+<p class="MsoNormal">3.-4. tund <b>12d<span style='mso-spacerun:yes'></span></b>M.
+Hommik - 144
+
+<p class="MsoNormal">5.-6. tund <b>10e<span style='mso-spacerun:yes'></span></b>Ü.&nbsp;<span class=SpellE>Seevri</span>
+- 227
+
+<p class="MsoNormal">1.-2. tund <b>11a<span style='mso-spacerun:yes'></span></b>E.&nbsp;<span class=SpellE>Paabo</span>
+144
+
+<p class="MsoNormal">3.-4. tund <b>10e<span style='mso-spacerun:yes'></span></b>Ü.
+Puusepp 227
+
+<p class="MsoNormal"><b>11a</b> kehalise kasvatuse tund on<span 
+style='mso-spacerun:yes'></span>teisipäeval
+3.-4. tund.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l9 level1 lfo5;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>13.
+märtsil toimuvad õpetajate toas <b>aineõpetajate nõupidamised</b>:
+
+<p class="MsoNormal">kell<span style='mso-spacerun:yes'></span>14.00 -
+10. klassid
+
+<p class="MsoNormal">kell 15.00 - 11. klassid
+
+<p class="MsoNormal">kel 16.00 - 12. klassid.
+<h1>
+Olümpiaadid</h1>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>1.
+märtsil peetud <b>vabariiklikul programmeerimisolümpiaadil<span class=SpellE></b>saavu-tasid</span>
+algajate rühmas <u>Juhan Aru</u> IV ja&nbsp;<span class=SpellE><u>Aigar</span>
+Vaigu</u> V koha, <u>Mihkel Pajusalu</u> oli 26 võistleja seas üheksas.&nbsp;</div>
+
+
+<p class="MsoNormal"><span class=SpellE>Edasijõdnute</span> rühmas pälvis
+esikoha 12b klassi õpilane <u>Mihkel&nbsp;<span class=SpellE>Kree<span style='text-decoration:
+none;text-underline:none'>.</u></span></span>
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Bioloogia
+vabariiklikule&nbsp;<span class=SpellE>olüm-piaadile</span></b> pääsesid
+HTGst <u>Marko&nbsp;<span class=SpellE>Malvik</span></u> (12c), <u>Mihkel
+Pajusalu</u> (10b), <u>Külli Rips</u> (11c) ja&nbsp;<span class=SpellE><u>Hanna</span><span class=SpellE>Hõrak</span></u>
+10c.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Füüsika
+vabariiklikule olümpiaadile</b> on HTGst kutsutud <u>Mihkel&nbsp;<span class=SpellE>Kree</span></u>
+(12b),&nbsp;<span 
+class=SpellE><u>Aigar</span> Vaigu</u> (12b), <u>Riho
+Taba</u> (11a), <u>Mihkel Pajusalu</u> (10b), <u>Erik&nbsp;<span class=SpellE>Jaaniso</span></u>
+(10a) ja <u>Martin Lind </u>(10a).
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>8.
+märtsil toimunud <b>vabariikliku matemaatikaolümpiaadi </b>tulemused:
+
+<p class="MsoNormal" style="margin-left:11.35pt;text-indent:0cm"><u>10.
+klassid</u><o:p></o:p>
+
+<p class="MsoNormal" style="margin-left:11.35pt;text-indent:0cm">1. Juhan
+Aru<span 
+style='mso-tab-count:1'></span>I auhind
+
+<p class="MsoNormal" style="margin-left:11.35pt;text-indent:0cm">2. Erik&nbsp;<span 
+class=SpellE>Jaaniso</span><span style='mso-tab-count:1'></span>II
+auhind
+
+<p class="MsoNormal" style="margin-left:11.35pt;text-indent:0cm"><u>11.
+klassid</u><o:p></o:p>
+
+<p class="MsoNormal" style="margin-left:11.35pt;text-indent:0cm">2. Margus&nbsp;<span 
+class=SpellE>Maantoa</span><span style='mso-tab-count:1'></span>II
+auhind
+
+<p class="MsoNormal" style="margin-left:11.35pt;text-indent:0cm">5. Riho
+Taba<span 
+style='mso-tab-count:1'></span>III auhind
+
+<p class="MsoNormal" style="margin-left:11.35pt;text-indent:0cm">7.&nbsp;<span 
+class=SpellE>Kaie</span>
+Kubjas<span style='mso-tab-count:1'></span>III auhind
+
+<p class="MsoNormal" style="margin-left:11.35pt;text-indent:0cm">9. Jaan
+Aru
+
+<p class="MsoNormal" style="margin-left:11.35pt;text-indent:0cm"><u>12.
+klassid</u><o:p></o:p>
+
+<p class="MsoNormal" style="margin-left:11.35pt;text-indent:0cm">4. Mihkel&nbsp;<span 
+class=SpellE>Kree</span><span style='mso-tab-count:1'></span>II
+auhind
+
+<p class="MsoNormal" style="margin-left:11.35pt;text-indent:0cm">Maikuus
+toimub IMO 2003 valik-võistlus, kus osaleb vabariigist 24 õpilast. HTGst
+on kutsutud Mihkel&nbsp;<span class=SpellE>Kree</span>, Margus&nbsp;<span class=SpellE>Maantoa</span>,<span class=SpellE>Kaie</span>
+Kubjas, Riho Taba, Juhan Aru ja Erik&nbsp;<span 
+class=SpellE>Jaaniso.</span>
+
+<p class="MsoNormal"><b>Vabandame!</b><o:p></o:p>
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo4;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><u>Riho
+Taba</u> sai geograafia linnavoorus 3.-4. koha.
+
+<p class="MsoNormal"><b>Matemaatika vabariiklikule</b> olümpiaadile<span 
+style='mso-spacerun:yes'></span>kutsuti
+<u>Mihkel&nbsp;<span class=SpellE>Langebraun</span>,
+</u>mitte <u>Mihkel
+Pajusalu</u>.
+<h1>
+Eelmisel nädalal</h1>
+
+<div class="MsoNormal">Pühapäeval, 2. märtsil toimus<span 
+style='mso-spacerun:yes'></span><b>videokonverents<span 
+style='mso-spacerun:yes'></span>Euroopa
+Liidu ja EL kandidaatriike esindavate koolide ning haridusministrite osavõtul</b>.
+Eestit esindasid HTG õpilased. Iga konverentsil osalenud riik tutvustas
+end 5minutilise slaidiprogrammiga, millele järgnes arutelu üldkultuurilistel
+ja poliitilistel teemadel. Eesmärk oli saada praktilisi kogemusi niivõrd
+laiaulatusliku interneti vahendusel toimuva konverentsi korraldamise kohta
+ning tutvuda koolide IKT hetkeseisuga. Esitluse koostasid Kristiina Punga,&nbsp;<span class=SpellE>Heivo</span><span class=SpellE>Kikkatalo</span>
+ja Tarmo&nbsp;<span class=SpellE>Ainsaar</span><span class=SpellE>EENetist</span>,
+videokonverentsil suhtlesid õpetaja&nbsp;<span class=SpellE>Harry</span>
+Sepa juhtimisel&nbsp;<span class=SpellE>Maarit</span> Kärp, Indrek&nbsp;<span class=SpellE>Ulst</span>,
+Rein Raudjärv, Andres Kukk,&nbsp;<span class=SpellE>Tauri</span> Tuvikene
+ja&nbsp;<span 
+class=SpellE>Reedik</span> Pääsuke. Pilte video-konverentsist
+saab vaadata kooli koduleheküljel.</div>
+
+<h1>
+Õpilased</h1>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Tartu
+linna koolide inglise keele kõnevõistlusel</b> saavutasid HTG õpilased<span style='mso-spacerun:yes'></span><span class=SpellE>Darja</span><span class=SpellE>Lavõgina</span>
+(12c) ja Anneli Laumets (12a) vastavalt 4. ja 5.</div>
+
+
+<p class="MsoNormal" style="text-indent:0cm">koha.&nbsp;
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Juba
+neljandat aastat on meie kooli õpilastel olnud võimalus <b>Uppsalas praktiseerida
+rootsi keelt</b>. Sel aastal osaleb Uppsala Põhjala Ühingu kutsel suvisel
+keelekursusel Kristi Kääri (11a).
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><span class=SpellE><b>Sankt-Peterburgi</span>
+300. juubelile pühendatud&nbsp;<span class=SpellE>essekonkursi</span></b>
+tulemuste põhjal valiti HTG õpilane&nbsp;<span class=SpellE>Janika</span><span class=SpellE>Vider</span>
+9-liikmelisse Eesti kooliõpilaste esindusse, kes osaleb suvel rahvusvahelises<span style='mso-spacerun:yes'></span>noortelaagris.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>14.
+märtsil sõidavad 11a klassi õpilased ja õpetajad T.&nbsp;<span class=SpellE>Jürgenstein</span>,
+O.&nbsp;<span class=SpellE>Kornilova</span> ja<span style='mso-spacerun:yes'></span>H.
+Sepp <b>ekskursioonile&nbsp;<span 
+class=SpellE>Sankt-Peterburgi.</b></span>
+<h1>
+Teated</h1>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Esmaspäeval,
+10. märtsil kella 12.00 - 12.40 <b>esinevad aatriumis&nbsp;<span class=SpellE>Ten</span>
+Singi liikmed</b>.</div>
+
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>10.
+märtsist alustab saksa keele praktikandina HTGs tööd&nbsp;<span class=SpellE>Bettina</span><span class=SpellE>Treffenstädt.</span>
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Neljapäeval,
+13. märtsil kell 18.00 esitleb <b>filmiklubi</b> auditooriumis lavastaja&nbsp;<span class=SpellE>Jim</span><span class=SpellE>Jarmuschi</span>
+meistriteost “Dead man”. Peaosas&nbsp;<span class=SpellE>Johnny</span><span 
+class=SpellE>Depp.</span>
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Reedel,
+14. märtsil<span 
+style='mso-spacerun:yes'></span>kell 11. 20 tähistatakse
+auditooriumis <b>emakeele-päeva
+</b>kõnekoosolekuga.&nbsp;<span class=SpellE>Improvi-seeritud</span>
+lühikõnedega esinevad külalised, õpetajad ja õpilased. Kõnelejaid hinnatakse.
+Kõik on oodatud kaasa lööma.
+
+<p class="MsoNormal"><u>Tundide ajad reedel:</u>
+
+<p class="MsoNormal" style="margin-left:29.35pt;text-indent:-18.0pt;mso-list:
+l5 level1 lfo8;tab-stops:list 29.35pt"><![if !supportLists]><span 
+style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'></span></span><![endif]>8.00
+–8.45
+
+<p class="MsoNormal" style="margin-left:29.35pt;text-indent:-18.0pt;mso-list:
+l5 level1 lfo8;tab-stops:list 29.35pt"><![if !supportLists]><span 
+style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'></span></span><![endif]>8.55
+–9.40
+
+<p class="MsoNormal">3.–4.<span style='mso-spacerun:yes'></span>9.50 –
+11.20
+
+<p class="MsoBodyTextIndent2">11. 20 – 12. 20 söögivahetund, auditooriumis
+üritus
+
+<p class="MsoNormal">5.- 6. 12.20 – 13.50
+
+<p class="MsoNormal" style="text-indent:0cm;tab-stops:list 18.0pt"><span 
+style='mso-spacerun:yes'></span>7.
+–8. 14.00 – 15.30
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l6 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Õpilastel
+ja õpetajatel, kes soovivad <b>kooli raadio kaudu edasi anda koolielu puudutavaid
+teateid</b>, palutakse ühendust võtta 10d klassi õpilase Taavi Lepikuga
+(<span class=SpellE>mob</span> 055568197). Uudiseid edastatakse igal koolipäeval
+pärast teist tundi.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo10;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>UWC
+Eesti Ühing korraldab <b>konkursi UWC stipendiaatidele</b> kestusega september
+2003 - mai 2005. Stipendiumile Norra&nbsp;<span class=SpellE>Red</span><span class=SpellE>Cross</span><span class=SpellE>Nordic</span>
+UWCsse, Itaalia UWC&nbsp;<span class=SpellE>Adriaticusse</span> võivad
+kandideerida 10. või 11. klassi hea õppeedukuse, avatud suhtlemisstiiliga,
+tugeva enesedistsipliiniga õpilased. Õppetöö toimub inglise keeles, kuid
+keeleoskus ei ole valikukriteerium. Taotlusblankette saab kantseleist.
+Täpsem info <a href="http://www.hot.ee/uwcestonia">http://www.hot.ee/uwcestonia</a>.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo10;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Õpetajate
+täiendkoolitused</b> on 17. ja 18. märtsil kella 9.00 - 16.00ni.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo10;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Teisipäeval,
+18. märtsil avatakse Saksa Kultuuri Instituudis näitus<span style='mso-spacerun:yes'></span>“12
+kunstnikku sõpruslinnast Lüneburgist”.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo10;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Kevadine
+koolivaheaeg on 15. - 23. märtsini.</b><o:p></o:p>
+
+<p class="MsoNormal"><o:p></o:p>
+
+<p class="MsoNormal"><o:p></o:p>
+
+<p class="MsoNormal"><o:p></o:p>
+<h1>
+<o:p>&nbsp;</o:p></h1>
+
+<div class="MsoNormal"><o:p></o:p></div>
+</div>
+</td>
+</tr>
+</table></center>
+
+<div class="MsoNormal"></div>
+</div>
+
+</body>
+</html>

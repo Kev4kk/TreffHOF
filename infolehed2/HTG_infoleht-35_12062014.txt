@@ -1,0 +1,588 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+   <meta name="Generator" content="Microsoft Word 97">
+   <meta name="GENERATOR" content="Mozilla/4.8 [en] (WinNT; U) [Netscape]">
+   <title>Juhtkond tänab</title>
+</head>
+<body link="#0000FF">
+
+<dir>&nbsp;
+<center><table COLS=1 WIDTH="80%" >
+<tr>
+<td><b><font face="Bookman Old Style"><font size=+4>HTG INFO</font></font></b>
+<div align=right>Nr 35
+<br>12. juuni 2014</div>
+<font face="Haettenschweiler"><font size=+1>Juhtkond tänab</font></font>
+<ul>
+<li>
+õpetaja Ülle Keerbergi õpilaste ettevalmistamise eest konkurssideks;</li>
+
+<li>
+õpetaja Age Salo ja Miilangu toimetust suurepäraste tulemuste eest üleriigilisel
+koolilehtede võistlusel;</li>
+
+<li>
+õpetaja Kristiina Pungat Imelise Ajaloo viktoriini korraldamise eest;</li>
+
+<li>
+kõiki näiteringide õpilasi ja juhendajaid Kauri Kaljusted ja Jan Teevetit
+kooliteatri õhtute korraldamise eest;</li>
+
+<li>
+õpilaskogu liikmeid Britt-Heleen Kandimaad, Laura Maria Kulli, Berit Mägi,
+Markus Kuslapit ning Kristo Pulleritsu, kes andsid H. Treffneri monumendile
+ausambapäeval värske ilme;</li>
+
+<li>
+direktori vastuvõtul esinenud Karl Allikveed, Eva Maria Shepelit, Armas
+Riivest, Kadri-Ann Sumerat, Alvin Meltsovi ja Lauriine Kalajast.</li>
+</ul>
+<font face="Haettenschweiler"><font size=+1>Tartu laulupeo kunstiline toimkond
+tänab</font></font>
+<ul>
+<li>
+Uve Saart ja tema tantsuõpilasi, kes aitasid läbi viia laulupeo proove
+ning kontserti.</li>
+</ul>
+<font face="Haettenschweiler"><font size=+1>TÜ Pedagogicum tänab</font></font>
+<ul>
+<li>
+Hugo Treffneri Gümnaasiumit panuse eest TÜ õpetajahariduse arendamisse.</li>
+</ul>
+<font face="Haettenschweiler"><font size=+1>Õppetöö</font></font>
+<ul>
+<li>
+V perioodi <b>kirjalikud järelarvestused</b> ja avalduse alusel õppeaasta
+jooksul ebaõnnestunud või sooritamata jäänud kirjalikud järelarvestused
+toimuvad <b>16.-18. juunini kell 8.30-10.00 auditooriumis (221)</b>. Järelarvestustele
+saab registreeruda kooli kodulehel igal päeval ühele arvestusele. Registreerumine
+lõpeb järelarvestusele eelneval päeval kell 15.00.</li>
+</ul>
+
+<ul><b>Järelarvestuste ajakava:</b>
+<p><u>esmaspäeval, 16. juunil&nbsp;</u>
+<ul>
+<li>
+eesti keel&nbsp;</li>
+
+<li>
+füüsika 1. ja 3. kursus&nbsp;</li>
+
+<li>
+matemaatika 2., 3., 4. ja 7. kursus</li>
+
+<li>
+muusika&nbsp;</li>
+</ul>
+<u>teisipäeval, 17. juunil&nbsp;</u>
+<ul>
+<li>
+ajalugu</li>
+
+<li>
+geograafia&nbsp;</li>
+
+<li>
+inglise keel&nbsp;</li>
+
+<li>
+kirjandus</li>
+
+<li>
+matemaatika 5., 9. ja 10. kursus</li>
+
+<li>
+vene keel&nbsp;</li>
+</ul>
+<u>kolmapäeval, 18. juunil&nbsp;</u>
+<ul>
+<li>
+bioloogia&nbsp;</li>
+
+<li>
+füüsika 2., 5. ja 6. kursus</li>
+
+<li>
+keemia&nbsp;</li>
+
+<li>
+kirjandus</li>
+
+<li>
+saksa keel&nbsp;</li>
+</ul>
+
+<p><br><b>Aineõpetajatega tuleb</b> enne järelarvestusele registreerumist
+<b>kokku
+leppida</b>, kui&nbsp;
+<ul>
+<li>
+järelarvestuse ainet ja kursust ei ole näidatud ajakavas;</li>
+
+<li>
+mitme aine järelarvestuse ajad langevad kokku;</li>
+
+<li>
+soovitakse sooritada suulist järelarvestust.</li>
+</ul>
+Õpetajad teatavad järelarvestuste hinded kolmapäeval, 18. juunil kell 13.00.
+<br>&nbsp;
+<li>
+<b>Uurimis- ja praktiliste tööde</b> kaitsmise täpne ajakava on õpilastele
+tutvumiseks I korruse õpilasstendil. Kaitsmine toimub 16.-18. juunini ruumides
+141 ja 203.</li>
+
+<br>Uurimis- või praktilist tööd kaitsvatel õpilastel tuleb kohal olla
+<b>15
+minutit enne rühma</b> kaitsmise algust, et kõik ettekandega seotud näitmaterjalid
+(ka slaidid) valmis seada.
+<br>Kaitstavad tööd on kõigile tutvumiseks elektrooniliselt kättesaadavad
+Moodle’i keskkonnas ning paberkandjal raamatukogus.
+<br>Kaitsmiskomisjoni hinnang tehakse teatavaks, kui kõik vastava grupi
+tööd on kaitstud.</ul>
+
+<p><br><font face="Haettenschweiler"><font size=+1>Teated</font></font>
+<ul>
+<li>
+Nutikad treffneristid on 15. juunil oodatud osalema <b>veebipõhisel programmeerimis-võistlusel</b>
+Internet Problem Solving Contest. Võistelda saab individuaalselt või kuni
+kolmeliikmeliste võistkondadena. Ülesanded on väga erineval tasemel ja
+tuntud lõbusate ning ebaharilike probleemide poolest. Täpsem info ja registreerimine:
+ipsc.ksp.sk</li>
+
+<li>
+Laupäeval, 14. juunil toimub HTG võimlas V <b>Jaak Lõivukese</b> nimeline
+<b>mälestusturniir
+</b>saalihokis.</li>
+
+<li>
+Teisipäeval, 17. juunil kell 9.00-11.30 toimuvad ruumis 135 <b>vastuvõtukatsed
+</b>2014/2015.
+õppeaastal vabanevatele õpilaskohtadele <b>11. klassides</b>.</li>
+
+<li>
+<b>12. klasside lõpuaktus</b> toimub neljapäeval, 19.juunil kell 14.00
+Vanemuise kontserdimajas. Abiturientidel palutakse kohal olla kell 13.45.</li>
+
+<br>2014. aasta lõpetajate lõpuõhtu algab kell 20.00 koolimajas. Lõpupeo
+korraldab 11.e klass.
+<li>
+16.-27. juunini kell 9.00-13.00 võetakse ruumis 102 vastu 10. klassidesse
+astujate dokumente.</li>
+
+<li>
+<b>Õpikuid ja raamatuid saab</b> kooli raamatukogusse<b> tagastada</b>
+tööpäevadel kell 9.00-13.00 kuni 18. juunini. 12.-13. juunil on raamatukogu
+suletud.</li>
+
+<li>
+<b>Tantsuansambel</b> TANTSUTALLAD <b>sõidab Tallinnasse </b>XIX üldtantsupeole
+„Puudutus“ esmaspäeval, 30. juunil kell 7.45 Vanemuise alumisest parklast.
+Tantsijatega sõidab saatjana kaasa õpetaja Anneli Saarva.</li>
+
+<li>
+<b>Segakoor</b> ANIMA <b>sõidab Tallinnasse</b> XXVI üldlaulupeole „Aja
+puudutus. Puudutuse aeg“ reedel, 4. juulil kell 7.30 Vanemuise alumisest
+parklast. Lauljatega sõidavad saatjatena kaasa õpetajad Mall Matto ja Helgi
+Pähno.</li>
+</ul>
+<font face="Haettenschweiler"><font size=+1>Rahvusvahelised olümpiaadid</font></font>
+<ul>
+<li>
+Treffneristid on esindanud või esindavad sel õppeaastal Eestit mitmel rahvusvahelisel
+olümpiaadil:</li>
+
+<ul><u>Eesti-Soome maavõistlus füüsikas (aprill 2014 Eesti)</u>
+<br><b>Eva-Maria Tõnson</b> (10.a) diplom
+<br><b>Jonatan Kalmus</b> (10.b)
+<br><b>Hans Daniel Kaimre</b> (11.b)
+<br><b>Kaur Kristjuhan</b> (12.b)
+<br><b>Kaarel Kree</b> (12.b) diplom
+<p><u>EL loodusteaduste olümpiaad (aprill 2014 Kreeka)</u>
+<br><b>Maris Sala</b> (10.c) hõbe
+<p><u>pranglimise MM (mai 2014 Eesti)</u>
+<br><b>Getter Põru</b> (11.a)
+<br><b>Jakob Gill</b> (12.a)
+<p><u>rahvusvaheline lingvistikaolümpiaad (juuli 2014 Hiina)</u>
+<br><b>Liis Luude</b> (11.a)
+<p><u>Balti keemiaolümpiaad (aprill 2014 Läti)</u>
+<br><b>Raul Rinken</b> (11.b)
+<p><u>Balti informaatikaolümpiaad (aprill 2014 Leedu )</u>
+<br><b>Simmo Saan</b> (11.b)
+<br><b>Siim Sammul</b> (12.b)
+<p><u>rahvusvaheline informaatikaolümpiaad (juuli 2014 Taiwan)</u>
+<br><b>Simmo Saan</b> (11.b)
+<p><u>rahvusvaheline matemaatikaolümpiaad (juuli 2014 LAV)</u>
+<br><b>Simmo Saan</b> (11.b)
+<p><u>rahvusvaheline bioloogiaolümpiaad (juuli 2014 Indoneesia)</u>
+<br><b>Siim Kurvits</b> (12.c)
+<p><u>rahvusvaheline geograafiaolümpiaad (august 2014 Poola)</u>
+<br><b>Kristiine Aluvee</b> (12.c)
+<p><u>rahvusvaheline filosoofiaolümpiaad (mai 2014 Leedu)</u>
+<br><b>Oto Tuul (12.e)</b></ul>
+</ul>
+
+<p><br><font face="Haettenschweiler"><font size=+1>Võistlused</font></font>
+<ul>
+<li>
+Koolimeedia konkursil sai parima olemusloo kategoorias I koha Tiina Tubli
+(10.e) lugu “Katarsis sünnib meis endis, päästikuks ilu” ja II koha Reelika
+Jõgi (11.e) “Treffnerist, miks hilined?”.</li>
+
+<br>Parima eksperimendi kategoorias tunnistati III koha vääriliseks Reelika
+Jõgi artikkel “Ei oska rattaga sõita? Miilang õpetab!”.&nbsp;
+<br>Koolimeedia konkursi võitis HTG koolileht Miilang.
+<br>&nbsp;
+<li>
+Riias Väitlusakadeemias 30. maist 1. juunini peetud väitlusvõistlusel jõudis
+võistkond HTG B, kus osales treffnerist Carl-Martin Keerberg (10.d), turniiril
+finaali ja oli võistkondlikus arvestuses neljas (individuaalselt sai Carl-Martin
+Keerberg 19. koha).&nbsp;</li>
+
+<br>Võistkonna HTG A liige Maria Johanna Kull jõudis nii individuaalselt
+kui võistkondlikus arvestuses esikümnesse (mõlemas arvestuses üheksas koht).
+Kokku oli turniiril 44 võistkonda ja 88 kõnelejat erinevate maade kesk-
+ja ülikoolidest. Treffneri kooli esindasid võistlusel ka Liisi Voll ja
+Gertrud Metsa (võistkondlikult 23.koht, individuaalselt Gertrud 35. ning
+Liisi 41. koht).
+<br>&nbsp;
+<li>
+Maikuu Imelise Ajaloo viktoriini parimad võistkonnad olid</li>
+
+<ul>1. Lembe Kullamaa ja Ly Kuudeberg (11.d)
+<br>2. Karita Liivak ja Veiko Lillipuu (12.c)
+<br>3. Janar Bachmann ja Rando Ernits (10.c)
+<br>Kiitust väärivad kõik aasta jooksul osalenud õpilased! Viktoriinisari
+jätkub sügisel.</ul>
+</ul>
+
+<p><br><font face="Haettenschweiler"><font size=+1>Õpetajad</font></font>
+<ul>
+<li>
+Selle õppeaasta viimane õppenõukogu toimub kolmapäeval, 18. juunil kell
+15.00. Õppenõukogu päevakorras on 12. klasside lõpetamine.</li>
+
+<li>
+12. ja 13. juunil teevad õpetajad õppeaastast kokkuvõtteid Valgamaal Soontagal.</li>
+</ul>
+<font face="Haettenschweiler"><font size=+1>Õpilased</font></font>
+<ul>
+<li>
+10.a klass viibis klassieksursioonil Palupõhjal: kuulati loodusjutte, loendati
+nahkhiiri, abistati talgutöödega, sõideti kanuudega - kosutav puhkus väga
+toreda seltskonnaga oli kooliaastale ilusaks lõpuks.</li>
+
+<li>
+10.b klass veetis kolm toredat päeva linnulaulu, loodust ja päikest nautides
+Kauksi rannas.</li>
+
+<li>
+10.d klass lõpetas kooliaasta tegemised 8.-9 juunil kanuumatkaga Võhandu
+jõel. Lugude pajatamine ja laulud hoidsid lõkketuld päikesetõusuni.</li>
+
+<li>
+10.e klass käis 8.-9. juunil kanuumatkal Ahja jõel. Nauditi nii pilvi kui
+päikest, nii vihma kui äikest. Oli tore reis.</li>
+
+<li>
+12.e klass puhkas 8.-10. juunini Läänemaal Matsalu rahvuspargis kadakate,
+mereõhu ja liigirikka linnukoori kosutavas keskkonnas.</li>
+</ul>
+<font face="Haettenschweiler"><font size=+1>Sport</font></font>
+<ul>
+<li>
+Tartu noorte meistrivõistlustel kergejõustikus ületas Friedrich Krull (10.c)
+kooli vanima, kuuskümmend aastat ületamatuna püsinud kergejõustikurekordi
+PA kuulitõukes. Uued rekordinumbrid on 15.53.</li>
+
+<li>
+Rootsis toimunud Nordic Cupi korvpallivõistlustel saavutas Kristel Uiga
+(10.c) U18 võistkonna koosseisus III koha. Noormeeste võistkonda kuulus
+ka Jaagup Russak (11.a).</li>
+
+<li>
+24. mail toimunud Eesti meistrivõistlustel orienteerumise lühirajal võitis
+N18 võistluse Marianne Haug (12.c) ja III koha saavutas Silvia Luup (10.c),
+N20 vanuseklassis võidutses Margret Zimmermann (12.b) ja kolmandaks tuli
+Kristiine Aluvee (12.c)</li>
+</ul>
+
+<ul>
+<li>
+7.-8. juunil Leedus toimunud Balti meistrivõistlustel saavutas N18 vanuseklassis
+Marianne Haug (12.c) I koha ja teatevõistluses olid võiduka võistkonna
+liikmed Marianne Haug (12.c) ja Margret Zimmermann (12.b). Eesti koondisesse
+kuulusid ka Kristiine Aluvee ja Silvia Luup.</li>
+
+<li>
+Rakveres toimunud Eesti karikavõistlustel kergejõustikus saavutas Marilind
+Reemann (10.a) naiste 800m jooksus III koha.</li>
+</ul>
+<font face="Haettenschweiler"><font size=+1>2014/2015. õppeaasta eelinfo</font></font>
+<ul>
+<li>
+<b>Pikendatud õppetööle</b> jäänud õpilastele toimuvad kirjalikud järelarvestused
+18. ja 19. ning 21. ja 22. augustil. Täpne ajakava avaldatakse kooli veebilehel
+<b>12.
+augustil</b>. Suulised järelvastamised tuleb sooritada hiljemalt 28.augustil
+ning täpne aeg aineõpetajatega individuaalselt kokku leppida.</li>
+
+<li>
+Info<b> </b>uue õppeaasta <b>õpikute laenutamise, </b>töövihikute ostmise
+ja<b> septembrikuu toiduraha</b> kohta avaldatakse kooli kodulehel augustikuus.</li>
+
+<li>
+Uut <b>kooliaastat alustame</b> esmaspäeval, 1.septembril kell 10.00 Hugo
+Treffneri ausamba juures.</li>
+</ul>
+
+<br>&nbsp;
+<blockquote>&nbsp;
+<table COLS=1 WIDTH="500" >
+<tr>
+<td><b><font size=+1>Kooli juhtkond tänab meeldiva koostöö eest lõppeval
+õppeaastal õpilasi, lapsevanemaid, õpetajaid, kooli töötajaid, söökla ja
+arstikabineti personali, hoolekogu ja vilistlaskogu ning soovib</font></b>
+<center>
+<p><font face="Haettenschweiler"><font size=+1>päikeselist, rõõmsat ja
+elamusterikast suve!</font></font></center>
+</td>
+</tr>
+</table>
+</blockquote>
+
+<dir><font face="Haettenschweiler"><font size=+2>Õpilaste kiitmine direktori
+11.06.2014 käskkirjaga nr 44</font></font>
+<br>&nbsp;
+<p><b><font face="Tms Rmn,Times New Roman">1. Õpilaste esinemise eest olümpiaadidel
+ja võistlustel:</font></b>
+<p><b><font face="Tms Rmn,Times New Roman">1.1 Silmapaistvate tulemuste
+eest:</font></b>
+<br>&nbsp;
+<dir><b>10.c</b>
+<br><b>Maris Sala</b>
+<p><b>11.a</b>
+<br><b>Getter Põru</b>
+<p><b>12.e</b>
+<br><b>Oto Tuul</b>
+<br><b></b>&nbsp;</dir>
+
+<p><br><b>1.2 Suurepäraste tulemuste eest:</b>
+<br>&nbsp;
+<dir><b>10.a</b>
+<br><b>Jürgen Laks</b>
+<p><b>10.d</b>
+<br><b>Lauriine Kalajas</b>
+<p><b>10.e</b>
+<br><b>Hele-Riin Rebase, Tiina Tubli</b>
+<p><b>11.a</b>
+<br><b>Liis Luude, Kaur Paarop</b>
+<p><b>11.b</b>
+<br><b>Laura Rähni</b>
+<p><b>11.c</b>
+<br><b>Denis Rastorgujev</b>
+<p><b>11.e</b>
+<br><b>Reelika Jõgi, Maria Johanna Kull, Martin Käärik</b>
+<p><b>12.b</b>
+<br><b>Heigo-Elmar Vahesaar</b>
+<p><b>12.c</b>
+<br><b>Helena Kilp</b>
+<p><b>12.e</b>
+<br><b>Laura Porovart, Indrek Roolaht</b>
+<br><b></b>&nbsp;</dir>
+
+<p><br><b>1.3 Väga heade tulemuste eest:</b>
+<br>&nbsp;
+<dir><b>10.c</b>
+<br><b>Reiko-Rainer Reinup, Paula Vool</b>
+<p><b>10.e</b>
+<br><b>Eneli Maranik</b>
+<p><b>11.a</b>
+<br><b>Marko Karm, Nils Holger Sova&nbsp;</b>
+<p><b>11.c</b>
+<br><b>Tõnis-Torm Nöps</b>
+<p><b>12.b</b>
+<br><b>Taavet Kutsar</b>
+<p><b>12.d</b>
+<br><b>Gustav Nikopensius</b></dir>
+
+<p><b>1.4 Direktori käskkirjaga avaldatakse kiitust:</b>
+<br>&nbsp;
+<dir><b>10.b</b>
+<br><b>Oliver Issak</b>
+<p><b>10.c</b>
+<br><b>Daigi-Riin Pokbinder</b>
+<p><b>10.d</b>
+<br><b>Carl-Martin Keerberg, Kristo Pullerits</b>
+<p><b>10.e</b>
+<br><b>Eva Maria Shepel</b>
+<p><b>11.c</b>
+<br><b>Minna Ots</b>
+<p><b>11.d</b>
+<br><b>Fred Jõks, Gertrud Metsa</b>
+<p><b>11.e</b>
+<br><b>Helina Tera</b>
+<p><b>12.b</b>
+<br><b>Jerzy Edvard Kaplinski, Lauri Rauk</b>
+<p><b>12.c</b>
+<br><b>Marianne Haug, Lembi Kaasik, Siiri Kits, Helene Kohv, Kelly Kütt,
+Hanna Kadri Metsvaht</b></dir>
+
+<p><b>2. Väga heade õpitulemuste eest ning autasustatakse kiituskirjaga:</b>
+<br>&nbsp;
+<dir><b>10.a</b>
+<br><b>Merit Eller, Anton Konovalov, Hannes Moor, Svenno Saan, Eva-Maria
+Tõnson</b>
+<p><b>10.b</b>
+<br><b>Aaro Abolkaln, Jüri Jõul, Tuuli Jürgenson, Jonatan Kalmus, Age Roosi</b>
+<p><b>10.c</b>
+<br><b>Marie Jõgi, Johanna Maria Kirss, Kerly Kubri, Rein Leetmaa, Berit
+Mägi, Helga Paulsen, Maris Sala, Susanna Soomets, Hendrik Rull</b>
+<p><b>10.d</b>
+<br><b>Iris Ivan, Lauriine Kalajas, Elise Metsanurk, Maria Parusk</b>
+<p><b>10.e</b>
+<br><b>Liis Aleksejeva, Helga Johanna Leppoja, Liina-Mari Roolaht</b>
+<p><b>11.a</b>
+<br><b>Triinu Hordo, Liis Luude</b>
+<p><b>11.b</b>
+<br><b>Hans Daniel Kaimre, Karina Raudsik, Simmo Saan</b>
+<p><b>11.c</b>
+<br><b>Rasmus Born, Katariina Kisand, Maria Leping, Kaisa Teele Oja, Minna
+Ots, Jaanika Unt</b>
+<p><b>11.d</b>
+<br><b>Anna Edela</b>
+<p><b>11.e</b>
+<br><b>Eleri Anni, Laura Hääl, Kirti Jürimäe, Mika Pert?jonok, Marja Stina
+Saaliste</b></dir>
+
+<p><b>3. Väga heade ja heade õpitulemuste eest:</b>
+<br>&nbsp;
+<dir><b>10.a</b>
+<br><b>Laura Eiche, Katri-Helena Janno, Oliver Kahre, Kadi Kukk, Laura
+Mikk, Elis Tiivoja, Ilmar Uduste</b>
+<p><b>10.b</b>
+<br><b>Tanel Tark, Elo Maria Pauman</b>
+<p><b>10.c</b>
+<br><b>Elsa Mai Leedo, Elisabet Ottas, Reiko-Rainer Reinup, Agnes Saik,
+Kadri Uiga</b>
+<p><b>10.d</b>
+<br><b>Helina Hakmann, Maria Hommik, Hanna Marii Ilves, Kerli Ilves, Isabel
+Mari Jezierska, Kristo Pullerits, Aiki Laaneots, Maarja Ots, Triin Jaansalu</b>
+<p><b>10.e</b>
+<br><b>Kermo Kaio, Eneli Maranik, Riki-Brigita Mitt, Made Rästas, Kelli
+Saar, Annika Talvis, Relle Undrus, Merilin Vipper</b>
+<p><b>11.a</b>
+<br><b>Sandra Eensoo, Brenda Heinla, Salme Ojasild, Nils Holger Sova, Joonas
+Tomingas</b>
+<p><b>11.b</b>
+<br><b>Raul Rinken, Karl Andero Mere, Jaak Joonas Keldoja, Sisi Carmen
+Haamer</b>
+<p><b>11.c</b>
+<br><b>Aliis Aalmann, Henri Maalmann, Maarja-Ly Ojasalu, Hubert Piikov</b>
+<p><b>11.d</b>
+<br><b>Kärt Lige, Nele Läll</b>
+<p><b>11.e</b>
+<br><b>Kristel Mairit Kruusmägi, Marie Lintnermann</b></dir>
+
+<p><b>4. Aktiivse klassivälise tegevuse eest:</b>
+<br>&nbsp;
+<dir><b>10.a</b>
+<br><b>Laura Eiche, Jürgen Laks, Laura Mikk</b>
+<p><b>10.b&nbsp;</b>
+<br><b>Jüri Jõul, Dagmar Läänemets, Sigrid Paavle, Tanel Tark</b>
+<p><b>10.c</b>
+<br><b>Karl Allikvee, Berit Mägi</b>
+<p><b>10.d</b>
+<br><b>Hanna Marii Ilves, Lauriine Kalajas, Britt-Heleen Kandimaa, Markus
+Kuslap, Kristo Pullerits</b>
+<p><b>10.e&nbsp;</b>
+<br><b>Robert Derevski, Aapo Rehi, Eva Maria Shepel, Tiina Tubli</b>
+<p><b>11.a</b>
+<br><b>Brenda Heinla, Helen Hendrikson, Triinu Hordo, Aana-Liisa Kaste,
+Kristjan Kingo, Daniel Kütt, Ludvig Leis, Liis Luude, Triinu Sala, Joonas
+Sisask, Joonas Tomingas, Elise Ustav, Mariann Võhmar</b>
+<p><b>11.b</b>
+<br><b>Mariann Liigand, Mikk Kull, Ergo Kukk, Hans Daniel Kaimre, Markus
+Ilves, Arno Gabriel Humal</b>
+<p><b>11.c</b>
+<br><b>Karoliine-Lisette Kõiv, Henri Maalmann</b>
+<p><b>11.d</b>
+<br><b>Gertrud Metsa, Liina-Riste Pappel</b>
+<p><b>11.e</b>
+<br><b>Kristel Mairit Kruusmägi, Martin Käärik, Hanna-Lotta Otstavel, Greteliis
+Peedimaa, Heneli Ristisaar, Marja Stina Saaliste, Andrea Uibo</b>
+<p><b>12.a</b>
+<br><b>Anu Parvelo</b>
+<p><b>12.b</b>
+<br><b>Harald Astok</b>
+<p><b>12.c</b>
+<br><b>Evamaria Elisabet Keränen, Siim Kurvits, Karita Liivak, Jüri Lääs,
+Alvin Meltsov, Andreas Must, Merit Müür, Triin Sellis, Sirelin Strantsov</b>
+<p><b>12.d</b>
+<br><b>Jan Teevet, Mari-Liis Vanem</b>
+<p><b>12.e</b>
+<br><b>Olger Jaaniste, Oliver Kuusk, Kevin Kõo, Eliisa Ülevain</b>
+<br><b></b>&nbsp;</dir>
+
+<p><br><b>5. Heade sportlike saavutuste ja kooli eduka esindamise eest
+võistlustel:</b>
+<br>&nbsp;
+<dir><b>10.a</b>
+<br><b>Oliver Kahre, Mark Laasu, Laura Mikk, Hannes Moor, Miina Solveig
+Muru, Mari-Liis Mõttus, Marilind Reemann, Svenno Saan, Helen Tera</b>
+<p><b>10.b</b>
+<br><b>Karoliine Holter, Mirjam Iher, Eliise Joanna Kikas, Georg Caius
+Kutsar, Kristjan Laht, Yves Laur, Kristel Sibul, Laura Anna Tammesoo, Karl
+Tiit</b>
+<p><b>10.c</b>
+<br><b>Rando Ernits, Friedrich Krull, Kerly Kubri, Mihkel Laanes, Kätlin
+Lattik, Elsa Mai Leedo, Silvia Luup, Helga Paulsen, Hendrik Rull, Rasmus
+Tensing, Kadri Uiga, Mirjam Võsaste</b>
+<p><b>10.d</b>
+<br><b>Ants Adamson, Iris Ivan, Joonatan Kama, Sander Kesküla, Ian Allan
+Leman, Eva Johanna Lepikov, Elise Metsanurk, Carlotta Põdra</b>
+<p><b>10.e</b>
+<br><b>Kristin Laanberg, Eneli Maranik, Liina-Mari Roolaht, Kristel Zimmer</b>
+<p><b>11.a</b>
+<br><b>Erki Bauman, Laura Ernits, Aana-Liisa Kaste, Kristjan Kingo, Kert
+Männik, Andry Nõgols, Jaagup Russak, Nils Holger Sova</b>
+<p><b>11.b</b>
+<br><b>Martin Aasmäe, Markus Ilves, Hans Daniel Kaimre, Jaak Joonas Keldoja,
+Ergo Kukk, Mikk Kull, Rasmus Lõhmus, Paul Pung, Raul Rinken, Reiko Gregor
+Ruuda, Kaisa Sander, Merily Taras, Lise Anette Vaher</b>
+<p><b>11.c</b>
+<br><b>Rasmus Born, Jaak Kaljula, Maria Leping, Tõnis-Torm Nöps, Hubert
+Piikov, Andri Uibo, Jaanika Unt, Raul Volmer</b>
+<p><b>11.d</b>
+<br><b>Fred Jõks, Kenn Laas, Ott Pluum, Marion Villemson, Liisi Voll</b>
+<p><b>11.e</b>
+<br><b>Silver Kiho, Kristin Laupa, Katrina Ojavee, Hanna-Lotta Otstavel</b>
+<p><b>12.a</b>
+<br><b>Jakob Gill, Juudit Kure-Pohhomov, Edgar Kurg, Liisu Miller, Sander
+Randaru</b>
+<p><b>12.b</b>
+<br><b>Harald Astok, Joosep Järs, Kaarel Kree, Kaur Kristjuhan, Marger
+Krumm, Taavet Kutsar, Kadi Lang, Kaspar Nummert, Oliver Nõgols, Laura Oro,
+Lauri Rauk, Kadri-Liis Rehtla, Merili Savolainen, Kristel Soonets, Margret
+Zimmermann, Patrick Joan Thomson, Tanel Tomson, Heigo-Elmar Vahesaar, Eliisa
+Valdmaa, Kristo Valtin, Ivar Viilup</b>
+<p><b>12.c&nbsp;</b>
+<br><b>Kristiine Aluvee, Marianne Haug, Liisi Kala, Henn Kumar, Robin Saluoks</b>
+<p><b>12.d</b>
+<br><b>Anni Adamson, Margaret Koord, Karl Rammo, Marliis Reinkort, Liisa
+Sell, Karoliina Sikkal</b>
+<p><b>12.e</b>
+<br><b>Olger Jaaniste, Mattias Jõgi, Karl-Kristjan Kivisto, Oliver Kuusk,
+Kevin Kõo, Karin Kõrgesaar, Martin Johannes Liba, Andre Paju, Laura Porovart,
+Peeter Sepp</b></dir>
+
+<br>&nbsp;</dir>
+</td>
+</tr>
+</table></center>
+</dir>
+
+</body>
+</html>

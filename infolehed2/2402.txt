@@ -1,0 +1,671 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+   <meta name="ProgId" content="Word.Document">
+   <meta name="Generator" content="Microsoft Word 10">
+   <meta name="Originator" content="Microsoft Word 10">
+   <meta name="GENERATOR" content="Mozilla/4.79 [en] (Windows NT 5.0; U) [Netscape]">
+   <title>HTG INFO</title>
+<link rel=File-List href="2402_failid/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Inge</o:Author>
+  <o:Template>HTGinfo.dot</o:Template>
+  <o:LastAuthor>kasutaja</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>243</o:TotalTime>
+  <o:LastPrinted>2003-03-03T08:24:00Z</o:LastPrinted>
+  <o:Created>2003-04-01T09:17:00Z</o:Created>
+  <o:LastSaved>2003-04-01T09:17:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>824</o:Words>
+  <o:Characters>4780</o:Characters>
+  <o:Company>Hugo Treffneri Gümnaasium</o:Company>
+  <o:Lines>39</o:Lines>
+  <o:Paragraphs>11</o:Paragraphs>
+  <o:CharactersWithSpaces>5593</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;
+	mso-font-charset:186;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:Haettenschweiler;
+	panose-1:2 11 7 6 4 9 2 6 2 4;
+	mso-font-charset:186;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:11.35pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+h1
+	{mso-style-next:Normaallaad;
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Haettenschweiler;
+	mso-font-kerning:14.0pt;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:21.0cm 842.0pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:207959980;
+	mso-list-type:simple;
+	mso-list-template-ids:67698689;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:334186432;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1559609254 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:385419602;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2027394134 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:876964582;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1386857268 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l4
+	{mso-list-id:1665083687;
+	mso-list-type:hybrid;
+	mso-list-template-ids:290198808 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l5
+	{mso-list-id:1706246714;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-920480360 673998934 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:Normaaltabel;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]-->
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]-->
+<!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang="ET" style="tab-interval:36.0pt">
+
+<div class=Section1>
+<div class="MsoNormal"></div>&nbsp;
+
+<center><table COLS=1 WIDTH="80%" >
+<tr>
+<td>
+<div class=Section1>
+<div class="MsoNormal" style="text-indent:0cm"><span 
+style='font-size:36.0pt;mso-bidi-font-size:10.0pt;font-family:"Bookman Old Style"'><b>HTG
+INFO</b><o:p></o:p></span></div>
+
+<div align=right>
+<p><span style='font-family:
+Arial;mso-bidi-font-family:"Times New Roman"'>Nr.
+24<o:p></o:p></span>
+<p><span style='font-family:
+Arial;mso-bidi-font-family:"Times New Roman"'>3.
+märts 2002<o:p></o:p></span></div>
+
+<h1>
+<o:p>&nbsp;</o:p></h1>
+
+<h1>
+Juhtkond tänab</h1>
+
+<div class="MsoNormal">piirkondlikeks olümpiaadideks õpilasi ette valmistanud
+õpetajaid <b>Eha&nbsp;<span class=SpellE>Paabot</span>, Ülle&nbsp;<span class=SpellE>Seevrit</span>,
+Saima Kaarnat, Madis Reemanni ja&nbsp;<span class=SpellE>Harry</span> Seppa.</b></div>
+
+<h1>
+Eelmisel nädalal</h1>
+
+<div class="MsoNormal">EV 85. aastapäeva puhul toimunud president Arnold
+Rüütli vastuvõtule oli kutsutud 12b klassi õpilane <b>Mihkel&nbsp;<span class=SpellE>Kree.</b></span></div>
+
+<h1>
+Olümpiaadid</h1>
+
+<div class="MsoNormal" style="text-indent:0cm">9. veebruaril peetud <b>lahtistel
+matemaatikavõistlustel </b>osales <u>vanemas vanuserühmas</u> 89 koolinoort:</div>
+
+
+<p class="MsoNormal">I auhinna pälvis Mihkel&nbsp;<span class=SpellE>Kree</span>
+
+<p class="MsoNormal">11.&nbsp;<span class=SpellE>Kaie</span> Kubjas
+
+<p class="MsoNormal">15. Margus&nbsp;<span class=SpellE>Maantoa</span>
+
+<p class="MsoNormal">19. Riho Taba
+
+<p class="MsoNormal">28. Jaan Aru
+
+<p class="MsoNormal">40. Rein Raudjärv
+
+<p class="MsoNormal">40. Kadri Roosmaa
+
+<p class="MsoNormal">50.&nbsp;<span class=SpellE>Aigar</span> Vaigu
+
+<p class="MsoNormal">66.&nbsp;<span class=SpellE>Janno</span> Õnneleid
+
+<p class="MsoNormal"><u>Nooremas vanuserühmas</u> oli osalejaid 119:
+
+<p class="MsoNormal">II auhinna vääriliseks tunnistati Juhan Aru
+
+<p class="MsoNormal">6. Erik&nbsp;<span class=SpellE>Jaaniso</span>
+
+<p class="MsoNormal">17. Marek Oja
+
+<p class="MsoNormal">71. Mihkel&nbsp;<span class=SpellE>Langebraum</span>
+
+<p class="MsoNormal">71. Siim&nbsp;<span class=SpellE>Tuksam</span>
+
+<p class="MsoNormal">81. Erki&nbsp;<span class=SpellE>Eensalu</span>
+
+<p class="MsoNormal">99. Martin&nbsp;<span class=SpellE>Kree</span>
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l3 level1 lfo5;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Tartu
+linna geograafia-olümpiaadil</b> osales 9&nbsp;<span class=SpellE>treffneristi</span>
+(kokku osalejaid 30). Esikümnesse mahtusid
+
+<p class="MsoNormal">I Erk&nbsp;<span class=SpellE>Jaaniso</span>
+
+<p class="MsoNormal">IV Riho Taba
+
+<p class="MsoNormal">VI Marko&nbsp;<span class=SpellE>Malvik</span>
+
+<p class="MsoNormal">VII&nbsp;<span class=SpellE>Tauri</span> Tuvikene
+
+<p class="MsoNormal">VIII Piret Piip
+
+<p class="MsoNormal">IX Merle&nbsp;<span class=SpellE>Niglas</span>
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l3 level1 lfo5;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Linna
+ja maakonna bioloogia-olümpiaadil</b> pälvis <u>10ndate klasside arvestuses</u>
+HTG kolmikvõidu:
+
+<p class="MsoNormal">I&nbsp;<span class=SpellE>Hanna</span><span class=SpellE>Hõrak</span>
+
+<p class="MsoNormal">II Tiina Sööt
+
+<p class="MsoNormal">III Tiina Kask
+
+<p class="MsoNormal"><u>11ndate klasside arvestuses</u> pääsesid esikümnesse&nbsp;
+
+<p class="MsoNormal">I Külli Rips
+
+<p class="MsoNormal">V Kati&nbsp;<span class=SpellE>Nikopensius</span>
+
+<p class="MsoNormal">VIII&nbsp;<span class=SpellE>Marin</span><span class=SpellE>Sedman</span>
+
+<p class="MsoNormal">IX Jürgen&nbsp;<span class=SpellE>Jalak</span>
+
+<p class="MsoNormal">X&nbsp;<span class=SpellE>Heisi</span><span class=SpellE>Kurig</span>
+
+<p class="MsoNormal"><u>12ndate klasside arvestuses</u> olid paremate hulgas&nbsp;
+
+<p class="MsoNormal">II Marko&nbsp;<span class=SpellE>Malvik</span>
+
+<p class="MsoNormal">II Mihkel Pajusalu&nbsp;
+
+<p class="MsoNormal">IV&nbsp;<span class=SpellE>Darja</span><span class=SpellE>Lavõgina</span>
+
+<p class="MsoNormal">IV&nbsp;<span class=SpellE>Katre</span> Kuuse
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l3 level1 lfo5;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Füüsika
+piirkondlikul&nbsp;<span class=SpellE>olümpiaa-dil</span></b> saavutasid&nbsp;<span class=SpellE>treffneristid</span>
+järgmised tulemused:
+
+<p class="MsoNormal"><u>10. klass</u><o:p></o:p>
+
+<p class="MsoNormal">I Erik&nbsp;<span class=SpellE>Jaaniso</span>
+
+<p class="MsoNormal">I Mihkel Pajusaar
+
+<p class="MsoNormal">III Martin Lind
+
+<p class="MsoNormal">IV Ülari Teder
+
+<p class="MsoNormal">V Madis Metsalu
+
+<p class="MsoNormal">V Marek Oja
+
+<p class="MsoNormal">VIII Juhan Aru<o:p></o:p>
+
+<p class="MsoNormal"><u>11. klass</u><o:p></o:p>
+
+<p class="MsoNormal">I Riho Taba
+
+<p class="MsoNormal">II Artur Tamm
+
+<p class="MsoNormal">IV Tambet&nbsp;<span class=SpellE>Treimuth</span>
+
+<p class="MsoNormal">V Rein Raudjärv
+
+<p class="MsoNormal"><u>12. klass</u><o:p></o:p>
+
+<p class="MsoNormal">I Mihkel&nbsp;<span class=SpellE>Kree</span>
+
+<p class="MsoNormal">II&nbsp;<span class=SpellE>Aigar</span> Vaigu
+
+<p class="MsoNormal">IV Karl Kruusamäe
+
+<p class="MsoNormal">VII Kristjan Peil
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l3 level1 lfo5;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Keemiaolümpiaadi
+piirkondliku vooru</b> tulemused:
+
+<p class="MsoNormal"><u>10. klass</u><o:p></o:p>
+
+<p class="MsoNormal">I Kadri Ligi
+
+<p class="MsoNormal">II&nbsp;<span class=SpellE>Hanna</span><span class=SpellE>Hõrak</span>
+
+<p class="MsoNormal">III Erik&nbsp;<span class=SpellE>Jaaniso</span>
+
+<p class="MsoNormal">IV Mikk&nbsp;<span class=SpellE>Müraus</span>
+
+<p class="MsoNormal">VIII Marek Oja
+
+<p class="MsoNormal"><u>11. klass</u><o:p></o:p>
+
+<p class="MsoNormal">I Jürgen&nbsp;<span class=SpellE>Jalak</span>
+
+<p class="MsoNormal">III&nbsp;<span class=SpellE>Kaie</span> Kubjas
+
+<p class="MsoNormal">V&nbsp;<span class=SpellE>Grete</span><span class=SpellE>Kadak</span>
+
+<p class="MsoNormal">X Külli Rips
+
+<p class="MsoNormal"><u>12. klass</u><o:p></o:p>
+
+<p class="MsoNormal">I&nbsp;<span class=SpellE>Darja</span><span class=SpellE>Lavõgina</span><o:p></o:p>
+
+<p class="MsoNormal">III&nbsp;<span class=SpellE>Villem</span><span class=SpellE>Nigu</span>
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l3 level1 lfo5;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Piirkondlikul
+informaatika-olümpiaadil</b> saavutas algajate rühmas Juhan Aru I ja Mihkel
+Pajusalu II koha; vanemas rühmas oli Mihkel&nbsp;<span class=SpellE>Kree</span>
+VII.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Tänavusel
+<b>kirjandusolümpiaadil</b> valiti <b>vabariiklikku vooru</b> Kati Ilvese
+(11e) ja Mann&nbsp;<span class=SpellE>Lintropi</span> (12d) uurimistööd.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Matemaatika</b>
+<b>vabariiklikku vooru</b> pääsesid Mihkel&nbsp;<span class=SpellE>Kree</span>
+(12b),&nbsp;<span class=SpellE>Aigar</span> Vaigu (12b), Margus&nbsp;<span class=SpellE>Maantoa</span>
+(11b),&nbsp;<span 
+class=SpellE>Kaie</span> Kubjas (11b), Artur Tamm (11b),&nbsp;<span class=SpellE>Kertu</span><span class=SpellE>Säärits</span>
+(11b), Jaan Aru (11b), Riho Taba (11a) ja kümnendatest klassidest Mihkel
+Pajusalu, Juhan Aru, Erik&nbsp;<span class=SpellE>Jaaniso</span>, Mari&nbsp;<span class=SpellE>Kikerpill</span>,
+Kadi&nbsp;<span class=SpellE>Epler</span>, Marek Oja, Siim&nbsp;<span class=SpellE>Tuksam</span>,
+Ülari Teder.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Informaatika</b>
+<b>vabariiklikul&nbsp;<span 
+class=SpellE>olüm-piaadil</span></b> osalevad
+Juhan Aru, Mihkel&nbsp;<span 
+class=SpellE>Kree</span>,&nbsp;<span class=SpellE>Aigar</span>
+Vaigu ja Mihkel Pajusalu.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><b>Füüsika</b>
+vabariiklikule&nbsp;<span 
+class=SpellE>olümpiaa-dile</span> on kutsutud
+Mihkel&nbsp;<span class=SpellE>Kree</span> ja&nbsp;<span class=SpellE>Aigar</span>
+Vaigu.&nbsp;
+<h1>
+Õppetöö</h1>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l5 level1 lfo4;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Seoses
+<b>filosoofiakursuse lõppemisega </b>on 12d ja 12e klassi tunniplaanis
+alates 5. märtsist järgmised muudatused:</div>
+
+
+<p class="MsoNormal"><b><u>12d klass</u></b><o:p></o:p>
+
+<p class="MsoNormal" style="text-indent:0cm"><b>E.</b> 5.-6. tund M. Hommik
+- 203, 7.-8. tund jääb ära
+
+<p class="MsoNormal" style="text-indent:0cm"><b>K.
+</b>kooli 2. tunniks
+
+<p class="MsoNormal" style="text-indent:0cm"><b>N.
+</b>1. tund M. Hommik
+- 203
+
+<p class="MsoNormal"><b><u>12e klass&nbsp;</u></b><o:p></o:p>
+
+<p class="MsoNormal" style="text-indent:0cm"><b>E.
+</b>4. tund M. Hommik
+- 203
+
+<p class="MsoNormal" style="text-indent:0cm"><b>T.
+</b>7.-8. tund jääb
+ära
+
+<p class="MsoNormal" style="text-indent:0cm"><b>N.
+</b>kooli 2. tunniks,
+3.-4. tund M. Hommik 203
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l5 level1 lfo4;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Abiturientidel
+palutakse veelkord <b>kontrollida riigieksamivalikud</b>. Kontrolllehed
+on teadete tahvlil. Vigade ilmnemisel pöörduda õppealajuhataja poole.
+<h1>
+Õpilased</h1>
+
+<div class="MsoBodyText" style="margin-left:0cm;text-indent:0cm;mso-list:l5 level1 lfo4;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span 
+style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><span class=SpellE><span style='font-size:
+12.0pt;mso-bidi-font-size:10.0pt'><b>Tauri</span></span><span 
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt'>
+Tuvikene</span><span 
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt'></b>
+(11a) saavutas 16. veebruaril Tallinnas toimunud <b>V üle-vabariigilisel
+kõnevõistlusel </b>5. koha.<o:p></o:p></span></div>
+
+
+<p class="MsoBodyText" style="margin-left:0cm;text-indent:0cm;mso-list:l5 level1 lfo4;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span 
+style='font:7.0pt "Times New Roman"'></span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt'>22.
+veebruaril saavutasid <b>Eesti Väitlusseltsi II karikaetapil </b>Tallinnas
+HTG väitlejad II (Inga Jaagus,&nbsp;<span class=SpellE>Kerttu</span> Mäger,<span 
+style='mso-spacerun:yes'></span><span class=SpellE>Birgit</span><span 
+style='mso-spacerun:yes'></span>Rootsi
+– 11e)<span 
+style='mso-spacerun:yes'></span>ja IV<span style='mso-spacerun:yes'></span>(Martin
+Mäesalu,<span style='mso-spacerun:yes'></span>Kadi&nbsp;<span 
+class=SpellE>Epler</span>
+–<span style='mso-spacerun:yes'></span>10b, Märt Pärsimägi - 10e) koha.<span style='mso-spacerun:yes'></span><span 
+class=SpellE>Indivi-duaalarvestuses</span>
+tuli 63 osaleja hulgas <b>II kohale&nbsp;<span 
+class=SpellE>Birgit</span>
+Rootsi</b>.<o:p></o:p></span>
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l5 level1 lfo4;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Põltsamaal
+peetud <b>vabariiklikul kõnevõistlusel “Kuldsuud&nbsp;<span class=SpellE>Põltsa-maal</span>”
+</b>pälvis <b>Kaur Riismaa</b> eripreemia mõtteavaruse eest.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l5 level1 lfo4;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>22.
+veebruaril toimus Laiusel <b>“Kuninglik Lumelahing”,</b> millest meie kooli
+õpilastest võtsid osa ründajate poolel<span 
+style='mso-spacerun:yes'></span>Indrek&nbsp;<span class=SpellE>Teino</span>,<span 
+style='mso-spacerun:yes'></span>Ivo
+Tombak ja Kadri Mehevits (kõik 11d), kaitsjatena aga&nbsp;<span class=SpellE>Kerttu</span><span class=SpellE>Moppel</span>
+(11d) ning Liisi Rosenberg (10e). Alguses pikale venivast lahingust kujunes
+elutruu võitlus, mille käigus õnnestus ründajatel enda valdusesse haarata
+kindluse üks bastion. Tänu meie kooli poiste kavalusele suutsid nad kaitsjaid
+mängides vastaste lipuni hiilida ja see enda valdusesse haarata – lahing
+oli võidetud!
+<h1>
+Õpetajad</h1>
+
+<div class="MsoNormal">Üleriigilise saksa keele ainenõukogu koosoleku otsusel
+24.01.2003 tunnustati HTG saksa keele õpetajaid <b>Mall&nbsp;<span class=SpellE>Mattot</span>
+ja&nbsp;<span class=SpellE>Alexander</span><span class=SpellE>Wölfflingit</span><span 
+style='mso-spacerun:yes'></span></b>töö
+eest saksa keele põhikooli lõpueksami ja gümnaasiumi riigieksami ettevalmistamisel.</div>
+
+<h1>
+Õppenõukogus</h1>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l5 level1 lfo4;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>27.
+veebruari õppenõukogu otsustas <b>kiita heaks kooli õppekava, klassijuhatajate
+ametijuhend ning kooli enesehindamise korraldamise kava</b></div>
+
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l5 level1 lfo4;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>.
+Õppenõukogu otsuse kohaselt sai õiguse järgmisel õppeaastal <b>õppida&nbsp;<span class=SpellE>Immanueli</span>
+kolledžis<span style='mso-spacerun:yes'></span>Austraalias</b> 10c klassi
+õpilane <b>Kadri Ligi</b>.
+<h1>
+Sport</h1>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Tartu
+linna koolide meistrivõistlustel saavutas meie kooli naiskond koosseisus&nbsp;<span class=SpellE>Annu</span>
+Vaiksaar, Kaia&nbsp;<span 
+class=SpellE>Sloog</span> (mõlemad 11c kl.),
+Reet Luts(11e kl.) ja Tuuli Laud (10b kl.)&nbsp;<span class=SpellE>sõudeergomeetritel</span><span class=SpellE>Concept</span>
+2 III koha.</div>
+
+
+<p class="MsoNormal">Sellest nädalast kuni õppeaasta lõpuni<span 
+style='mso-spacerun:yes'></span>on
+meie kooli käsutuses&nbsp;<span class=SpellE>sõudeergomeeter</span>, mida
+saab kasutada nii treenimiseks kui ka võistluste korraldamiseks.
+<h1>
+Teated<span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'><o:p></o:p></span></h1>
+
+<div class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Kolmapäeval,
+5. märtsil kell 14.00 peetakse meie kooli aulas<b> inglisekeelse kõnevõistluse
+linnavoor.</b></div>
+
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Neljapäeval,
+6. märtsil kell 18.00 esitleb <b>filmiklubi</b> auditooriumis Kanada 1997.a.
+ulmefilmi “<span class=SpellE>Cube</span>”.
+
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo2;
+tab-stops:list 18.0pt"><![if !supportLists]><span style='font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span 
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'></span></span></span><![endif]>Tartu&nbsp;<span class=SpellE>Forseliuse</span>
+Gümnaasiumi&nbsp;<span class=SpellE>e-ajakiri</span> Virtuaalkass kuulutab
+välja <b>arvustuste võistluse 7.-12. klassi õpilastele.</b> Arvustada saab
+eesti või soome ilukirjanduslikku<span style='mso-spacerun:yes'></span>teost,
+mis on ilmunud ajavahemikus 1993 –2003. Tööde esitamise tähtaeg on 11.04.2003.
+Täpsem info emakeele õpetajatelt.
+
+<p class="MsoNormal"><o:p></o:p>
+<h1>
+<o:p>&nbsp;</o:p></h1>
+
+<div class="MsoNormal"><o:p></o:p></div>
+</div>
+</td>
+</tr>
+</table></center>
+
+<div class="MsoNormal"></div>
+</div>
+
+</body>
+</html>
