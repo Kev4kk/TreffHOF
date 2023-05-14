@@ -50,6 +50,7 @@ sorteeritud = sorted(studentMentions, key=key_func)
 sorteeritud.reverse()
 fend = open("mentions.txt", "w")
 for student in sorteeritud:
+    student["summa"] = key_func(student)
     fend.write(json.dumps(student) + "\n")
 
 fend.close()
