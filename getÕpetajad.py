@@ -37,7 +37,9 @@ soup = BeautifulSoup(response.content, "html.parser")
 
 # Find all the <u> tags and extract the text between them
 u_tags = soup.find_all("u")
-text_array = list(set([tag.get_text().strip() for tag in u_tags]))
+text_array = [tag.get_text().strip() for tag in u_tags]
+# aprill 2019 seisuga
+käsitsi = ["Priidu Beier", "Rudolf Bichele", "Mari Jõgiste", "Ülle keerberg", "Hele Kiisel", "Helen Köhler", "Tiina Niitvägi-Hellamaa", "Priit Parisoo", "Andre Pettai", "Liisa Pettai", "Helgi Pähno"]
 
 # Print the extracted text array
 # print(text_array)
@@ -45,9 +47,9 @@ text_array = list(set([tag.get_text().strip() for tag in u_tags]))
 # tuleb lahutada kõik mainimised nendest, mis on nende õpilastena mentions.txt-is
 
 õpetajad = []
+text_array += käsitsi
 
-
-
+text_array = list(set(text_array))
 for õpetaja in text_array:
     if õpetaja == "Tööleping peatatud":
         continue
