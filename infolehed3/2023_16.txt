@@ -1,177 +1,207 @@
 <div class="field-item even" property="content:encoded"><h1>
-	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2014_19.12.2022.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2014_19.12.2022.doc"><img alt="doc" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="float: right;" /></a></h1>
+	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2015_09.01.2023.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2015_09.01.2023.doc"><img alt="doc" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="float: right;" /></a></h1>
 <h1>
 	Juhtkond tänab</h1>
 <ul>
 <li>
-		kunstiringi õpilast Ellinor Usaid (10.b) kooli 2022. aasta digimaalitehnikas jõulukaardi kujundamise eest;</li>
-<li>
-		õpetajaid Marcus Hildebrandti, Erika Hunti, Katri Ojaveeri, Siim Oksa, Madis Reemanni, Sandra Sagarit ja Agnes Vaske õpilaste konkurssideks ettevalmistamise eest.</li>
+		õpetajaid Ülle Hüva, Julia Polikarpust, Kristiina Pungat ja Ehtel Timakut õpilaste konkurssideks ettevalmistamise eest.</li>
 </ul>
-<!--break--><h1>
+<h1>
 	Õppetöö</h1>
 <ul>
 <li>
-		Teisipäeval, 20. detsembril kell 8.30-15.50 toimub ruumides 301 ja 302 rahvusvahelise <strong>saksa keele DSD II eksami suuline osa</strong>.</li>
-<li>
-		<strong>UPT-23</strong> kolmandalt kaitsmiselt haiguse tõttu puudunud õpilased saavad oma töö kaitsta teisipäeval, 20. detsembril. Tööde kaitsmine algab kell 14.45 ruumis 225. Täpsem info Moodle’s.</li>
-<li>
-		<strong>Esmaspäeval, 9. jaanuaril on tundide ajad muudetud</strong>. Vabaainete tunde ei toimu.
-<p>		klassijuhataja tund       9.00 –   9.35<br />
-		2. tund tunniplaanis      9.40 – 10.55<br />
-		I söögivahetund<br />
-		3. tund tunniplaanis    11.30 – 12.45<br />
-		II söögivahetund<br />
-		4. tund tunniplaanis    13.20 – 14.35<br />
-		5. tund tunniplaanis    14.45 – 16.00</p>
-<p>		Klassijuhataja tunnid toimuvad esmaspäeval, 9. jaanuaril koduklassides:<br />
-		<strong>10.a</strong> - 202       <strong>11.a</strong> - 217        <strong>12.a</strong> - 136<br />
-		<strong>10.b</strong> - 144       <strong>11.b</strong> - 105       <strong>12.b</strong> - 135<br />
-		<strong>10.c</strong> - 225        <strong>11.c</strong> - 139        <strong>12.c</strong> - 227<br />
-		<strong>10.d</strong> - 213       <strong>11.d</strong> - 220       <strong>12.d</strong> - 141<br />
-		<strong>10.e</strong> - 107        <strong>11.e</strong> - 203        <strong>12.e</strong> - 102</p></li>
+		12. ja 13. jaanuaril toimub <strong>viie kooli lõppvõistlus</strong> matemaatikas, füüsikas ja keemias.
+<!--break--><p>Osalevad Tartu Tamme Gümnaasiumi, M. Härma Gümnaasiumi, Nõo Reaalgümnaasiumi, Viljandi Gümnaasiumi, meie kooli ning külalisena Ida-Virumaa võistkonnad. Üritust korraldab Tartu Tamme Gümnaasium. <br />
+		Võistluse ajakava:<br />
+		<u>neljapäev, 12.01</u><br />
+		kell 9.00 – 13.00 <strong>keemia </strong>ülesannete lahendamine<br />
+		kell 13.30 – keemia tööde parandamine<br />
+		kell 14.00 – 18.00 <strong>matemaatika</strong> ülesannete lahendamine<br />
+		<u>reede, 13.01</u><br />
+		kell 8.30 – 12.30 <strong>füüsika </strong>ülesannete lahendamine<br />
+		kell 9.00 – matemaatika tööde parandamine<br />
+		kell 10.00 – 13.00 <strong>meeskonnavõistlus</strong><br />
+		kell 12.00 – füüsika tööde parandamine<br />
+		kell 16.00 – <strong>autasustamine </strong>Tamme Gümnaasiumi aulas<br />
+		Meie kooli võistkond (ka meeskonnavõistlusel osalejad) koguneb viimaste juhtnööride saamiseks teisipäeval, 10. jaanuaril kell 14.25 ruumis 208.</p></li>
 </ul>
-<p> </p>
 <ul>
 <li>
-		<strong>III perioodi õnnetunnid</strong> toimuvad 20. ja 27. jaanuaril ning 2. veebruaril.</li>
+		11.a ja 11.b klassile ettenähtud valikkursuse <strong>„Digitaalelektroonika ja mikrokontrollerid“</strong> esimene tund toimub kolmapäeval, 11. jaanuaril kell 14.45 Tallinna Tehnikaülikooli Tartu kolledži (Puiestee 80A) A-korpuse ruumis A202. See on kolledži Annelinna-poolsem hoone, mille küljes on vana puidust maja. Õpilastega läheb esimesse tundi kaasa õp Siim Oks.</li>
 <li>
-		Õpilastel, kes puudusid II perioodi arvestuselt haiguse tõttu ja teatasid klassijuhatajale puudumisest koolis ettenähtud korra kohaselt, on <strong>lisavõimalus</strong> (mitte kohustus) veel enne jõuluvaheajale minekut sooritada <strong>II perioodi kirjalikku arvestust</strong><br />
-		esmaspäeval, 19.12. kell 16.10 – 17.40<br />
-		inglise keel – 221<br />
-		bioloogia – 221<br />
-		neljapäeval, <strong>05.01</strong> kell 9.00 – 15.00<br />
-		<strong>eesti keele </strong>proovieksam (12. klassid) – 221<br />
-		<strong>eesti keel </strong>(11.d ja 11.e kell 9.00 – 12.00) – 221<br />
-		<strong>Kokkuleppel aineõpetajatega</strong> on võimalik ka eelpooltoodud aegadel sooritada kirjalikke arvestusi teistes õppeainetes.<br />
-		Arvestuse sooritamise soovi korral tuleb registreeruda Stuudiumi keskkonnas (menüü all ☰ &gt;Registreeri)<strong>.</strong></li>
-</ul>
-<p> </p>
-<ul>
+		Vabaaine „<strong>Ükssarvikute inkubaator ehk start-up arendus</strong>“ kursuse esimene tund toimub teisipäeval, 10. jaanuaril kell 16.00 ruumis 202. Kursuse juhendaja on HTG 2013. a. vilistlane Ants-Oskar Mäesalu.</li>
 <li>
-		Kuna II perioodi arvestuste nädalal oli arvestustelt haiguse tõttu puudujaid väga palju, pikendatakse järelarvestuste nädalat. II perioodi järelarvestused toimuvad 10.-20. jaanuarini, täpne ajagraafik avaldatakse 9. jaanuari infolehes. Õpetajad teatavad II perioodi arvestuste ja järelarvestuste hinded 25. jaanuaril.</li>
+		<strong>10.d</strong> ja <strong>10.e</strong> klassi õpilastel tuleb teha valik – kas läbida informaatika 1. kursus või joonestamise 1. kursus. Õpilased, kes valivad informaatika 1. kursuse, jätkavad 11. klassis informaatika 2. kursusel, joonestamise kursuse läbinud õpilastel tuleb 11. klassis läbida üks informaatika kursus. IV perioodil toimuvale kursusele tuleb registreeruda 10.-13. jaanuarini Stuudiumi keskkonnas (menüü all ☰ &gt;Registreeri). Kummalegi klassile on nii informaatika kui ja joonestamise kursuse rühmas 18 kohta.</li>
+<li>
+		<strong>III perioodi järelarvestused</strong> toimuvad 10.‑20. jaanuarini.<br />
+		<u>teisipäev, 10.01</u><br />
+		kell 16.00 inglise keel õp S. Sagar, õp K. Ojaveer ja õp E. Hunt – 312<br />
+		<u>reede, 13.01</u><br />
+		kell 16.00 eesti keel õp A. Salo – 107<br />
+		kell 16.00 ajalugu ja ühiskonnaõpetus õp I. Pajur, õp K. Punga ja õp A. Ristikivi – 144<br />
+		<u>esmaspäev, 16.01</u><br />
+		kell 16.10 bioloogia ja geograafia õp O. Maidre ja õp Ü. Seevri – 227<br />
+		kell 16.10 eesti keel õp T. Pluum – 102<br />
+		kell 16.10 saksa keel õp M. Matto – 204<br />
+		<u>teisipäev, 17.01</u><br />
+		kell 16.00 keemia õp E. Paabo ja K.-R. Rohtmaa – 217<br />
+		<u>neljapäev, 19.01</u><br />
+		kell 16.00 matemaatika kõik matemaatikaõpetajad – 221<br />
+		kell 16.00 kunstiajalugu õp R. Lepiste – 202<br />
+		<u>reede, 20.01</u><br />
+		kell 16.00 koondjärelarvestus õp M. Piirimäe – 221</li>
+<li>
+		<strong>Tartu Ülikooli teaduskool</strong> korraldab ka sel aastal koostöös Swedbankiga 10.–12. klasside õpilastele „Matemaatika panganduses“ õppepäevi, kus räägitakse reaalteaduste olulisusest panganduse kontekstis.<br />
+		Õppepäevadele registreerumine toimub Tartu Ülikooli teaduskooli kodulehel. Lingile klõpsates avaneb registreerimisvorm koos vastava õppepäeva lisateabe ja kavaga.<br />
+		Õppepäev toimub 26.01.2023 Tartu Ülikooli peahoones: <a href="https://www.teaduskool.ut.ee/et/matemaatika-panganduses-oppepaev-2601-tartu-ulikooli-peahoones">https://www.teaduskool.ut.ee/et/matemaatika-panganduses-oppepaev-2601-tartu-ulikooli-peahoones</a><br />
+		Swedbanki erinevate ametikohtade esindajad annavad ülevaate oma igapäevatööst ning jagavad kogemusi matemaatikateadmiste kasutamise kohta läbi päriseluliste praktiliste ülesannete. Päeva jooksul käsitletavate teemade hulka kuuluvad näiteks rahatarkus ja investeerimine, ettevõtlusega alustamine, andmeteadus ja riskimudelid.<br />
+		Tartu Ülikooli üliõpilased juhendavad päeva teises pooles töötuba teemal liisingu/laenu intress, euribori mõjud ja inflatsioon.<br />
+		Lisateave: <strong>Jaanus Sepp</strong>, Tartu Ülikooli teaduskooli arendus- ja koostöö peaspetsialist, 517 7091, <a href="mailto:jaanus.sepp@ut.ee" target="_blank">jaanus.sepp@ut.ee</a>.<br />
+		 </li>
 </ul>
 <h2>
 	Muudatused tunniplaanis</h2>
-<div class="rteindent1">
-	<u>teisipäev, 20.12</u><br />
-	<strong>10.c</strong>    2. tund ajalugu õp I. Pajur – 203<br />
-	    5. tund matemaatika õp A. Külter – 139<br />
-	<strong>10.d</strong>    3.-4. tund matemaatika õp a. Külter – 139, prantsuse ja saksa keele tunnid jäävad ära<br />
-	5. tund vene keel õp O. Titova – 204<br />
-	<strong>10.e</strong>    1. tund jääb ära, kooli tuleb tulla kell 9.30<br />
-	    2. tund matemaatika õp A. Külter – 139<br />
-	3. tund inglise keel õp K. Ojaveer/ S. Sagar – 227/312<br />
-	    5. tund ajalugu õp I. Pajur – 203<br />
-	<strong>11.a</strong>    2. tund vene keel õp L. Titova – 204/ O. Titova – 102<br />
-	<strong>11.c</strong>    1. tund matemaatika õp A. Külter – 139<br />
-	3. tund keemia õp E. Paabo – 217<br />
-	    4. tund vene keel õp O. Titova – 204<br />
-	5. tund jääb ära<br />
-	<strong>11.d</strong>    4. tund saksa keel õp M. Matto – jääb ära, inglise keele tund toimub<br />
-	<strong>11.e</strong>    3. tund vene keel õp L. Titova – 204/ O. Titova – 102<br />
-	<strong>12.c</strong>    3. tund füüsika õp S. Oks – 135</div>
-<div class="rteindent1">
-	<br />
-	<u>esmaspäev, 09.01</u><br />
-	Vabaainete tunde ei toimu.</div>
-<p> </p>
 <ul>
 <li>
-		12. ja 13. jaanuaril toimub <strong>viie kooli võistlus</strong> matemaatikas, füüsikas ja keemias. Üritust korraldab Tartu Tamme Gümnaasium. Meie kooli <strong>võistkond koguneb</strong> viimaste juhtnööride saamiseks teisipäeval, 10. jaanuaril kell 14.25 ruumis 208.</li>
+		<strong>alates 09.01.2023 kuni III perioodi lõpuni:</strong><br />
+		<u>esmaspäev, alates 09.01</u><br />
+		<strong>11.b     </strong>5. tund kehaline kasvatus õp A. Saarva/ A. Poom – 228<br />
+		<u>kolmapäeval, alates 11.01</u><br />
+		<strong>10.a     </strong>1. tund füüsika õp A. Vask – 213<br />
+		2. tund matem. praktikum/füüsika praktikum õp E. Timak/M. Reemann – 135/212<br />
+		<strong>10.b     </strong>1. tund kirjandus õp K. Soodla – 105<br />
+		            2. tund füüsika õp A. Vask – 213<br />
+		<strong>11.a     </strong>1. tund füüsika praktikum (õpilase valik) õp M. Reemann – 212<br />
+		5. tund digitaalelektroonika ja mikrokontrollerid (praktikum õpilase valikul) – TalTech<br />
+		<strong>11.b     </strong>1. tund füüsika praktikum (õpilase valik) õp M. Reemann – 212<br />
+		5. tund matem. praktikum õp Ü. Hüva – 136/ digitaalelektroonika ja mikrokontrollerid (praktikum õpilase valikul) – TalTech<br />
+		<strong>11.d     </strong>1. tund matemaatika õp E. Timak – 135<br />
+		            2. tund kirjandus õp A. Pullerits – 102<br />
+		<u>neljapäev, alates 12.01</u><br />
+		<strong>10.a     </strong>4. tund matemaatika õp E. Timak – 135<br />
+		 </li>
 <li>
-		Vabaaine kursus „Ükssarvikute inkubaator“ vilistlase Ants-Osakar Mäesalu juhendamisel algab pärast jõuluvaheaega. Kokkulepet juhendajaga ootab täpne toimumise aeg – kas teisipäeviti kell 16.00 või kolmapäeviti kell 14.35. Täpsem info 9. jaanuari infolehes.</li>
+		<strong>Ühekordne muudatus tunniplaanis 09.</strong>‑<strong>16.01:</strong><u>esmaspäev, 09.01</u><br />
+		<strong>10.d     </strong>3. tund prantsuse keel õp K.-K. Pere – 308<br />
+		<strong>12.d</strong>     4. tund füüsika õp J. Paaver – 139<br />
+		<strong>12.e</strong>     2. tund füüsika õp J. Paaver – 136<br />
+		<u>teisipäev, 10.01</u><br />
+		<strong>10.d</strong>     3. tund prantsuse keel õp K.-K. Pere<strong> –</strong> 312<br />
+		<strong>10.e</strong>     1. tund prantsuse keel õp K.-K. Pere – 308<br />
+		2. tund prantsuse keel õp K.-K. Pere – 308<br />
+		<u>kolmapäev, 11.01</u><br />
+		<strong>10.a     </strong>3. tund kunstiajalugu õp R. Lepiste – 202<br />
+		4. tund kehaline kasvatus õp A. Saarva/ A. Poom –  228<br />
+		5. tund enesehoole kursus med. õde J. Saarepuu – 202<br />
+		<strong>10.b     </strong>5. tund enesehoole kursus õpilasnõustaja M. Nuut – 144<br />
+		<strong>10.d</strong>     5. tund enesehoole kursus psühholoog T. Ulst – 203<br />
+		<strong>11.c     </strong>1. tund matemaatika õp A. Külter – 139<br />
+		            3. tund bioloogia õp O. Maidre – 225<br />
+		            4. tund kirjandus õp T. Pluum – 102<br />
+		<strong>11.d     </strong>3. tund kehaline kasvatus õp A. Saarva/ A. Poom – 228<br />
+		            4. tund bioloogia õp O. Maidre – 225<br />
+		<strong>12.b     </strong>3. tund ühiskonnaõpetus õp A. Ristikivi<strong> –</strong> 203<br />
+		4. tund kirjandus õp A. Pullerits – 144<br />
+		<strong>12.c     </strong>3. tund kirjandus õp A. Pullerits – 144<br />
+		            4. tund füüsika õp S. Oks – 213<br />
+		<strong>12.d     </strong>1. tund füüsika õp J. Paaver – 225<br />
+		2. tund matemaatika õp K. Orav-Puurand – 144<br />
+		<strong>12.e     </strong>1. tund matemaatika õp K. Orav-Puurand – 202<br />
+		2. tund kirjandus õp T. Pluum – 105<br />
+		            3. tund füüsika õp J. Paaver – 203<br />
+		4. tund Eesti kunst ja muusika õp R. Lepiste (lähevad muuseumisse)<br />
+		<u>neljapäev, 12.01</u><br />
+		<strong>12.b     </strong>3. tund kirjandus õp A. Pullerits<strong> –</strong> 136<br />
+		4. tund matemaatika praktikum jääb ära, füüsika praktikum toimub<br />
+		<strong>12.c     </strong>4. tund kirjandus õp A. Pullerits<strong> – </strong>136<br />
+		<u>reede, 13.01</u><br />
+		<strong>11.a     </strong>3. tund matemaatika õp E. Timak – 136<br />
+		<strong>11.b     </strong>2. tund kirjandus õp A. Salo<strong> – </strong>107<br />
+		<strong>12.a     </strong>1. tund matem. praktikum jääb ära<br />
+		<u>esmaspäev, 16.01</u><br />
+		<strong>12.c     </strong>5. tund keemia õp E. Paabo - 217</li>
 </ul>
+<h2>
+	Abiturientidele</h2>
+<p>On alanud <strong>registreerimine riigieksamitele</strong>. Kooli lõpetamiseks peab õpilane sooritama eesti keele, matemaatika ja võõrkeele riigieksami, gümnaasiumi koolieksami ning õpilasuurimuse või praktilise töö.<br />
+Riigieksamitele ja rahvusvaheliselt tunnustatud võõrkeeleksamile registreerimine toimub EISis <a href="https://eis.ekk.edu.ee/eis/">https://eis.ekk.edu.ee/eis/</a>. Süsteemi on võimalik siseneda ID-kaardi, mobiil-ID, Smart-ID või HarID abil. Kui ei saa EISi siseneda eelnimetatud võimalusi kasutades, tuleb pöörduda õppealajuhataja poole, kes väljastab EISi sisenemiseks parooli.<br />
+Õpilane registreerib ennast riigieksamitele ise, valides EISis eksamid, mida ta sooritama hakkab. <strong>Registreerimine on avatud 20. jaanuarini 2023.</strong><br />
+ <br />
+<strong><em>Eesti keele riigieksam</em></strong> on kohustuslik kõikidele eesti õppekeelega õpilastele.<br />
+<em><strong>Matemaatikas</strong> </em>on võimalus valida kitsa või laia matemaatika ainekava järgi koostatud riigieksam. Õpilane teeb valiku registreerides end kitsa või laia kursuse matemaatika eksamile.<br />
+<strong><em>Võõrkeeles</em></strong> võib õpilane:</p>
+<ol style="list-style-type:lower-alpha;">
+<li>
+		sooritada inglise keele riigieksami (mõõdab keeleoskust nii B1- kui ka B2-keeletasemel) <strong><u>või</u></strong> Haridus- ja Noorteameti (Harno) korraldatava rahvusvaheliselt tunnustatud inglise keele eksami (C1 Advanced). <strong>Mõlemat inglise keele eksamit sooritada ei saa; </strong></li>
+<li>
+		sooritada Harno korraldatava ja riigieksamiga võrdsustatud rahvusvaheliselt tunnustatud prantsuse või saksa keele eksami B1- või B2-tasemel (edukas sooritamine annab rahvusvahelise keeleoskustunnistuse/ diplomi);</li>
+<li>
+		esitada riigieksami asendamiseks <strong>omal kulul varem sooritatud ja riigi poolt</strong> <strong>tunnustatud</strong> (nt TOEFL, IELTS, PTE General jne) rahvusvahelise inglise, prantsuse, saksa või vene keele eksami vähemalt B1-tasemel keeleoskust tõendava eksami tunnistuse/diplomi, mille vastavust originaalile kinnitab kool.</li>
+</ol>
+<p>Rahvusvaheline tunnistus, mille õpilane esitab, peab olema kehtiv vähemalt jooksva õppeaasta 31. augustini.<br />
+Lisaks inglise keele riigieksamile <strong><u>või</u></strong> C1 Advanced eksamile võib õpilane valida kuni kaks rahvusvaheliselt tunnustatud prantsuse või saksa keele eksamit.<br />
+Kui õpilane on otsustanud sooritada rahvusvaheliselt tunnustatud Harno poolt korraldatava võõrkeele eksami, siis peab ta end ise registreerima vastava keele eksamile EISis (välja arvatud Saksa II astme keelediplomi eksam).</p>
+<p>Võõrkeele lõpueksamiks võib õpilane valida ka võõrkeele, mida ta ei ole koolis õppinud.<br />
+<strong>Haridus- ja Noorteameti poolt korraldatavad rahvusvaheliselt tunnustatud eksamid</strong><br />
+<strong>Cambridge Assessment English C1 Advanced</strong> eksamil saavad osaleda gümnasistid,<br />
+· kellel on läbitud riikliku õppekava järgi viis kohustuslikku inglise keele kursust,<br />
+· kes on sooritanud elektroonilise eeltesti CEPT tulemusele “C1 või kõrgem”,<br />
+· kes pole varem Harno poolt korraldataval C1 Advanced eksamil osalenud.</p>
+<p>Eksamid toimuvad:<br />
+kirjalik osa: toimub 25. märtsil 2023<br />
+suuline osa: toimub 25. Märts – 07. aprill 2023<br />
+C1 Advanced kevadsessioonile registreerimine EIS-is: kuni 20. jaanuar 2023.<br />
+ <br />
+<strong>DELF scolaire B1-tase </strong>või <strong>B2-tase </strong>– kirjalik osa toimub 17. aprill 2023, suuline osa 17.–21. aprill 2023.<br />
+Rahvusvaheliselt tunnustatud Haridus- ja Noorteameti poolt korraldatavatele eksamitele saavad registreeruda ka <strong>10. ja 11. klasside õpilased.</strong> Kui õpilane on otsustanud sooritada rahvusvaheliselt tunnustatud Harno poolt korraldatava võõrkeele eksami, siis peab ta end ise registreerima vastava keele eksamile EISis (välja arvatud Saksa II astme keelediplomi eksam) <a href="https://eis.ekk.edu.ee/eis/">https://eis.ekk.edu.ee/eis/</a>  hiljemalt <strong>20. jaanuaril 2023.a.</strong></p>
 <h2>
 	Olümpiaadid ja võistlused</h2>
 <ul>
 <li>
-		30. novembril toimus <strong>rahvusvaheline inglise keele võistlus “Best in English”</strong> (22779 osalejat 709 koolis üle maailma, nende hulgas 1935 osalejat Eestist). Meie koolis võttis võistlusest osa 58 õpilast.<br />
-		Meie kooli parimad tulemused:<br />
-		Marie Elise Kanarik, 11.c (1. koht koolis, 24. koht Eestis, 242. koht maailmas), Manfred Kukk, 12.a (2. koht koolis, 31. koht Eestis, 276. koht maailmas) Otto Richard Sokk, 12.c (3. koht koolis, 35. koht Eestis, 331. koht maailmas), Jaan Artur Viirsalu, 10.b (4. koht koolis, 45. koht Eestis, 431. koht maailmas), Anders Aksjonov, 12.a (5. koht koolis, 46. koht Eestis, 433. koht maailmas), esimese tuhande sisse (maailmas) mahtusid ka Annika Aho, 11.b (509. koht); Margot Liisbet Menind, 10.d (768. koht); Artus Leo Marco Klemm, 10.a (876. koht).</li>
+		10. detsembril toimus <strong>matemaatika lahtine võistlus</strong>. Meie parimad:<br />
+		<u>noorem rühm</u> (125 osavõtjat) - 4. Mattias Jõgi (I auhind), 9. Ralf Robert Paabo (III auhind), 15. Grete Magerramov (kõik 10.a);<br />
+		<u>vanem rühm</u> (72 osavõtjat) - 6. Kristjan-Erik Kahu (III auhind, 12.b), 12.-13. Kaur Huko Käämbre, 16. Jürgen Güsson (mõlemad 11.b), 17. Kirke Kisand (11.a), 19. Laur Härm (12.b).</li>
 <li>
-		Tartu Ülikooli Teaduskooli poolt korraldatud <strong>rahatarkuse viktoriinist</strong> võttis osa 288 õpilast, meie parimatest jagasid Hendrik Jaks (12.b) ja Kristo Krikmann (12.a) 1.-23. kohta, 24.-39. kohta jagavad Anette Vares (12.c) ja Laur Härm (12.b), 40.-76. kohta jagavad Kevin Akkermann ja Emma Kruusmäe (mõlemad 12.b), 77.-106. kohta jagavad Kert Raudnõmm (12.d) ja Oskar Männik (12.a).</li>
+		<strong>Riigikohtu kaasuskonkursil</strong> osalenud Kertu Katriin Kotkas (12.b) on oodatud 13. jaanuaril Riigikohtu 103. aastapäevale pühendatud tänuaktusele, kuhu on kutsutud parimad osalejad. Lõplik paremusjärjestus selgub sündmuse ajal kohapeal.</li>
 <li>
-		3. detsembril toimus <strong>füüsika lahtine võistlus</strong>. Meie õpilaste saavutused:<br />
-		<u>12. klasside arvestuses</u>: Kristjan-Erik Kahu (12.b) 1. koht, Siim-Erik Viiding (12.b) 2. koht, Mattias Timm Rast (12.a) 3. koht ja Ander Pavlov (12.a) 10. koht;<br />
-		<u>11. klasside arvestuses</u>: Ralf Robert  Paabo (10.a) 2. koht ja Kert Lelov (11.a) 4. koht;<br />
-		<u>10. klasside arvestuses</u>: Violeta  Jürgens (10.a) 1. koht,  Mattias Jõgi (10.a) 4. koht ja Mihkel  Tali (10.b) 10. koht.<br />
-		 </li>
+		<strong>Lingvistikaolümpiaadi</strong> piirkonnavoorus olid meie õpilaste tulemused järgmised:<br />
+		2. Rando Lukk (12.a), 5. Margaret Braun (10.c), 8. Ats-Artur Ploomipuu (10.e), 10. Jaagup Konksi (11.c), 31. Kevin Kuudeberg (10.a), 40. Simmo-Siim Soosaar (10.b).<br />
+		Rando Lukk, Margaret Braun, Ats-Artur Ploomipuu ja Jaagup Konksi on kutsutud lõppvooru, mis toimub 15.-16. aprillil Tartus.</li>
 </ul>
 <h2>
 	Teated </h2>
 <ul>
 <li>
-		Täna, 19. detsembril pärast 5. tundi kell 16.05 toimub raamatukogu lugemissaalis <strong>HTG õpilaste kirjandusklubi</strong> kokkusaamine. Arutletakse Anthony Burgessi romaani „Kellavärgiga apelsin“ üle. Oodatud on kõik huvilised: ka siis, kui pole raamatut (lõpuni) lugenud.</li>
+		Teisipäeval, 10. jaanuaril on ajalooringi oodatud kõik õpilased, kes soovivad osa võtta <strong>ühiskonnaõpetuse olümpiaadist</strong>. Kohtume kell 16.00 ruumis 141.</li>
 <li>
-		<strong>Kooli jõulupidu</strong> (korraldab 11.b klass) algab homme, teisipäeval, 20. detsembril kell 19.00 võimlas.</li>
+		Kolmapäeval, 11. jaanuaril 5. tunni ajal kutsub Roheliste ring kuulama kõiki loodussuuna õpilasi ja huvilisi auditooriumi Bioteaduste Üliõpilaste Seltsi loengut “Nutrigenoomikast - toit meie geenidele”. Roheliste ringis ja bioloogia olümpiaadikursusel osalevatele õpilastele on loeng kohustuslik.</li>
 <li>
-		<strong>Jõulujumalateenistus Jaani kirikus </strong>toimub kolmapäeval, 21. detsembril kell 9.00. Segakoor Anima koguneb kirikusse kell 8.15.</li>
+		Reedel, 13. jaanuaril 5. tunni ajal toimub raamatukogu lugemissallis <strong>HTG õpilaste kirjandusklubi </strong>kokkusaamine. Arutletakse taas Anthony Burgessi romaani „Kellavärgiga apelsin“ üle. Oodatud in kõik huvilised: ka siis, kui pole raamatut (lõpuni) lugenud.</li>
 <li>
-		<strong>Roheliste ring tänab</strong> lapsevanemaid Tuul Seppa ja Toomas Tammaru, kes tutvustasid TÜ Oecologicumi uut maja ning zooloogia osakonda koos sealsete õppetoolidega.</li>
+		Laupäeval, 14. jaanuaril toimub segakoori Anima laulupäev.</li>
 </ul>
 <h2>
-	Õpetajad töölt eemal</h2>
+	Õpetajad koolist eemal</h2>
 <ul>
 <li>
-		Õpetaja Doris Kristina Raave osaleb doktoriõppes 18.-21.12. ja õpetaja Mall Matto rahvusvahelise saksa keele DSD eksami komisjoni töös 20.12.</li>
+		Õpetaja Doris Kristina Raave osaleb 9.-10.01. doktoriõppes, õp Tiina Pluum osaleb koolitajana 10.01. Tallinna Ülikoolis, õp Julia Polikarpus täidab 11.-12.01. töökohustusi Tartu Ülikoolis.</li>
+<li>
+		 12. ja 13.01. parandavad viie kooli võistluse töid vastavalt ettenähtud ajakavale õpetajad Eha Paabo, Kaia-Riin Rohtmaa, Ülle Hüva, Julia Polikarpus, Siim Oks ja Madis Reemann.</li>
+<li>
+		Huvijuht Uve Saar viibib korralisel puhkusel 9.‑20.01.</li>
 </ul>
 <h2>
-	Sport</h2>
+	Eelinfo</h2>
 <ul>
 <li>
-		Möödunud kolmapäeval toimunud HTG SV ja Õpside vahel toimunud saalihoki lahing lõppes 19:16 õpilaste võiduga.</li>
+		<u>Kolmapäeval, 18. jaanuaril</u> viienda tunni ajal toimub <strong>UPT-24</strong> esimene juhendajaseminar.</li>
 <li>
-		HTG-s toimus Tartu gümnaasiumide võrkpalli jõuluturniir harrastajatele. Paremusjärjestus: 1. HTG, 2. KJPG, 3. MHG. Kooli esindasid Kaisa Kõre (10.c), Heidi Tõnisson (11.a), Maria Andresen (12.c), Kelly Vinogradov (12.e), Robin Randrüüt (10.a), Ivar Peeling (11.a), Rando Lukk (12.a) ning Marti Pastak (12.c).</li>
-<li>
-		Kooli petangi jõuluturniiril osales kokku 24 mängijat. Esikoha napsas trio Annabel Taaber (10.a), Hanna Karin Randaru (12.c) ning õpetaja Aimar Poom. Teiseks tuli õpetajate meeskond koosseisus Ave Külter, Siim Oks ja Heivo Kikkatalo. Kolmandaks tulid Heidi Tõnisson (11.a), Mariliis Lääniste ning Robin Aus (mõlemad vilistlased). Aitäh kõikidele toreda pärastlõuna eest!</li>
-<li>
-		Aleksander Jalakas (10.b) saavutas ESS Kalev meistrivõistlustel sisesõudmises 3. koha. </li>
-</ul>
-<h2>
-	Tantsutallad</h2>
-<ul>
-<li>
-		Tantsutallad lõpetasid oma tantsuaasta laupäeval, 17. detsembril Vidrike puhkebaasis ansambli jõulupeoga, kus nauditi pererahva külalislahkust, kelgutati ja jalutati kesköises lumises ning karges metsas. </li>
-<li>
-		Uut aastat alustatakse laupäeval, 7. jaanuaril kell 10.00 võimlas vilistlastantsijatega. Kell 15.00 jätkatakse ansambli rühmade vahelise uusaasta saalihokivõistlusega.</li>
-</ul>
-<h2>
-	Kooli hoolekogu</h2>
-<ul>
-<li>
-		12. detsembril toimus hoolekogu koosolek, kus arutati õpilaste toitlustamisega seonduvat. Hoolekogu koosolekul osalesid abilinnapead Priit Humal ja Lemmit Kaplinski ning AS Toidutorn juhataja Jaanus Pulles.<br />
-		Hoolekogu otsustas tõsta alates 01.01. 2023 koolitoidu erimenüüde hinda: XL-portsjon maksab 3,00 eurot ja taimetoit 2,50 eurot. Hoolekogu saatis koosolekul osalenud abilinnapeadele kirjalikud ettepanekud, kus avaldas soovi rääkida kaasa 2023. a. toitlustaja leidmiseks väljakuulutatava riigihanke tingimuste kujundamisel ja leidmaks lahendusi, kuidas jätkuvalt võimaldada koolis abivajavatele õpilastele tasuta koolitoitu.</li>
-</ul>
-<h2>
-	Koolisöökla teated</h2>
-<ul>
-<li>
-		Hugo Treffneri Gümnaasiumi hoolekogu koosolekul 12. detsembril kehtestati erimenüüde uued hinnad alates <strong>01. jaanuarist 2023</strong>:<br />
-		a) XL-portsjoni hind 3.00 eurot, omaosalus 1.85 eurot;<br />
-		b) taimetoidu menüü hind 2.50 eurot, omaosalus 1.35 eurot.<br />
-		Koolilõuna maksumus ei muutunud: koolilõuna 2.15 eurot, omaosalus 1.00 eurot.</li>
-<li>
-		Orientiiriks lapsevanematele <strong>jaanuarikuu toiduraha</strong>:<br />
-		*tavatoit 17 päeva x 1.00 eurot = 17.00 eurot;<br />
-		*XL-portsjon 17 päeva x 1.85 eurot = 31.45 eurot;<br />
-		*taimetoit 17 päeva x 1.35 eurot = 22.95 eurot.</li>
-</ul>
-<h2>
-	Koolivaheaeg</h2>
-<ul>
-<li>
-		Koolivaheaeg kestab 22. detsembrist 8. jaanuarini.</li>
-<li>
-		Koolivaheajal on koolimaja suletud, toimub suurpuhastus.</li>
-<li>
-		Õpilastel palutakse enne vaheajale minekut rõivistukapid korda teha: kapipealne ja -alune peab olema tühi, koju tuleb viia vahetusjalanõud, õppematerjalid ja muud isiklikud asjad, mis ei mahu kappi.</li>
+		18. jaanuaril kell 10.30–13.00 toimub kooli aulas veredoonorluspäev, mille viivad läbi Tartu Ülikooli Kliinikumi töötajad. Oodatud on kõik täisealised!<br />
+		Rohkem infot Facebook’is <a href="https://facebook.com/events/s/hugo-treffneri-gumnaasiumi-ver/532999265354698/" target="_blank">https://facebook.com/events/s/hugo-treffneri-gumnaasiumi-ver/532999265354698/</a>.</li>
 </ul>
 <p>
-	 <span style="font-family:lucida sans unicode,lucida grande,sans-serif;"> </span></p>
-<h2>
-	<span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><strong>Rahulikke jõulupühi ja kosutavat talvist vaheaega!</strong>  </span></h2>
-</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 00:26</div></div></div></div>
+	 </p>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 15:27</div></div></div></div>
 
   </div>
   

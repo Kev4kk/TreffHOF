@@ -1,146 +1,157 @@
 <div class="field-item even" property="content:encoded"><h1>
-	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2025_27.03.2023.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a></h1>
+	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2026_03.04.2023.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a></h1>
 <h1>
 	Juhtkond tänab</h1>
 <ul>
 <li>
-		õpetajaid Marcus Hildebrandti, Toomas Jürgensteini, Saima Kaarnat, Ott Maidret, Indrek Pajurit, Julia Polikarpust, Kristiina Pungat, Kerli Orav-Puuranda, Monika Piirimäed, Anett Pillmanni, Tiina Pluumi, Aare Ristikivi ja Sandra Sagarit õpilaste konkurssideks ettevalmistamise eest.</li>
+		õpetajaid Trine Leppa, Anett Pillmanni, Monika Piirimäed, Uve Saart, Ljubov Titovat, Olga Titovat ja vilistlast Riko Piirisilda õpilaste konkurssideks ettevalmistamise eest;</li>
+<li>
+		11.a klassi õpilasi Miia Isabel Anipaid ja Maia Serva ning nende juhendajat Marcus Hildebrandti Playback Show korraldamise eest.</li>
 </ul>
 <!--break--><h1>
 	Õppetöö</h1>
 <ul>
 <li>
-		IV perioodi viimane <strong>õ</strong><strong>nnetund</strong> (90 minutit) toimub 30. märtsil ruumis 221, registreerida saab õnnetundi Stuudiumis (menüü all ☰ &gt;Registreeri) kuni 28. märtsi hilisõhtuni või kui õnnetundi on registreerunud 40 osalejat.</li>
+		<strong>IV perioodi arvestused</strong> toimuvad 5.-12. aprillini. Kuna <strong>10.b </strong>ja <strong>10.c</strong> klassil on lõppeval perioodil kuus arvestust, toimub mõlemal klassil matemaatika arvestus juba teisipäeval, 4. aprillil ainetunni ajal.</li>
 <li>
-		Neljapäeval, 30. märtsil kell 11.30 – 12.15 toimub ruumis 204 <strong>rahvusvahelise saksa keele</strong> <strong>DSD I eksami</strong> suuline osa.</li>
+		<strong>Koolieksami osana</strong> toimuvad 11.a klassil keemia 4., 11.b klassil füüsika 6., 11.d ja 11.e klassil ajaloo 5. ja füüsika 3. ning 12.a klassil ühiskonnaõpetuse 2. kursuse arvestused.</li>
 <li>
-		<strong>IV perioodi arvestused</strong> toimuvad 5.‑12. aprillini. Kuna <strong>10.b</strong> ja <strong>10.c</strong> klassil on lõppeval perioodil kuus arvestust, toimub mõlemal klassil matemaatika arvestus juba teisipäeval, 4. aprillil ainetunni ajal.</li>
+		<strong>IV perioodi arvestuste nädalal</strong> 5.–12. aprillini ei helise koolikell, tundide ajad on muudetud. Kõikidel õpilastel palutakse säilitada koolimajas (eriti aatriumis) vaikus, et mitte häirida koolikaaslasi arvestuste sooritamisel.<br />
+		<u>Tundide ajad arvestuste ajal</u>:<br />
+		1. tund                     8.15 –   9.45<br />
+		2. tund                   10.15 – 11.45<br />
+		3. tund                   12.15 – 13.45<br />
+		4. tund                   14.15 – 15.45<br />
+		​</li>
 <li>
-		<strong>Koolieksami osana toimuvad 11.a</strong> klassil keemia 4., <strong>11.b</strong> klassil füüsika 6., <strong>11.d</strong> ja <strong>11.e</strong> klassil ajaloo 5. ja füüsika 3. ning <strong>12.a</strong> klassil ühiskonnaõpetuse 2. kursuse arvestused.</li>
+		Arvestuste nädalal hommikuputru ei pakuta. <strong>Söökla on avatud</strong> 5.-6. ja 11.-12. aprillil kell  9.30 – 14.30 ning esmaspäeval, 10. aprillil kell 11.00 – 15.30.</li>
+<li>
+		<strong>Õpetajate koolitustund</strong> toimub esmaspäeval, 10. aprillil kell 8.15 – 11.30 ruumis 221.</li>
+<li>
+		Neljapäeval, 13. aprillil kell 16.00 – 17.30 toimub <strong>õppenõukogu.  </strong>Päevakord:
+<ul>
+<li>
+				koolieksamite valikute kinnitamine;</li>
+<li>
+				koolieksamitest vabastamine;</li>
+<li>
+				riigieksamite läbiviimine.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+		V perioodi esimesel päeval, 13. aprillil on tundide ajad muudetud, toimuvad klassijuhatajate infominutid ning ilmub infoleht.</li>
+</ul>
+<div class="rteindent1">
+	<strong>Tundide ajad 13. aprillil:</strong></div>
+<div class="rteindent2">
+	1. tund       8.05 – 9.20<br />
+	2. tund       9.30 – 10.45<br />
+	I söögivahetund<br />
+	3. tund       11.15 – 12.30<br />
+	<strong>klassijuhatajate infominutid</strong><br />
+	II söögivahetund<br />
+	4. tund 13.20 – 14.35<br />
+	5. tund 14.45 – 16.00</div>
+<ul>
+<li>
+		<strong>V perioodi tunniplaan</strong> valmib 12. aprilliks.</li>
+<li>
+		V perioodil toimuvad järgmised <strong>vabaainete kursused:</strong><br />
+		<u>etiketiõpetus 2</u> (IÕ2)  õp U. Saar – 221<br />
+		<u>joonestamine 2</u> õp R. Lepiste – 202<br />
+		<u>ladina keel 2</u> õp M. Hildebrandt – 220<br />
+		<u>matemaatika 16</u> (loodus- ja humanitaarsuuna õpilastele) kõik matem. õpetajad – 135<br />
+		<u>psühholoogia </u>(IÕ5) psühholoog T. Ulst – 227<br />
+		<u>saksa keel 7</u> (B2 tase, DSD II eksami ettevalmistus) õp M. Matto – 204<br />
+		<u>tervis ja esmaabi (IÕ3) </u>med. õde J. Saarepuu – 203<br />
+		<u>õiguse alused (ÜÕ3)</u> vil Eliise Kerikmäe – 141<br />
+		Vabaainete esimene tund toimub neljapäeval, 13. aprillil.</li>
 </ul>
 <h2>
-	Muudatused tunniplaanis 27. märtsist 3 aprillini</h2>
-<p><u>esmaspäev, 27.03</u><br />
-<strong>10.a     </strong>5. tund geograafia õp Ü. Seevri – 227<br />
-<u>teisipäev, 28.03</u><br />
-<strong>10.a     </strong>5. tund ajalugu õp I. Pajur – 102<br />
-<strong>10.b</strong>     5. tund eesti keel õp K. Soodla – 105<br />
-<strong>10.e</strong>     4. tund eesti keel õp A. Salo – 107<br />
-<u>kolmapäev, 29.03</u><br />
-<strong>10.c     </strong>5. tund eesti keel õp K. Soodla – 105<br />
-<strong>10.d     </strong>5. tund matemaatika õp A. Külter – 135<br />
-<strong>11.b     </strong>2. tund matemaatika õp Ü. Hüva – 107<br />
-<strong>11.c     </strong>5. tund matemaatika lisatund õp E. Timak – 135     <br />
-<strong>11.d</strong>     5. tund matemaatika lisatund õp E. Timak – 135<br />
-<strong>11.e     </strong>5. tund matemaatika lisatund õp E. Timak – 135<br />
-<u>neljapäev, 30.03</u><br />
-<strong>10.a     </strong>4. tund kehaline kasvatus õp A. Saarva/<br />
-A. Poom – 228<br />
-<strong>10.c</strong>     4. tund saksa keel õp M. Matto – 203<br />
-<strong>10.d</strong>     4. tund saksa keel õp M. Matto – 203<br />
-<strong>10.e</strong>     2. tund matemaatika õp A. Külter – 139<br />
-<strong>11.b     </strong>2. tund kehaline kasvatus õp A. Saarva/ A. Poom – 228<br />
-3. tund inglise keel õp E. Hunt – 203<br />
-<strong>11.c     </strong>1. tund matemaatika õp A.Külter – 139<br />
-            3. tund inglise keel õp E. Hunt – 203<br />
-2. tund bioloogia õp O. Maidre – 225<br />
-<strong>11.d</strong>     4. tund eesti keel õp A. Pillmann – 135<br />
-<strong>11.e     </strong>3. tund kehaline kasvatus õp A. Saarva/ A. Poom – 227<br />
-<strong>12.d     </strong>alates 4. tunnist õppekäik Viljandisse<br />
-<strong>12.e     </strong>1. tund kehaline kasvatus õp A. Saarva/ A. Poom – 228<br />
-<u>reede, 31.03</u><br />
-<strong>10.a     </strong>1. tund eesti keel õp A. Salo – 107<br />
-<strong>11.b     </strong>2. tund inglise keel õp K. Ojaveer – 136<br />
-            4. tund eesti keel õp A. Salo – 102<br />
-<strong>11.c     </strong>2. tund inglise keel õp K. Ojaveer – 136<br />
-<strong>11.d     </strong>2. tund inglise keel õp K. Ojaveer – 136<br />
-<strong>11.e</strong>     3. tund eesti keel õp A. Salo – 107<br />
-<strong>12.e     </strong>2. tund muusika õp E. Paap – 220<br />
-            4. tund jääb ära          <br />
-<u>esmaspäev, 03.04</u><br />
-<strong>10.a     </strong>5. tund eesti keel õp A. Salo – 105</p>
+	Muudatused tunniplaanis</h2>
+<p><u>esmaspäev, 03.04</u><br />
+<strong>10.a     </strong>5. tund eesti keel õp A. Salo – 107<br />
+ </p>
 <h2>
 	Abiturientidele</h2>
 <ul>
 <li>
-		<strong>Õppealajuhataja infotund abiturientidele</strong> toimub kolmapäeval, 29. märtsil 5. tunni ajal ruumis 221. Räägitakse V perioodi töökorraldusest, kooli- ja riigieksamite nõuete täitmisest. Kõigi abiturientide osavõtt on väga vajalik.</li>
+		<strong>UPT-23 viimane korraline kaitsmine</strong> toimub esmaspäeval, 10. aprillil.</li>
 <li>
-		<strong>UPT-23</strong> <strong>viimane korraline kaitsmine</strong> toimub esmaspäeval, 10. aprillil.</li>
+		<strong>UPT-23 esimene lisakaitsmine</strong> toimub teisipäeval, 25. aprillil kell 12.00.</li>
 <li>
-		<strong>UPT-23 esimene lisakaitsmine</strong> toimub teisipäeval, 25. aprillil kell 12.00. Tööd kaitsevad: Kristjan-Erik Kahu 12.b, Hans Gustav Kõljalg 12.b, Jakob Veske 12.b, Uku Viispert 12.b, Mihkel Kruusmann 12.c, Maarja Katariina Kerge 12.d, Rasmus Sareal 12.d, Taavet Tuisk 12.d ja Tomi Lahe 12.e.</li>
+		Õppealajuhataja ootab hiljemalt 17. aprilliks andmeid abiturientide kohta, kes soovivad <strong>eesti keele eksamitöö koopiat</strong>. Tabelid soovi märkimiseks on jagatud klassijuhatajatele.</li>
+<li>
+		V perioodil on abiturientidel võimalus lisaks vabaainete kursustele osaleda järgmistel <strong>eksamiteks ettevalmistavatel kursustel</strong>:<br />
+		<u>bioloogia 5</u> (reaal- ja humanitaarsuuna õpilastele) õp S. Kaarna;<br />
+		<u>füüsika 6</u> (loodus- ja humanitaarsuuna õpilastele) õp S. Oks;<br />
+		<u>keemia 5</u> õp E. Paabo;<br />
+		<u>matemaatika 15</u> õp Ü. Hüva (12.a) ja õp Julia Polikarpus (12.b), õp A. Külter (12.c), õp K. Orav-Puurand (12.d ja 12.e).<br />
+		Nimetatud kursuste tunnid ei toimu vabaainete tundideks ettenähtud ajal.</li>
 </ul>
-<h3>
-	Olümpiaadid ja võistlused</h3>
-<p>.... olümpiaaditulemused on infolehe <a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2025_27.03.2023.pdf">pdf-formaadis</a>.</p>
 <h2>
-	Konkursid</h2>
+	 Olümpiaadid ja võistlused<a id="ol" name="ol"></a></h2>
 <ul>
 <li>
-		Meepealinn Karksi-Nuia kuulutas välja III mesilaste päeva <strong>luulevõistluse</strong>. Tööde esitamise tähtaeg on 21. aprill, täpsem info <a href="https://fb.me/e/srNEDIUV">https://fb.me/e/srNEDIUV</a>.</li>
+		.... olümpiaaditulemused on infolehe <a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2026_03.04.2023.pdf">pdf-formaadis</a>.</li>
+<li>
+		<strong>Noorte tantsupeo </strong>kunstilisel toimkonnal on hea meel teatada, et tantsuansambel Tantsutallad on pääsenud täiskoosseisus ehk kõigi 6-rühmaga XIII noorte laulu- ja tantsupeole „Püha on maa“, alapealkirjaga „Sillad“.</li>
 </ul>
+<p> </p>
 <h2>
 	Teated</h2>
 <ul>
 <li>
-		Klassiruumis 202 on õppetöö läbiviimiseks paigaldatud smarttahvel. Nüüdseks on koolis kokku viis smarttahvlit - ruumides 139, 202, 213, 217 ja 225.</li>
-<li>
-		Täna, 27. märtsil kell 16.05 algab raamatukogu lugemissaalis <strong>klassivanemate ümarlaud</strong>, millest on osa võtma oodatud kõikide klasside ja õpilasomavalitsuse esindajad. Õpilaste küsimustele vastavad kooli juhtkonna liikmed.</li>
-<li>
-		Täna, 27. märtsil toimuvad klassidevahelise <strong>võrkpalliturniiri</strong> viimased mängud algusega 16.10, finaal algab 16.50. Kõik on oodatud kaasa elama!</li>
-<li>
-		Teisipäeval, 28. märtsil toimub <strong>ajalooringis</strong> HTG dokumentaalfilmiklubi. Vaatame dokumentaalfilmi meesõiguslusliikumisest Suurbritannias. Filmi järel räägib samal teemal bakalaureusetööd tegev Grete Maria Avent olukorrast Eestis ja mujal ilmas ning vastab ka tekkinud küsimustele. Alustame kell 16.00 ruumis 141, kõik on oodatud!</li>
-<li>
-		Teisipäeval, 28. märtsil kell 16.30 toimub auditooriumis (ruum 221) <strong>frankofoonia kuu</strong> puhul filmiõhtu. Vaatame Jalil Lespert'i 2014. aasta filmi „Yves Saint Laurent“, mis räägib tuntud moelooja elust alates aastast 1958, kui tema karjäär tõeliselt hoo sisse sai. Filmis on kasutatud päris kavandeid YSL arhiividest. Kõik on oodatud! Bienvenue</li>
-<li>
-		Kolmapäeval, 29. märtsil kell 18.00 toimub 10. ja 12. klasside <strong>õpilaste vanemate koosolek</strong> järgmistes ruumides: <strong>10.a </strong>õp Raimond Lepiste – 202, <strong>10.b </strong>õp Sandra Sagar – 105, <strong>10.c </strong>õp Ott Maidre – 225, <strong>10.d </strong>õp Anneli Mägi – 135, <strong>10.e  </strong>õp Age Salo – 107. <strong>Kõik 12. klassid – </strong>alustavad auditooriumis (ruum 221), klassikoosolekud jätkuvad ruumides <strong>12.a </strong>õp Ülle Hüva – 136, <strong>12.b </strong>õp M. Hildebrandt – 220, <strong>12.c </strong>õp Ülle Seevri – 227, <strong>12.d </strong>õp Aare Ristikivi – 141, <strong>12.e </strong>õp Tiina Pluum – 102.</li>
-<li>
-		Kolmapäeval, 29. märtsil kell 10.00-13.00 toimub ruumis 303 ning raamatukogu lugemissaalis <strong>vene keele konkurss</strong>.</li>
-<li>
-		Reedel, 31. märtsil kell 17.00-20.00 toimub HTG võimlas <strong>Playback Show</strong>! Kutsume kõiki üritusest publikuna osa saama ja oma sõpradele kaasa elama.</li>
-<li>
-		Esmaspäeval, 3. aprillil kell 12.30 toimub aulas viimase koolikella aktuse <strong>lipuvalve proov</strong> 12.a ja 11.a klassi õpilastega.</li>
-<li>
-		Selle nädala jooksul sooritavad meie koolis oma magistriõppe eksamitundi TÜ ajaloo ja arheoloogia instituudi õpetajakoolituse tudengid.</li>
+		12.-14. aprillil võõrustab meie kooli Ruovesi keskkooli 10 õpilast. Soome kooli õpilased külastavad ainetunde ning osalevad EMÜ-s veterinaariapraktikumis.</li>
 </ul>
+<p> </p>
 <h2>
 	Klasside tegemised</h2>
 <ul>
 <li>
-		Neljapäeval, 23. märtsil tutvusid 10.e klassi õpilased Tallinnas Kumu näitustega, külastasid Eesti Panka, kus pangandustarkusi jagas panga makse- ja arveldussüsteemide osakonna juhataja Rainer Olt (2002. aasta HTG vilistlane). Päeva lõpus pakkus mõtlemisainet Tallinna Linnateatri lavastus „Tunde-märgid“.</li>
+		Neljapäeval, 30. märtsil külastas 12.d klass Viljandi kultuuriakadeemiat, osaleti kultuuriproduktsiooni töötoas ning vaadati Ugala etendust „Kui sa tuled, too mul lilli“.</li>
+<li>
+		31. märtsil pidas 12.b oma viimast ööakadeemiat. Kahooti abil ennustati õpilaste tulevikku, mahukas fotode esitlus meenutas koos veetud aega Treffneris. Eriti populaarseks osutus karaoke.</li>
+<li>
+		Aitäh kõigile osalejatele, vabatahtlikele ja publikule! <strong>Playback Show 2023</strong> ei oleks olnud nii vinge ilma teieta. Erikategooria “Tõi pisara silma” võitja oli õpetajate grupp Dana&amp;Co, “Potentsiaal sünkroonujumiseks” võitja 11.d ning “Rabav rätsepatöö ja professionaalne krohviviimistlus” võitja 11.c.  Rahva lemmikuks ehk “Kolkapatrioodiks” osutus samuti õpetajate grupp Tagaaia poisid. Playback Show 2023 peavõitja ehk kõige kõigem oli 11.a kavaga “Kurgid sulle, raha mulle”, kuhu kuulusid Klaus Jõela, Lucas Lausing, Emma Luht ja Hans Henrik Rebane. Palju õnne kõigile võitjatele ja veel kord suur tänu kõigile osalejatele. </li>
 </ul>
 <h2>
 	Õpetajad koolist eemal</h2>
 <ul>
 <li>
-		Õpetaja Mall Matto osaleb saksa keele DSD eksami komisjonitöös neljapäeval, 30. märtsil kell 11.30 – 13.15.</li>
+		Õpetajad Ott Maidre, Monika Piirimäe ja Aare Ristikivi osalevad 11. ja 12. aprillil õpilaste teadusfestivalil;</li>
+<li>
+		direktor Ott Ojaveer ja õppealajuhataja Aime Punga on 12. aprillil Tartu koolijuhtide kevadseminaril. </li>
 </ul>
 <h2>
-	Sport</h2>
+	 Sport</h2>
 <ul>
 <li>
-		HTG-s toimusid linna gümnaasiumide meistrivõistlused saalihokis. Neidudest võitis JPG, napilt jäi teiseks HTG ning kolmanda koha sai KJPG. Noormeestest võitis HTG, teiseks tuli TAG ning  kolmandaks KJPG. Kooli esindasid Mirtel Teder (10.a), Joosep Jürissaar (10.a), Marta Tammiksaar (10.d), Heidi Tõnisson (11.a), Karl Romet Ainso (11.d), Klaara Erepuu, Petra Räbin, Mark Kaspar Kõnd, Robin Sepma (kõik 11.e), Helena Lindeberg, Thomas Tennisson, Oskar Männik (kõik 12.a),  Tuule-Liis Jaagant, Loviisa Lätt, Johan Villem Kaare (kõik 12.b) ja Randar Vahtrik (12.d).</li>
+		Klasside vahelise võrkpalliturniiri finaalis oli tarvis samuti mängida kaks mängu: mõlemad võitis miinusringist tulnud 12.a klass ühe punktiga ning krooniti sellel õppeaastal juba teist korda kooli meistriks. Teiseks jäi 10.a, kolmandaks 12.c ning neljandaks 12.d klass.</li>
+<li>
+		Aprillikuus on taas plaanis õpetajate-õpilaste ühine sammukogumine. Sellel aastal võiks olla veelgi enam kaasalööjaid, sest käesolev aasta on ka liikumisaasta. Selle kohta leiate rohkem infot siit: <a href="https://liikumisaasta.ee/">https://liikumisaasta.ee/</a>. Sammukogumise täpsem info on saadetud kas Stuudiumisse või e-mailile. Toredat liigutamist!</li>
 </ul>
 <h2>
-	Raamatukogu teated</h2>
-<ul>
-<li>
-		Märts on teatrikuu ning 27. märts rahvusvaheline teatripäev. Raamatukogu lugemisaalis ootab sind teatriteemaliste raamatute väljapanek. Tule vaatama ja laenutama!</li>
-</ul>
+	 Raamatukogu teated</h2>
+<p>
+	Euroopa kirjanike päeva puhul külastas 27. märtsil HTG-d kirjanik Paavo Matsin, kes rääkis muu hulgas sellest, mille vastu Euroopa lugejad praegu huvi tunnevad ning millised on tema enda viimased lugemiselamused.<br />
+	 </p>
 <h2>
-	Koolisöökla teated</h2>
-<ul>
-<li>
-		Orientiiriks lapsevanematele <strong>aprillikuu toiduraha</strong>:</li>
-</ul>
-<p>* kui õpilane sööb ka arvestuste nädalal:<br />
-tavatoit 14 päeva x 1.00 euro = 14.00 eurot, XLportsjon 14 päeva x 1.85 eurot = 25.90 eurot ja taimetoit 14 päeva x 1.35 eurot = 18.90 eurot; <br />
-* kui õpilane ei söö arvestuse nädalal:<br />
-tavatoit 9 päeva x 1.00 euro = 9.00 eurot, XLportsjon 9 päeva x 1.85 eurot = 16.65 eurot ja taimetoit 9 päeva x 1.35 eurot = 12.15 eurot.</p>
-<ul>
-<li>
-		Tuletame meelde, et õpilased, kes ei söö arvestuste nädalal, peavad ennast süsteemis ARNO märkima sellel perioodil puudujaks.</li>
-</ul>
-</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 00:26</div></div></div></div>
+	Vilistlaskogu teated</h2>
+<p>
+	Kooli vilistlaskogu on välja kuulutanud õpilastele <strong>Mauruse stipendiumikonkursi</strong>.  Stipendiumi-fondi suuruseks on kuni 2450 eurot, välja antakse kuni 7 stipendiumit á 350 eurot. Taotluste esitamise tähtaeg on 2. mai 2023. Täpsem info kooli kodulehel (<a href="https://www.htg.tartu.ee/vilistlaskogu" target="_blank">https://www.htg.tartu.ee/vilistlaskogu</a>).<br />
+	 </p>
+<h2>
+	Eelteated</h2>
+<p>
+	<strong>Prantsuse keele rahvusvaheline DELF scolaire</strong> eksam toimub:<br />
+	<strong>B2-taseme</strong> kirjalik osa esmaspäeval, 17. aprillil kell 10.00 ruumis 312, suuline osa kolmapäeval, 19. aprillil kell 13.30 – 16.30 ruumides 308 ja 309.<br />
+	<strong>A2-taseme</strong> kirjalik osa esmaspäeval, 17. aprillil kell 13.00 ruumis 312, suuline osa teisipäeval, 18. aprillil kell 9.30 – 15.20 ruumides 308 ja 309.<br />
+	<strong>B1 taseme eksam toimub Miina Härma Gümnaasiumis</strong>, kirjalik osa esmaspäeval, 17. aprillil kell 10.00.<br />
+	 </p>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 15:27</div></div></div></div>
 
   </div>
   

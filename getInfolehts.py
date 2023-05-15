@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-
+'''
 for aasta in range(14, 22):
     # URL of the website to scrape
     url = f'https://www.htg.tartu.ee/Infolehed{aasta}'
@@ -37,11 +37,11 @@ for aasta in range(14, 22):
             f.write(splitted)
             f.close()
             i+=1
-
+'''
 # 2023 
 url = "https://www.htg.tartu.ee/Infolehed"
 response = requests.get(url)
-
+print("2023")
 # Create a BeautifulSoup object with the website's HTML content
 soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -68,7 +68,7 @@ for tag in anchor_tags:
         f.write(splitted)
         f.close()
         i += 1
-
+'''
 # 2002 - 2013
 for aasta in range(2, 14):
     if (aasta < 10):
@@ -99,3 +99,4 @@ for aasta in range(2, 14):
         f.write(resp.content.decode("windows-1257", errors="ignore"))
         f.close()
         i += 1
+'''

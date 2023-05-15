@@ -1,28 +1,91 @@
 <div class="field-item even" property="content:encoded"><h1>
-	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2029_02.05.2023.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a></h1>
+	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2030_08.05.2023.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a></h1>
 <h1>
 	Juhtkond tänab</h1>
 <ul>
 <li>
-		arendusjuht Aare Ristikivi programmi Erasmus+ raames 2019-2022 finantseeritud õpetajate õpirände projekti juhtimise ja eduka elluviimise eest;</li>
+		Õpetaja Anett Pillmanni ja vilistlast Ants-Oskar Mäesalu õpilaste konkurssideks ettevalmistamise eest;</li>
 <li>
-		õpetajaid Ülle Hüva, Siim Oksa, Eve Paapi, Anett Pillmanni, Tiina Pluumi, Julia Polikarpust, Kristiina Pungat, Madis Reemanni, Aare Ristikivi, Uve Saart, Ehtel Timakut Age Salo, Karin Soodlat ja Agnes Vaski õpilaste konkurssideks ettevalmistamise eest.</li>
+		õpetaja Aimar Poomi sammukogumise võistluse läbiviimise eest.</li>
 </ul>
 <!--break--><h1>
 	Õppetöö</h1>
+<p><strong>Muudatused tunni- ja ruumiplaanis</strong><br />
+<u>teisipäev, 09.05</u><br />
+<strong>10.a     </strong>2. tund ajalugu õp I. Pajur – 144<br />
+<strong>11.c     </strong>1. tund ajalugu õp I. Pajur – 144<br />
+<u>kolmapäev, 10.05</u><br />
+<strong>10.a     </strong>1. tund ajalugu õp I. Pajur – 202<br />
+<strong>10.d     </strong>2. tund matemaatika õp A. Külter – 139<br />
+<strong>11.b     </strong>4. tund ajalugu õp I. Pajur – 203<br />
+<strong>11.c     </strong>3. tund ajalugu õp I. Pajur – 203<br />
+<strong>11.e     </strong>1. – 3. tund humanitaarpraktika õp K. Punga – rahvusarhiivis<br />
+4. tund religioonilugu õp T. Jürgenstein – 203<br />
+<u>neljapäev, 11.05</u><br />
+<strong>10.c     </strong>3. tund kehaline kasvatus õp A. Saarva/A. Poom<br />
+<strong>10.d     </strong>2. tund kehaline kasvatus õp A. Saarva/A. Poom<br />
+<strong>11.c     </strong>4. tund matemaatika õp A. Külteri tundi asendab õp E. Timak<strong> –</strong> 139<br />
+<strong>11.d     </strong>2. – 4. tund humanitaarpraktika õp K. Punga – rahvusarhiivis<br />
+<u>reede, 12.05</u><br />
+<strong>10.a     </strong>1. tund ajalugu õp I. Pajur – 227<br />
+<strong>10.c     </strong>1. tund matemaatika õp A. Külter – 139                   3. tund kirjandus õp K. Soodla – 105<br />
+<strong>10.d     </strong>1. tund religioonilugu õp T. Jürgenstein – 203<br />
+            3. tund kirjandus õp K. Soodla – 105<br />
+<strong>11.a     </strong>1. tund füüsika (Friedrich Kaasiku (vil 2006) loeng) – 221<br />
+<strong>11.b     </strong>1. tund Friedrich Kaasiku (vil 2006) loeng – 221<br />
+2. tund ajalugu õp I. Pajur – 227<br />
+3. tund kehaline kasvatus õp A. Saarva/A. Poom<br />
+<strong>11.c     </strong>1. tund Friedrich Kaasiku (vil 2006) loeng – 221<br />
+            3. tund füüsika õp S. Oks – 213<br />
+<strong>11.d     </strong>1. tund kirjandus õp K. Soodla – 105<br />
+3. tund religioonilugu õp T. Jürgenstein – 203<br />
+<strong><em>vabaaine kursuse</em></strong><em> Õiguse alused 4. tund – 227</em><br />
+<u>esmaspäev, 15.05</u><br />
+<strong>11.d     </strong>4. tund bioloogia õp O. Maidre – 213</p>
 <ul>
 <li>
-		Haridus- ja Noorteameti Erasmus+ ja Euroopa Solidaarsuskorpuse Agentuur (endine Sihtasutus Archimedes) on 17.04.2023 aktsepteerinud kooli esitatud lõpp- ja finantsaruande seoses programmi Erasmus+ raames teostatud projektiga „Hugo Treffneri Gümnaasiumi õpetajate õpiränne - uuri, planeeri, teosta!“. Projekti rahastati ajavahemikul 2019-2022. a. 42 675 euro ulatuses, mille raames toimus 17 õpetaja õpiränne.</li>
+		<strong>UPT-24</strong> teise juhendajaseminari aeg on muutunud, kuna väga paljud 11. klasside õpilased viibivad 10. mail riigikaitse laagris. <strong>UPT-24 </strong>teine seminar toimub esmaspäeval, 15. mail 1. tunni ajal kell 8.00 – 9.15.<br />
+		Õpetajad ootava õpilasi järgmiste ruumides:<br />
+		Erika Hunt                             308<br />
+		Ülle Hüva                               136<br />
+		Joana Jõgela                           216<br />
+		Toomas Jürgenstein               208<br />
+		Saima Kaarna                         226<br />
+		Ave Külter                             139<br />
+		Ott Maidre                              225<br />
+		Anneli Mägi                           206<br />
+		Katrin Ojaveer                        312<br />
+		Madli Nuut                             219<br />
+		Siim Oks                                213<br />
+		Kerli Orav-Puurand               221<br />
+		Eha Paabo                              217<br />
+		Eve Paap                                201<br />
+		Jaan Paaver                             214<br />
+		Indrek Pajur                            108<br />
+		Monika Piirimäe                     109<br />
+		Tiina Pluum                            102<br />
+		Aimar Poom                           150<br />
+		Kristiina Punga                      144<br />
+		Doris Kristina Raave              310<br />
+		Madis Reemann                     212<br />
+		Aare Ristikivi                         104<br />
+		Kaia-Riin Rohtmaa                218<br />
+		Ülli Roostoja                          309<br />
+		Anneli Saarva                         146<br />
+		Sandra Sagar                          200<br />
+		Age Salo                                 107<br />
+		Ülle Seevri                             303<br />
+		Karin Soodla                          105<br />
+		Ehtel Timak                            137<br />
+		Ljubov Titova                         302<br />
+		Olga Titova                            301<br />
+		<strong>11. klasside õpilased, </strong>kes osalevad 15. mail vabaaine tunnis ning õpilased, kelle juhendajaks on õpetaja Julia Polikarpus, Marcus Hildebrandt, Raimond Lepiste, kooli med. õde Jaanika Saarepuu või psühholoog Triin Ulst peavad ise võtma juhendajaga ühendust nädala jooksul 15.-19. maini.<br />
+		Õpetaja Anett Pillmann võtab oma juhendatavatega ise ühendust.</li>
+</ul>
+<p> </p>
+<ul>
 <li>
-		<strong>IV perioodi järelarvestusi</strong> saab sooritada 4.‑11. maini.<br />
-		<u>neljapäev, 04.05</u><br />
-		kell 16.00        ajalugu õp K. Punga – 144<br />
-		kell 16.00        eesti keel õp A. Salo ja ajalugu õp I. Pajur – 107<br />
-		kell 16.00        inglise keel kõik inglise keele õpetajad – 308<br />
-		kell 16.00        matemaatika kõik matemaatikaõpetajad – 221<br />
-		kell 16.00        saksa keel õp M. Matto – 204<br />
-		<u>reede, 05.05</u><br />
-		kell 16.00        kunstiajalugu õp R. Lepiste – 202<br />
+		<strong>IV perioodi järelarvestusi saab sooritada</strong> kuni 11. maini.<br />
 		<u>esmaspäev, 08.05</u><br />
 		kell 16.00        füüsika õp J. Paaver – 213<br />
 		kell 16.10        eesti keel õp T. Pluum – 102<br />
@@ -31,132 +94,121 @@
 		kell 16.00        füüsika õp S. Oks – 213<br />
 		<u>kolmapäev, 10.05</u><br />
 		kell 16.00        eesti keel õp K. Soodla – 105<br />
-		kell 16.00        bioloogia ja geograafia õp S. Kaarna, O. Maidre ja Ü. Seevri - 225<br />
+		kell 16.00        bioloogia ja geograafia õp S. Kaarna, O. Maidre ja Ü. Seevri – 225<br />
 		<u>neljapäev, 11.05 </u><br />
-		kell 16.00        koondjärelarvestus õp M. Piirimäe – 221</li>
+		kell 16.00        koondjärelarvestus õp M. Piirimäe – 221<br />
+		<u>Neljapäeval, 11. mail</u> kell 16.00 ruumis 221 toimuvas <strong>õnnetunnis</strong> on võimalus järelarvestust sooritada õpilastel, kellel langes kaks järelarvestust samale ajale või ei olnud haiguse tõttu võimalik järelarvestust ettenähtud ajal sooritada. Nimetatud juhul tuleb
+<ul>
+<li>
+				õpilasel valida õppeaine, milles ta sooritab järelarvestust ettenähtud ajal (suuline arvestus tuleb sooritada kindlasti õigel ajal);</li>
+<li>
+				teavitada teise aine õpetajat mitme järelarvestuse kokkulangevusest, paludes luba sooritada järelarvestus 11. mail;</li>
+<li>
+				registreeruda elektrooniliselt õnnetundi hiljemalt 9. mail Stuudiumi keskkonnas (menüü all ☰ &gt;Registreeri).</li>
+<li>
+				Lisaks järelarvestustele on 11. mail toimuvas õnnetunnis võimalus kirjutada ka V perioodil ebaõnnestunud või sooritamata jäänud hindelisi töid. Registreerumine õnnetundi Stuudiumis (menüü all ☰ &gt;Registreeri) lõpeb 9. mail või kui õnnetundi on registreerunud 40 osalejat.</li>
+</ul>
+</li>
 </ul>
 <p> </p>
 <ul>
 <li>
-		Alates 3. maist toimuvad kehalise kasvatuse tunnid TÜ staadionil. Riietumine ja pesemine toimub koolimajas.</li>
+		<strong>Riigikaitse 2. kursus</strong> (välilaager) toimub Võrumaal Nursipalus 9. – 11. maini.</li>
 </ul>
-<h2>
-	Muudatused tunniplaanis</h2>
-<p><u>teisipäev, 02.05.</u><br />
-<strong>10.e     </strong>5. tund religioonilugu õp T. Jürgenstein – 203<br />
-<strong>11.b     </strong>5. tund inglise keel õp K. Ojaveeri rühmal jääb ära<br />
-<strong>11.c     </strong>5. tund inglise keel õp K. Ojaveeri rühmal jääb ära<br />
-<strong>11.d     </strong> 5. tund inglise keel õp K. Ojaveeri rühmal jääb ära<br />
-<u>esmaspäev, 08.05</u><br />
-<strong>11.b     </strong>4. tund ajalugu õp I. Pajur – 102<br />
-<strong>11.c     </strong>2. tund ajalugu õp I. Pajur – 102<br />
-1. tund <strong>Õiguse alused –</strong> 102</p>
 <h2>
 	Abiturientidele</h2>
 <ul>
 <li>
-		<strong>Inglise keele riigieksami </strong>suuline osa toimub Jaan Poska Gümnaasiumis kolmapäeval, 3. mail. Intervjueerib õp Erika Hunt ja hindab õp Ülli Roostoja.</li>
+		<strong>Matemaatika riigieksam </strong>toimub kolmapäeval, 17. mail kell 10.00, kohal tuleb olla hiljemalt kell 9.45. Kaasa võtta <strong>isikut tõendav pildiga dokument</strong> ja kirjutus-  ning joonestusvahendid ning vajalikud isiklikud hügieenitarbed ja ravimid. Eksam toimub kahes osas: esimene osa kestab 120 minutit kell 10.00 – 12.00, teine osa 150 minutit kell 12.45 – 15.15. Kahe osa vahel kell 12.00 – 12.45 saavad eksaminandid (ARNOs eelnevalt tehtud registreerimise alusel) lõunatada kooli sööklas. Sööma minnes õpilaspilet kaasa!</li>
 <li>
-		Abiturientidel palutakse klassijuhatajale teatada <strong>koolieksami I osa punktid</strong>. Tabel kõigi andmetega on jagatud klassijuhatajatele, samuti on arvestuste punktid nähtavad Stuudiumis. Kõigil õpilastel, ka neil, kes on koolieksami sooritamisest vabastatud, tuleb valida ühe kursuse arvestuse tulemus sotsiaalainete valdkonnast (ajalugu või ühiskonnaõpetus) ning ühe kursuse arvestuse tulemus loodusainete valdkonnast (bioloogia, füüsika või keemia). Koolieksami I osa tulemuste hulka ei saa valida õppeaine arvestuse tulemust, milles õpilane sooritab eksami II osa, nt. olles valinud koolieksami õppeaineks füüsika, tuleb loodusainete arvestuse tulemus valida kas bioloogias või keemias. Õppealajuhataja ootab andmeid 15. mail.</li>
+		Sooviavalduse kordusarvestustele saab esitada Stuudiumi keskkonnas (menüü all <strong>Muu&gt;Küsimustikud</strong>) 9.-12. maini. Pärast 12. maid esitatud taotlusi ei ole võimalik rahuldada, sest kordusarvestustele lubamise otsustab õppenõukogu 18. mail.<br />
+		Vastavalt kooli hindamisjuhendile on võimalus kirjutada avaldus kuni kahe erineva õppeaine arvestuse kordussoorituseks.<br />
+		Avalduses tuleb märkida õppeaine, kursuse number, aineõpetaja nimi ja lühike põhjendus, miks peaks õppenõukogu lubama kordusarvestust sooritada.<strong> </strong></li>
 <li>
-		Lisaks vabaainetele on abiturientidel võimalus osaleda järgmistel kursustel, mis toimuvad tunniplaanis määratud ajal, mitte vabaainete tundideks ettenähtud ajal.<br />
-		Üldistav bioloogia (BI5)        õp Saima Kaarna<br />
-		Füüsika 6. kursus  (12.c, 12.d ja 12.d klassidele)<br />
-		õp Siim Oks<br />
-		Üldistav keemia (KE5)          õp Eha Paabo<br />
-		Matemaatika 15. kursus         õp Ülle Hüva (12.a), õp Julia Polikarpus (12.b), õp Ave Külter (12.c), õp Kerli Orav-Puurand (12.d ja 12.e).</li>
+		<strong>Kordusarvestusi</strong> (kolme õppeaasta jooksul ebaõnnestunud arvestusi või arvestusi, mille hinnet soovitakse parandada) on abiturientidel võimalus sooritada 24.-30. maini. Kordusarvestuste täpne toimumise aeg ja koht teatatakse <strong>22. mai infolehes.</strong></li>
 <li>
-		<strong>Matemaatika riigieksamiks </strong>ettevalmistus toimub matemaatika 15. kursusel.</li>
+		Abiturientidel palutakse klassijuhatajale teatada <strong>koolieksami I osa punktid</strong>. Tabel kõigi andmetega on jagatud klassijuhatajatele, samuti on arvestuste punktid nähtavad ka Stuudiumis. Kõigil õpilastel, ka neil, kes on koolieksami sooritamisest vabastatud, tuleb valida ühe kursuse arvestuse tulemus sotsiaalainete valdkonnast (ajalugu või ühiskonnaõpetus) ning ühe kursuse arvestuse tulemus loodusainete valdkonnast (bioloogia, füüsika või keemia). Koolieksami I osa tulemuste hulka ei saa valida õppeaine arvestuse tulemust, milles õpilane sooritab eksami II osa. Nt. olles valinud koolieksami õppeaineks füüsika, tuleb loodusainete arvestuse tulemus valida kas bioloogias või keemias. Õppealajuhataja ootab andmeid 15. mail.</li>
 <li>
-		Õpetajad laevad Stuudiumisse k<strong>oolieksami kordamisküsimused </strong>hiljemalt 4. mail. Koolieksamiks ettevalmistavaid konsultatsioone ei toimu bioloogias ja keemias. Nimetatud aines eksami valinud õpilane peab läbima V perioodil vastavalt bioloogia või keemia üldistava kursuse. Ülejäänud õppeainetes toimuvad konsultatsioonid maikuu teises pooles.</li>
-<li>
-		V perioodil toimuvad <strong>12. klasside klassijuhatajate infominutid</strong> klassijuhatajatega kokkulepitud ajal.</li>
+		V perioodil toimuvad <strong>12. klasside klassijuhatajate infominutid</strong> klassijuhatajatega kokkulepitud ajal. </li>
 </ul>
 <h2>
-	Olümpiaadid ja võistlused</h2>
+	Olümpiaadid ja võistlused<br />
+	 </h2>
 <ul>
 <li>
-		20. aprillil toimus <strong>noorte laulupeo</strong> „Püha on maa“ teine eelproov, mille lõpus hinnati igat koori eraldi. Segakoori Anima esitus sai hinnanguks „väga hea“ ning koor on pääsenud esinema laulupeole.</li>
-<li>
-		Meie Miilang võitis Õhtulehe <strong>koolilehtede konkursil</strong> peapreemia ja nimetati Eesti säravaima sisuga koolileheks. </li>
-<li>
-		Möödunud nädalavahetusel (29.-30.04.) toimus Vanemuise kontserdimajas <strong>Ullo Toomi tantsude</strong> <strong>võistutantsimine</strong>, kust Tantsutaldade esindusrühm tuli koju II kohaga A-rühmade arvestuses.</li>
+		.... olümpiaaditulemused on infolehe <a href="/sites/default/files/files/HTG_infoleht_nr%2030_08.05.2023.pdf">pdf-formaadis</a>.</li>
 </ul>
-<p>.... nimelised olümpiaaditulemused on infolehe <a href="/sites/default/files/files/HTG_infoleht_nr%2029_02.05.2023.pdf">pdf-formaadis</a>.<br />
- </p>
 <h2>
 	Konkursid</h2>
 <ul>
 <li>
-		UNESCO ootab osalema rahvusvahelisel <strong>esseekonkursil</strong> “Noored rahumeelse tuleviku eest“.<br />
-		Tööde esitamise tähtaeg on 15. juuni, täpsem info: <a href="https://www.goipeace.or.jp/en/work/essay-contest">https://www.goipeace.or.jp/en/work/essay-contest</a>.</li>
+		Rahvusraamatukogu ootab osalema <strong>GIF‑konkursil</strong> „Liigu looduses!“, mille eesmärk on liikumise ja looduskeskkonna ilu tähtsuse esiletoomine. Tööde esitamise tähtaeg on 1. juuni, täpsem info <a href="https://www.rara.ee/sundmused/gif-konkurss-2023">https://www.rara.ee/sundmused/gif-konkurss-2023</a>.</li>
+<li>
+		Ajakiri Edasi kutsub osalema <strong>videokonkursil</strong> “Edasi on ka minu mõte”. Tööde esitamise aeg on 31. juuli, täpsem info <a href="https://edasi.org/184594/videokonkurss-noortele-edasi-on-ka-minu-mote">https://edasi.org/184594/videokonkurss-noortele-edasi-on-ka-minu-mote</a>.</li>
+<li>
+		Hiite Maja ootab osalema <strong>hiite kuvavõistlusel</strong>, tööde esitamise tähtaeg on 15. oktoober, täpsem info <a href="https://www.hiis.ee/kuva/2023">https://www.hiis.ee/kuva/2023</a>.</li>
 </ul>
 <h2>
 	Teated</h2>
 <ul>
 <li>
-		Teisipäeval, 2. mail toimub <strong>ajalooringis</strong> HTG dokumentaalfilmiklubi. Vaatame dokumentaalfilmi „Take your pills“, teemaks on keskendumist ja produktiivsust parandavad ravimid, mis on kujunemas tänapäeva ühiskonna üha prominentsemaks medikamendiks. Alustame kell 16.00 ruumis 141, kõik on oodatud!</li>
+		<strong>Hea 10. ja 11. klassi õpilane</strong>! Oleksid Sa valmis sügisel toetama uusi koolikaaslasi kooliellu sisseelamisel? Kutsume ellu REBASTE KOJA. Seame õppeaasta esimesteks nädalateks koolimajas käidavasse kohta sisse äratuntavalt tähistatud koha (nt infolaua aatriumis). Vahetundides viibivad seal 1-2 vanema klassi õpilast, kes on valmis jagama koolieluga seonduvat infot ja vastama rebaste küsimustele (kuidas leida klassiruume, kuidas valida vabaaineid, kust rebaste ristimiseks kostüümi leida jms). Mõned huvilised on endast juba märku andnud, kuid ootame neile lisa. Kohtume rebaste koja tegemistest osa võtta soovijatega teisipäeval, 16. mail teisel pikal vahetunnil raamatukogu lugemissaalis. Räägime läbi ja lepime kokku täpsemad edasised tegevused. Lisainfo: Triin Ulst, ruum 311 või <a href="mailto:triin.ulst@htg.tartu.ee" target="_blank">triin.ulst@htg.tartu.ee</a>.</li>
 <li>
-		Kolmapäeval, 3. mail kell 16.00 on Tartu Raekotta <strong>linnapea vastuvõtule</strong> kutsutud rahvusvahelistel konkurssidel kutsete alusel osalenud õpilased (mõned neist tänaseks vilistlased)  ja nende õpetajad:<br />
-		Kert Lelov (11.a), Rando Lukk, Mattias Timm Rast,  Ander Pavlov (kõik 12.a),  Toomas Herodes, Kristjan-Erik Kahu, Hans Gustav Kõljalg, Jakob Veske (kõik 12.b), vilistlased Karl Valter Oja, Martin Ottas, O. Tennisberg, Hanna Seedur, Vesta Selg ning õpetajad Marcus Hildebrandt, Saima Kaarna, Ott Maidre, Anneli Mägi,  Siim Oks, Julia Polikarpus, Kristiina Punga, Madis Reemann ja Ülle Seevri.</li>
+		Esmaspäeval, 8. mail kell 16.00 - 18.00 on ruumis nr. 136 Tartu <strong>linna</strong> <strong>aineühenduste </strong>juhtide koosolek, kus arutatakse piirkondlike olümpiaadide korraldamisega seotud küsimusi.</li>
 <li>
-		Reedel, 5. mail jäävad ööakadeemiasse 10.b klassi õpilased ja nende klassijuhataja Sandra Sagar.</li>
+		6.-14. maini on meie koolis <strong>Erasmus+</strong> projekti raames õpilased Saksamaalt Schelklingenist ja Belgiast Waregemi linnast.</li>
 <li>
-		Reedel 5. mai hommikupoolikul on koolis külalised Helsingi Ülikoolist.</li>
+		Teisipäeval, 9. mail tähistab <strong>ajalooring</strong> Euroopa päeva ning meie külalised Saksamaalt ja Belgiast tutvustavad enda riike. Alustame kell 16.00 ruumis 141, kõik on oodatud!</li>
 <li>
-		Tartu Ülikooli kommunikatsioonitudengid koostöös Tartu Naiste Tugi- ja Teabekeskusega korraldavad kampaaniat lähisuhtevägivalla teadvustamiseks, selle raames paigutati plakatid ka meie kooli.</li>
+		Tartu linna ja maakonna gümnaasiumiõpilastele mõeldud <strong>kirjanduslik mälumäng</strong> (KIMM) toimub neljapäeval, 11. mail kell 13.00 Hugo Treffneri Gümnaasiumi aulas. Ürituse avab lühiloenguga kirjanik Meelis Friedenthal. Võistkonnas saab olla kuni neli ühe ja sama gümnaasiumi õpilast ning ühest koolist võib osaleda mitu võistkonda. Palun andke osalemissoovist hiljemalt esmaspäeval, 8. mail oma kirjandusõpetajale teada. Ootame rohket osavõttu ning võib tulla ka kaasa elama!</li>
 <li>
-		Eesti Teaduste Akadeemia kutsub end registreerima <strong>õpilaste teadusseminarile</strong>, mis toimub Lääne-Virumaal Viitna puhkekeskuses 9.–11. augustini 2023 ja on osalejatele tasuta, teemaks on seekord vastupidavus. Täpsem info <a href="https://www.akadeemia.ee/sundmused/opilaste-teadusseminar-2023">https://www.akadeemia.ee/sundmused/opilaste-teadusseminar-2023</a>.</li>
-</ul>
-<h2>
-	Klasside tegemised</h2>
-<ul>
+		Kooliõe juures sooritab 2.-12. maini „Terve lapse“ praktikat Tartu Tervishoiu Kõrgkooli I kursuse ämmaemanda eriala tudeng Lisette Tomingas.</li>
 <li>
-		12.e klass pidas 21. aprillil viimast ööakadeemiat: üheskoos mängiti erinevaid arvamismänge, nauditi andekate klassikaaslaste kontserti ning elati kaasa ühistööna valminud krimipõneviku esilinastusele. Aitäh kõigile, kes meeleolukasse õhtusse viisil või teisel panustasid.</li>
+		Reedel, 12. mail kell 18.00 algab aulas Anima ja Tantsutaldade <strong>kevadkontsert</strong>. Kõik on oodatud kuulama ja vaatama!</li>
 <li>
-		24.-28. aprillil reisisid 11.d ja 11.e klassi õpilased ja klassijuhatajad Eve Paap ja Toomas Jürgenstein Poolas. Külastati diktaator A. Hitleri Hundikoobast, vaimuliku ja astronoomi M. Koperniku tööpaika ning hauda, kuulsat Malborki kindlust ning hansalinna Gdanskit. Oli hariv ja meeleolukas õppeekskursioon.</li>
-<li>
-		11.c koos osade 10.c klassi õpilastega veetsid koolivaheaja Prahas. Seal külastati Rahvusmuuseumi, Hradčany kindlust, Karli silda ja uudistati raekoja astronoomilist kella. Lisaks jätsid kustumatu mälestuse Konepruske koobastik ja Sedlecki luukabel<strong>.</strong></li>
-</ul>
-<h2>
-	Õpetajad koolist eemal</h2>
-<ul>
-<li>
-		Õppetööst on eemal õpetaja Ott Maidre 2. mail ja Katrin Ojaveer 2.-3. mail ja õppealajuhataja Aime Punga 4.-5. mail.</li>
-<li>
-		Reedel, 5. mail osaleb direktor Ott Ojaveer Tartu linna visioonikonverentsil.</li>
+		<strong>10. klasside pildistamine</strong> toimub esmaspäeval, 15. mail aatriumis järgmiselt:<br />
+		kell 10.40 - 10.a<br />
+		kell 10.45 - 10.b<br />
+		kell 10.50 - 10.c<br />
+		kell 10.55 - 10.d<br />
+		kell 11.00 - 10.e</li>
 </ul>
 <h2>
 	Sport</h2>
 <ul>
 <li>
-		Robin Sepma (11.e) osales Eesti koondise koosseisus jäähoki U-18 noormeeste maailmameistrivõistlustel 1. divisjonis Sloveenias, kus saavutati alagrupis 5. koht ning jäädi samale tasemele püsima. Kokkuvõttes sai Eesti maailmas 21. koha, mis on meie riigi läbi aegade parim tulemus.</li>
+		Aprill on lõppenud ning ühes sellega on läbi saanud kolmas HTG õpilaste-õpetajate ühine sammukogumine. Kooli peale saime kokku 26,7 miljonit sammu, mis on uueks rekordiks. Õpilased panustasid 21,1 ning õpetajad 5,6 miljoni sammuga. Klassidest kogus enim samme 11.a – 6,9 miljonit, neile järgnesid 10.b 4,8 ning 12.a 4,4 miljoni sammuga. Individuaalselt olid õpilastest suurimad panustajad Heidi Tõnisson (11.a) 842 tuhande sammuga, talle järgnesid 672 tuhande sammuga Marta Joonas (10.b), Nansen Palo (11.a – 663 tuhat), Marta Tammiksaar (10.d), Eva-Maria Raudsepp (11.a), Sten Kaspar Vind (10.b), Liisi Paaver (12.a), Mia Marleen Lemetti (11.c), Karin Pärtelpoeg (10.e) ning Annette Annok (11.a). Õpetajatest kogus enim samme Joana Jõgela – 903 tuhat (päeva keskmine veidi üle 30 tuhande!). Talle järgnesid Ave Külter (560 000), Monika Piirimäe (557 000), Ülle Seevri, Heivo Kikkatalo ning Kärt-Katrin Johanson. Aitäh kõikidele osalejatele! </li>
 <li>
-		Kooli meistrivõistlustel 3x3 korvpallis saavutas esikoha 12.b klass, teiseks tuli 10.b ning kolmandaks 10.a klass.</li>
+		Tartu gümnaasiumide karikavõitjaks neidude võrkpallis tuli meie kooli naiskond koosseisus Salme Adeele Hollas, Marta Kann (12.a), Hanna Karin Randaru (12.c), Emma Vahelaan (12.d), Kelly Vinogradov (12.e), Liisa Laugesaar (11.b), Klaara Erepuu, Lisethe Kruus ja Mia Marta Miller (11.e).</li>
 <li>
-		Aleksander Jalakas (10.b) saavutas Emajõe karikavõistlustel U19-vanuseklassis ühepaadil 1. koha.</li>
+		Prantsusmaal toimunud rühmvõimlemise maailmakarika etapil saavutasid „Siidisabade“ koosseisus kolmanda koha Liina Sarv (10.e) ning Maria Terep (11.a).</li>
+</ul>
+<h2>
+	Raamatukogu teated</h2>
+<ul>
+<li>
+		Reedel, 19. mail pärast 5. tundi toimub raamatukogu lugemissaalis <strong>HTG kirjandusklubi</strong> selle õppeaasta viimane kokkusaamine. Arutleme Hella S. Haasse lühiromaani „Uruq“ üle. Oodatud on kõik huvilised: ka siis, kui pole raamatut (lõpuni) lugenud.</li>
 </ul>
 <h2>
 	Eelteated</h2>
 <ul>
 <li>
-		Kolmapäeval, 10. mail 5. tunni ajal toimub UPT‑24 teine juhendajaseminar.</li>
+		Kolmapäeval, 17. mail toimub TÜ staadionil <strong>10. ja 11. klasside spordipäev</strong>. Ainetunde sel päeval ei toimu.</li>
 <li>
-		Riigikaitse 2. kursus (välilaager) toimub Võrumaal 9.–11. maini.</li>
+		Neljapäeval, 18. mail toimub <strong>õppenõukogu</strong>, kus otsustatakse abiturientide lubamine kordusarvestustele.</li>
 <li>
-		Reede, 12. mai õhtul toimub kooli kevadkontsert. Kõik on oodatud kuulama ja vaatama!</li>
+		Laupäeval, <strong>20. mail kell 12.00</strong> toimub HTG aulas taas vilistlaste <strong>lendudevaheline mälumäng</strong>. Mälumängust võib osa võtta kuni kolm õpilasvõistkonda, võistkonnas võib olla kuni neli liiget. Vajalik on eelregistreerumine -<a href="mailto:kaarelsiim@gmail.com">kaarelsiim@gmail.com</a>.</li>
 <li>
-		10. klasside pildistamine toimub esmaspäeval, 15. mail aatriumis järgmiselt:<br />
-		kell 10.40 - 10.a<br />
-		kell 10.45 - 10.b<br />
-		kell 10.50 - 10.c<br />
-		kell 10.55 - 10.d<br />
-		kell 11.00 - 10.e<br />
-		 </li>
-<li>
-		Tartu linna ja maakonna gümnaasiumiõpilastele mõeldud kirjanduslik <strong>mälumäng (KIMM)</strong> toimub neljapäeval, 11. mail kell 13.00 Hugo Treffneri Gümnaasiumi aulas. Mälumängu küsimused koostavad HTG vilistlased ja KIMM-i veteranid Juhan Pikamäe ning Liisa-Maria Komissarov. Ürituse avab lühiloenguga kirjanik Meelis Friedenthal. Võistkonnas saab olla kuni neli ühe ja sama gümnaasiumi õpilast ning ühest koolist võib osaleda mitu võistkonda. Palun andke osalemissoovist selle nädala jooksul oma kirjandusõpetajale teada. </li>
+		<strong>11. klasside pildistamine</strong> toimub esmaspäeval, 22. mail Jaani kiriku ees järgmiselt:<br />
+		kell 10.40 - 11.a<br />
+		kell 10.45 - 11.b<br />
+		kell 10.50 - 11.c<br />
+		kell 10.55 - 11.d<br />
+		kell 11.00 - 11.e</li>
 </ul>
-</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 00:26</div></div></div></div>
+<p>
+	 </p>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 15:27</div></div></div></div>
 
   </div>
   

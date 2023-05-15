@@ -1,157 +1,302 @@
 <div class="field-item even" property="content:encoded"><h1>
-	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2017_23.01.2023.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2017_23.01.2023.docx"><img alt="doc" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="float: right;" /></a></h1>
+	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2018_30.01.2023.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2018_30.01.2023.docx"><img alt="doc" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="float: right;" /></a></h1>
+<div>
 <h1>
-	Juhtkond tänab</h1>
+		Juhtkond tänab</h1>
 <ul>
 <li>
-		kooli meditsiiniõde Jaanika Saarepuud ja 12.c klassi õpilasi Kaarup Öövelit, Christofer Lepastet, Hans Markus Danilast ja Otto Richard Sokku abi eest doonoripäeva läbiviimisel.</li>
+			õpetajaid Saima Kaarnat, Ott Maidret ja Mall Mattot õpilaste konkurssideks ettevalmistamise eest.</li>
+<li>
+			Direktori käskkirjaga <a href="https://www.htg.tartu.ee/node/1193#kiitus">avaldatakse kiitust väga hea ja hea õppeedukuse eest</a>
+<!--break--></li>
 </ul>
-<!--break--><h1>
-	Õppetöö</h1>
+<h1>
+		Õppetöö</h1>
 <ul>
 <li>
-		Õpetajad teatavad II perioodi järelarvestuste hinded 25. jaanuaril.</li>
+			Kõikidel 11. klassi õpilastel tuleb 30. jaanuarist 3. veebruarini teha iseseisvalt <strong>UPT-24 test</strong>. Täpsem info Stuudiumis.</li>
 <li>
-		Kolmapäeval, 25. jaanuaril ning neljapäeval, 26. jaanuaril toimub 5. tunni ajal ruumis 303 <strong>UPT‑24</strong> seminar. Seminarid on sama sisuga ning osavõtt on vabatahtlik, seminaril tutvustatakse teadusliku metoodika aluseid, töö eesmärgipüstitust ning kooli UPT vormistusjuhendit. Kõik materjalid on iseseisvaks tutvumiseks üleval Moodle kursusel UPT-24. Seminaril osalemiseks tuleb end Moodles registreerida hiljemalt teisipäeval, 24. jaanuaril kell 22.00. Test materjalide peale viiakse läbi 30.01.‑03.02.</li>
+			30. jaanuarist 2. veebruarini toimub <strong>11.c klassi geneetika</strong> <strong>praktikum</strong>. I rühma praktikumi tunnid toimuvad 30.-31. jaanuarini kell 13.30 – 16.30 ja II rühma praktikumi tunnid 01.-02. veebruaril kell 13.30 – 16.30 TÜ Tehnoloogia Instituudi laboris.</li>
 <li>
-		Kolmapäeval, 25. jaanuaril toimub laulupeo I eelproov segakooridele. Segakoori lauljad ei osale sel päeval õppetööl.</li>
-<li>
-		26. jaanuaril kell 9.30 – 15.00 toimub auditooriumis (221) <strong>keemiaolümpiaadi </strong>Tartu linna piirkonnavoor. Nimetatud ajal on läbikäiguks suletud auditooriumi ees olev koridor.</li>
-<li>
-		Reedel, 27. jaanuaril kell 16.00 toimub ruumis 107 <strong>õnnetund </strong>(75 min)<strong>. </strong>Õnnetunnis osalemiseks saab registreeruda 25. jaanuari hilisõhtuni Stuudiumi keskkonnas (menüü all ☰ &gt;Registreeri).<br />
+			Neljapäeval, 2. veebruaril kell 16.00 toimub ruumis 221 <strong>õnnetund</strong> (90 min). Õnnetunnis osalemiseks saab registreeruda 31. jaanuari hilisõhtuni Stuudiumi keskkonnas (menüü all ☰ &gt;Registreeri).</li>
+</ul>
+<div class="rteindent2">
 		Õnnetunnis on õpilasel, kes mõjuval põhjusel kontrolltöö ajal puudus või kellel töö ebaõnnestus, võimalus sooritada järeltöö.<br />
-		Õnnetunnis osalemiseks tuleb pöörduda aineõpetaja poole ning paluda luba järeltööks. Õpilasele, kes ei ole käinud luba küsimas, õpetaja järeltöö teksti õnnetundi ei anna.</li>
+		Õnnetunnis osalemiseks tuleb pöörduda aineõpetaja poole ning paluda luba järeltööks. Õpilasele, kes ei ole käinud luba küsimas, õpetaja järeltöö teksti õnnetundi ei anna.</div>
+<ul>
 <li>
-		Esmaspäeval, 30. jaanuaril tähistame <strong>eesti kirjanduse päeva</strong>. Kõigis klassides viivad õpetajad 2. tunnis läbi viktoriini, mille küsimused on koostatud koolimaja I ja II korruse koridorides välja pandud eesti kirjanikke tutvustavate plakatite põhjal. 3. ja 4. tunni ajal toimub <strong>humanitaarsuuna konverents, </strong>millest võtavad osa kõik humanitaarsuuna klassid. Kavas on õpilaste ettekanded ja esinevad kirjanikud.</li>
+			Reedel, 3. veebruaril tutvuvad kooliga Hansa põhikooli õpilased, kes viibivad ka tundides.</li>
+</ul>
+<ul>
 <li>
-		30. jaanuarist 2. veebruarini toimub <strong>11.c klassi</strong> geneetika praktikum. I rühma praktikumi tunnid toimuvad 30.-31. jaanuarini kell 13.30 – 16.30 ja II rühma praktikumi tunnid 01.-02. veebruaril kell 13.30 – 16.30 TÜ Tehnoloogia Instituudi laboris.</li>
+			<strong>III perioodi arvestused</strong> toimuvad 8.–14. veebruarini.<br />
+			<strong>10.b, 11.a, 11c, 11.d ja 12.e klassi</strong> esimesed arvestused toimuvad juba teisipäeval, 7. veebruaril ainetunni ajal:<br />
+			<u>teisipäev, 07.02</u><br />
+			<strong>10.b     </strong>2. tund matemaatika arvestus õp E. Timak – 221<br />
+			<strong>11.a</strong>     2. tund vene keele arvestus õp L. Titova/<br />
+			O. Titova – 225/227<br />
+			<strong>11.c     </strong>3. tund matemaatika arvestus õp A. Külter – 221<br />
+			<strong>11.d</strong>     alates 4. tunnist saksa keele arvestus õp M. Matto – 204<br />
+			<strong>12.e</strong>     4. tund ühiskonnaõpetuse arvestus õp A. Ristikivi – 221</li>
+</ul>
+<ul>
+<li>
+			<strong>Kooli lõpueksami</strong> osana toimub <strong>11.a</strong> klassil ajaloo 4. kursus, <strong>11.b</strong> klassil keemia 4. kursus, <strong>11.c</strong> klassil  keemia 5. kursus, <strong>12.b</strong>, <strong>12.c</strong>, <strong>12.d</strong> ja <strong>12.e</strong> klassil ühiskonnaõpetuse 2. kursus.</li>
+<li>
+			<strong>UPT-23</strong> <strong>neljas kaitsmine</strong> toimub reedel, 10. veebruaril ja teisipäeval, 14. veebruaril ruumides 141, 203 ja 225.</li>
+<li>
+			29. jaanuarist 4. veebruarini on meie õpilaste delegatsioon koos õpetaja Ave Külteriga <strong>Erasmus+</strong> kokkusaamisel Belgias Waregemis.</li>
+<li>
+			Viimast korda sellel õppeaastal on meie kooli õpilastel tänu Tartu linnavalitsusele võimalus uisutada Lõunakeskuse liuväljal 8.-9. ja 13.-14. veebruaril. Koolile eraldatud ajal on riietus- ja duširuumide kasutamine tasuta, uiskude laenutamise eest tuleb tasuda 1 euro. Täpsem info kehalise kasvatuse õpetajatelt.</li>
+<li>
+			Õpilaste nimekirjast kustutati Eliise Ruus (11.e), kes jätkab õpinguid teises koolis.</li>
+<li>
+			Reedel, 27. jaanuaril kuulasid 12.c ja 12.b klassid <strong>Välisministeeriumi</strong> ettekannet inimõigustest ja rahvusvahelistest organisatsioonidest, rääkisid 2016. aasta vilistlane Marilind Reemann ning Maarja Kask ja Renate Gross.</li>
+<li>
+			26.-28. jaanuarini viibisid rootsi keele õpilased <strong>keelepraktika </strong>reisil. Helsingis tutvuti vabaajakeskusega Oodi ning veenduti rootsi keele oskuste kasulikkuses Soomes. Stockholmis külastati vanalinna kultuurilooliselt olulisi paiku ning linnamuuseumis täiendati ajalooteadmisi. Vabaaine kuuenda kursuse lõpureis pakkus rõõmu teadmisest, et ainult rootsi keelega saab juba hakkama küll. </li>
 </ul>
 <h2>
-	Muudatused tunniplaanis</h2>
-<p><u>kolmapäev, 25.01</u><br />
-<strong>10.b     </strong>5. tund enesehoole kursus med.õde J. Saarepuu – 144<br />
-<strong>10.c     </strong>4. tund kirjandus õp K. Soodla – 105<br />
-            5. tund enesehoole kursus õpilasnõustaja M. Nuut – 225<br />
-<strong>10.e     </strong>5. tund enesehoole kursus psühholoog T. Ulst – 107<br />
-<strong>12.b     </strong>2. tund ühiskonnaõpetus õp A. Ristikivi – 225<br />
-<strong>12.d     </strong>2. tund kirjandus õp K. Soodla – 105<br />
-            4. tund füüsika õp J. Paaver – 213<br />
-<strong>12.e    </strong> 1. tund ühiskonnaõpetus õp A. Ristikivi – 225<br />
-            3. tund füüsika õp J. Paaver – 203<br />
-<u>neljapäev, 26.01</u><br />
-<strong>10.b     </strong>1. tund matem.-füüsika praktikum õp E. Timak/M. Reemann – 135/212<br />
-            2. tund ajalugu õp I. Pajur – 102<br />
-<strong>11.b     </strong>4. tund prantsuse keel õp K.-K. Pere – 144<br />
-<strong>11.c     </strong>4. tund prantsuse keel õp K.-K. Pere – 144<br />
-<strong>11.d     </strong>1. tund jääb ära<br />
-            4. tund prantsuse keel õp K.-K. Pere – 144<br />
-<strong>11.e     </strong>1. tund jääb ära<br />
-            2. tund matemaatika õp E. Timak – 135<br />
-<strong>12.a     </strong>3. tund kirjandus õp K. Soodla – 105<br />
-<strong>12.d     </strong>2. tund kirjandus õp K. Soodla – 105<br />
-            3. tund matemaatika õp K. Orav-Puurand – 139<br />
-<strong>12.e     </strong>4. tund muusika õp E. Paap – 220<br />
-<u>reede, 27.01</u><br />
-<strong>11.e     </strong>1. tund jääb ära<br />
-<strong>12.e     </strong><em>2</em>. tund füüsika õp J. Paaver – 217<br />
-            3.-4. tund kirjandus õp T. Pluum – 102<br />
-<u>esmaspäev, 30.01</u><br />
-<strong>10.c     </strong>3. tund matemaatika õp H. Kiisel – 105<br />
-<strong>10.d</strong>    3. tund konverents aulas <br />
-           4. tund konverents aulas <br />
-<strong>10.e</strong>    3. tund konverents aulas <br />
-           4. tund konverents aulas<br />
-<strong>11.c</strong>    infominutid toimuvad pärast 3. tundi ruumis 102<br />
-           4. tund ära jääb õp O. Maidre tund, I rühm geneetika praktikumis – TÜ<br />
-<strong>11.d</strong>    3. tund konverents aulas<br />
-           4. tund konverents aulas<br />
-           5. tund matemaatika õp E. Timak – 135<br />
-<strong>11.e</strong>    3. tund konverents aulas <br />
-           4. tund konverents aulas <br />
-<strong>12.c</strong>    2. tund matemaatika õp H. Kiisel – 105<br />
-<strong>12.d</strong>    3. tund konverents aulas <br />
-           4. tund konverents aulas<br />
-           5. tund matemaatika õp K. Orav-Puurand – 139<br />
-<strong>12.e</strong>    3. tund konverents aulas  <br />
-           4. tund konverents aulas <br />
-           5. tund kirjandus õp T. Pluum – 102</p>
+		Muudatused tunniplaanis</h2>
+<p>	<u>teisipäev, 31.01</u></p>
+<div class="rteindent1">
+		<strong>10.a     </strong>5. tund matemaatika õp E. Timak – 135<br />
+		<strong>10.b     </strong>4. tund enesehoole kursus psühholoog T. Ulst – 144<br />
+		<strong>10.c     </strong>2. tund matemaatika õp H. Kiisel – 136<br />
+		<strong>10.d     </strong>4. tund matemaatika õp H. Kiisel – 136<br />
+		<strong>10.e     </strong>4. tund enesehoole kursus õpilasnõustaja M. Nuut – 107<br />
+		5. tund matemaatika õp H. Kiisel – 136<br />
+		<strong>11.a     </strong>5. tund rahuloluküsitlus õp A. Ristikivi – 303<br />
+		<strong>11.b     </strong>2. tund matemaatika õp Ü. Hüva – 139<br />
+		5. tund matemaatika õp Ü. Hüva – 139<br />
+		<strong>11.c     </strong>3. tund matemaatika õp H. Kiisel – 136<br />
+		pool klassi on alates 4. tunnist geneetika praktikumis<br />
+		<strong>12.a     </strong>3. tund matemaatika õp Ü. Hüva – 139<br />
+		4. tund matemaatika õp Ü. Hüva – 139</div>
+<p>	<u>kolmapäev, 01.02</u></p>
+<div class="rteindent1">
+		<strong>10.a     </strong>5. tund enesehoole kursus psühholoog T. Ulst – 202<br />
+		<strong>10.c     </strong>5. tund enesehoole kursus med. õde J. Saarepuu – 225<br />
+		<strong>10.d     </strong>5. tund enesehoole kursus õpilasnõustaja M. Nuut – 227<br />
+		<strong>10.e     </strong>4. tund matemaatika õp H. Kiisel – 136<br />
+		<strong>11.a     </strong>3. tund matemaatika õp Ü. Hüva – 139<br />
+		<strong>11.b     </strong>2. tund matemaatika õp Ü. Hüva – 139<br />
+		5. tund informaatika õp A. Mägi – TÜ raamatukogu<br />
+		<strong>11.c</strong>     3. tund matemaatika õp H. Kiisel – 136<br />
+		pool klassi on alates 4. tunnist geneetika praktikumis<br />
+		<strong>11.d     </strong>5. tund matemaatika õp E. Timak – 135<br />
+		<strong>11.e     </strong>5. tund informaatika õp A. Mägi – TÜ raamatukogu<br />
+		<strong>12.a     </strong>4. tund matemaatika õp Ü. Hüva – 139<br />
+		<strong>12.c     </strong>2. tund matemaatika õp H. Kiisel – 136</div>
+<p>	<u>neljapäev, 02.02</u></p>
+<div class="rteindent1">
+		<strong>10.a     </strong>5. tund muusika õp E. Paap – 220<br />
+		<strong>10.c     </strong>4. tund matemaatika õp H. Kiisel – 213<br />
+		<strong>10.d     </strong>2. tund matemaatika õp H. Kiisel – 102<br />
+		<strong>10.e     </strong>1. tund matemaatika õp H. Kiisel – 102<br />
+		<strong>11.b     </strong>4. tund prantsuse keel õp K.-K. Pere jääb ära<br />
+		<strong>11.c     </strong>4. tund prantsuse keel õp K.-K. Pere jääb ära<br />
+		pool klassi on alates 4. tunnist geneetika praktikumis<br />
+		<strong>11.d     </strong>4. tund prantsuse keel õp K.-K. Pere jääb ära<br />
+		<strong>PK5    </strong>5. tund prantsuse keel õp D.-K. Raave - 308</div>
+<p>	<u>reede, 03.02</u></p>
+<div class="rteindent1">
+		<strong>10.d     </strong>4. tund matemaatika õp H. Kiisel – 144<br />
+		<strong>11.a     </strong>3. tund matemaatika õp Ü. Hüva – 139<br />
+		<strong>11.b     </strong>2. tund matemaatika õp Ü. Hüva – 139<br />
+		<strong>11.c     </strong>3. tund matemaatika õp H. Kiisel – 136<br />
+		<strong>11.d     </strong>3. tund kirjandus õp T. Pluum – 225<br />
+		<strong>12.b     </strong>2. tund kirjandus õp A. Salo – 225<br />
+		<strong>12.c     </strong>2. tund matemaatika õp H. Kiisel – 136<br />
+		            4. tund kirjandus õp A. Salo – 225</div>
+<p>	<u>esmaspäev, 06.02</u></p>
+<div class="rteindent1">
+		<strong>11.c     </strong>4. Tund matemaatika õp A. Külter – 139<br />
+		<strong>11.d</strong>     5. tund rahulaoluküsitlus õp A. Mägi – 303<br />
+		<strong>11.e     </strong>2. tund rahuloluküsitlus õp A. Mägi – 303<br />
+		3. tund inglise keel õp K. Ojaveer/ S. Sagar – 312/309<br />
+		<strong>12.d     </strong>4. Tund matemaatika õp K. Orav-Puurand – 227 </div>
+<p>	 <br />
+	<u>teisipäev, 07.02</u></p>
+<div class="rteindent1">
+		<strong>11.c     </strong>1. tund rahuloluküsitlus õp A. Ristikivi – 303<br />
+		<strong>11.e     </strong>5. tund ajalugu õp K. Punga – 144</div>
+<h2>
+		Olümpiaadid ja võistlused</h2>
+<ul>
+<li>
+			20. jaanuaril toimus Tartu linna <strong>bioloogiaolümpiaadi</strong> piirkonnavoor. Meie kooli õpilased saavutasid häid tulemusi:<br />
+			<u>10. klasside arvestuses</u>: 1. Violeta Jürgens (10.a), 2. Miia Helen Merilo, 3. Artur Ipits, 5.-8. Kirke Karolin Tark, 9.-10. Eva-Liisa Sepp ja Ivar Golubenko (kõik ülejäänud 10.c);<br />
+			<u>11. klasside arvestuses</u>: 1. Annika Rääbis, 3. Mehka Kartau, 4. Sander Sarapuu, 5. Joosep Rand, 6.-8. Lydia Helene Teder ja Rando Remm, 10.-11. Kris Kaspar Kalda ja Rutha Pärt (kõik 11.c);<br />
+			<u>12. klasside arvestuses</u>: 1. Emma Goos, 2. Aia Adele Narits, 3. Kaarup Öövel, 5.-6. Holger Eric Hain ja Marti Pastak (kõik 12.c).<br />
+			Bioloogiaolümpiaadi lõppvooru on kutsutud Violeta Jürgens, Miia Helen Merilo, Annika Rääbis, Mehka Kartau, Sander Sarapuu, Joosep Rand, Lydia Helene Teder, Rando Remm, Emma Goos, Aia Adele Narits, Kaarup Öövel.</li>
+</ul>
+<ul>
+<li>
+			23. jaanuaril toimunud <strong>saksa keele olümpiaadi</strong> piirkondlikus voorus saavutas Laura Emilia Jõgi (11.d) 3. koha.</li>
+</ul>
+<h2>
+		Konkursid</h2>
+<ul>
+<li>
+			Eesti Teadusagentuur ootab osalema <strong>õpilaste teadustööde konkursil</strong>. Tööde esitamise tähtaeg on 20. veebruar, täpsem info <u><a href="https://www.etag.ee/tegevused/konkursid/opilaste-teadustoode-konkurss">https://www.etag.ee/tegevused/konkursid/opilaste-teadustoode-konkurss</a></u>.</li>
+<li>
+			Alanud on seitsmes noortele mõeldud <strong>tõlkevõistlus</strong>, kuhu saab esitada ilukirjanduse tõlkeid neljal suunal: inglise-eesti, ukraina-eesti, norra-eesti ja vabakeelte kategooria, mille alla kuuluvad kõik keeled, mis ei ole seni võistluskeelteks olnud. Tähtaeg on 20. veebruar 2023.<br />
+			Täpsem info: <a href="http://www.ekl.ee/tolkijad/sundmused-koolitused/tolkevoistlus/" target="_blank">http://www.ekl.ee/tolkijad/sundmused-koolitused/tolkevoistlus/</a>. </li>
+<li>
+			Õpilasi oodatakse osalema <strong>esseekonkursil</strong> „Sõna jõud ja keele vägi“. Tööde esitamise tähtaeg on 1. märts, täpsem info <u><a href="https://toimetaja.eu/esseekonkurss-2023">https://toimetaja.eu/esseekonkurss-2023</a></u>.</li>
+<li>
+			Vanemuise teater kutsub noori osalema <strong>kriitikakonkursil</strong> “Arukas arvustaja”, et arutleda Vanemuise repertuaaris olevate lavastuste üle. Tööde esitamise tähtaeg on 20. märts 2023.<br />
+			Täpsem info: <a href="https://www.vanemuine.ee/noortetoo/konkursid/arukas-arvustaja/" target="_blank">https://www.vanemuine.ee/noortetoo/konkursid/arukas-arvustaja/</a>.</li>
+<li>
+			Eesti Draamateater ootab gümnaasiumiõpilastelt sel hooajal repertuaaris olevate <strong>lavastuste arvustusi</strong>. Tööde esitamise tähtaeg on 27. märts 2023. Täpsem info: <a href="https://www.draamateater.ee/koolinoortele/#arvustus" target="_blank">https://www.draamateater.ee/koolinoortele/#arvustus</a>.</li>
+</ul>
+<h2>
+		Teated </h2>
+<ul>
+<li>
+			Teisipäeval, 31. jaanuaril läheme koos <strong>ajalooringi</strong> sõpradega külla Tartu linnamuuseumisse vaatama põnevat näitust „Filmimees seespool aiamüüri“. Näitus räägib Eesti filmimehest Theodor Lutsust ning elust pagulasena Brasiilias. Kohtume kell 16.00 kantselei juures, et ühiselt teele asuda. Muuseumikülastus ja giidituur on meie kooli õpilastele ja õpetajatele tasuta. </li>
+<li>
+			Teisipäeval, 31. jaanuaril toimub meie kooli võimlas (14.00 - 21.00) Noorte tantsupeo „Püha on maa“ I <strong>ülevaatus</strong>. Tantsutaldadest kandideerib peole 6 rühma.</li>
+<li>
+			Kolmapäeval, 1. veebruaril toimuvad klasside <strong>lastevanemate koosolekud</strong> ruumides <strong>11.a – </strong>105 ja <strong>11.e – </strong>203.</li>
+<li>
+			Kolmapäeval, 1. veebruaril 5. tunni ajal on kõikidel 12. klassidel auditooriumis <strong>Tartu Ülikooli sisseastumistingimuste</strong> tutvustus.</li>
+<li>
+			Neljapäeval, 2. veebruaril kell 11.00 toimub Poska Gümnaasiumi ees <strong>Tartu rahu aastapäeva</strong> tähistamine piduliku kõne koosolekuga. Meie kooli esindavad kooli huvijuht ja klassivanemad. Kogunemine 10.40 koolimaja peaukse juures.</li>
+<li>
+			Laupäeval, 4. veebruaril sõidab Tantsutaldade esindusrühm Rannusse, kus toimub talvine <strong>tantsufestival</strong> nimega TANTSUTALLAD.</li>
+<li>
+			Esmaspäeval, 6. veebruaril kell 16.10 toimub aatriumis <strong>riigikogu valimiste eelne debatt</strong> poliitikutega. Kohal on kaheksa erakonna esindajad. Infot kandidaatide ja teemade kohta saab Facebook'i üritusest ,,Riigikogu valimiste eelne debatt HTGs”. Lingi üritusele leiab ka grupist ,,HTG rebased 2022/2023” <a href="https://fb.me/e/2H6JbIlCY" target="_blank">https://fb.me/e/2H6JbIlCY</a>. Kõik on oodatud kuulama!</li>
+<li>
+			Reedel, 27. jaanuaril kogunes taas <strong>HTG õpetajate kirjandusklubi</strong>, et lahata poola nobelisti Olga Tokarczuki paeluvat ja pelutavat jutukogu „Maailma kõige inetum naisterahvas“.</li>
+</ul>
+<h2>
+		Õpetajad koolist eemal</h2>
+<ul>
+<li>
+			Õpetaja Ave Külter viibib õpilastega Erasmus+ projekti üritustel Belgias 30. jaanuarist 3. veebruarini, õpetaja Kärt-Katrin Pere osaleb koolitusel ning õpetaja Tiina Pluum koolitajana Tallinna ülikoolis 2. veebruaril. Õpetaja Anett Pullerits viibib õpilastega Järvamaal Tammsaare-nimelisel võistulugemisel 3. veebruaril.</li>
+</ul>
+<h2>
+		Sport</h2>
+<ul>
+<li>
+			Aleksander Jalakas (10.b) saavutas rahvusvahelisel <strong>sisesõudevõistlusel</strong> ALFA U19 vanuseklassis eestlastest parimana 4. koha.</li>
+<li>
+			Tartu linna ning <strong>maakonna parimate sportlaste</strong> vastuvõtul sai 2022. aasta meespetankeri eriauhinna õpetaja Aimar Poom. Lisaks toodi naiste arvestuses välja mitmed vilistlased: Kärol Soodla parim veemotosportlane, Rachel Kõllo parim sõudja ning Eliise Mikomägi valiti nii parimaks jõutõstjaks kui ka üldarvestuse parimaks noorsportlaseks.</li>
+<li>
+			Gymnafesti finaalvõistlusel saavutas VK Janika Junior Team 12-16-aastaste vanuserühmas I koha, võistkonda kuulus Aleksandra Peskovski (10.d).</li>
+</ul>
+<h2>
+		Raamatukogu teated</h2>
+<ul>
+<li>
+			30. jaanuaril, A. H. Tammsaare 145. sünniaastapäeval tähistame <strong>eesti kirjanduse päeva.</strong> Sel puhul ootab esmaspäeval kooli raamatukogust eesti kirjanduse laenutajaid ees väike üllatus ning lugemissaalis saab näha väljapanekut Tammsaare loomingust. Tulge vaatama!</li>
+<li>
+			<strong>HTG almanahhi toimetuskolleegium</strong> kuulutab välja õpilaste ja õpetajate loomekonkursi, et anda 2023. aasta novembris välja uus, XVI õpilasalmanahh. Oodatud on kõikvõimalikes žanrites vabateemalised kirja- ja kunstitööd, nt lühijutud, novellid, miniatuurid, mälestused, teatri- ja kirjandusarvustused, esseistika, luule, draama, tõlked, maal, graafika (sh joonistused) foto, ruumilised teosed, segatehnika jms.<br />
+			Kirjatööd saatke palun Wordi dokumendina aadressile <a href="mailto:monika.piirimae@htg.tartu.ee" target="_blank">monika.piirimae@htg.tartu.ee</a>, kunstitööd toimetage õpetaja Raimond Lepiste kätte. Kes soovib almanahhi kujundamisel kaasa lüüa, pöördugu palun samuti õpetaja Lepiste poole. Kirja- ja kunstitööde tähtaeg on 1. aprill 2023. Varasemaid HTG õpilasalmanahhe saab vaadata ja lugeda raamatukogus. Toimetus ootab elavat osavõttu ning soovib südamest, et muusad ei vaikiks!</li>
+<li>
+			Reedel, 3. veebruaril 5. tunni ajal toimub raamatukogu lugemissaalis <strong>HTG õpilaste kirjandusklubi</strong> kokkusaamine. Arutletakse Emily Brontë romaani „Vihurimäe“ üle. Oodatud on kõik huvilised: ka siis, kui pole raamatut (lõpuni) lugenud.</li>
+</ul>
+<h2>
+		Koolisöökla teated</h2>
+<ul>
+<li>
+			Orientiiriks lapsevanematele <strong>veebruarikuu </strong>toiduraha:</li>
+</ul>
+<div class="rteindent1">
+		* kui õpilane sööb ka arvestuste nädalal:<br />
+		tavatoit 17 päeva x 1 eurot = 17.00 eurot, XL portsjon 17 päeva x 1.85 eurot = 31.45 eurot ja taimetoit 17 päeva x 1.35 = 22.95 eurot;<br />
+		** kui õpilane ei söö arvestuste nädalal:<br />
+		tavatoit 12 päeva x 1 eurot = 12 eurot, XL portsjon 12 päeva x 1.85 eurot = 22.20 eurot ja taimetoit 12 päeva x 1.35 = 16.20 eurot.</div>
+<ul>
+<li>
+			Tuletame meelde, et õpilased, kes ei söö arvestuste nädalal, peavad ennast süsteemis ARNO märkima sellel perioodil puudujaks.</li>
+</ul>
+<h2>
+		Eelteated</h2>
+<ul>
+<li>
+			11.a klassi õpilased Klaus Jõela ja Nansen Palo korraldavad praktilise töö raames koostöös OK Ilvesega <strong>siseorienteerumisvõistluse</strong> HTGs, mis toimub 16. veebruaril algusega kell 19.00. Parimaid ootavad auhinnad! Registreerida võistlusele saab kuni 13. veebruarini kella 23.29ni. Koolimajas on seintel ja ustel olevatel plakatitel võimalik tutvuda ülesannetega võistluse kohta. Toimub ka loosiauhindade jagamine. Loosipiletite saamiseks tuleb lahendada plakatitel olevaid ülesandeid.<br />
+			NB! Osalema on oodatud igast klassist vähemalt 5 õpilast.</li>
+<li>
+			15. märtsil algusega kell 14.35 ruumis 312 toimub <strong>inglise keele kõnevõistluse</strong> koolivoor. Koolivooru kaks parimat saavad võimaluse esindada kooli 21. märtsil Tallinna Reaalkoolis „National Public Speaking Competition“ võistlusel. Huviline peab ette valmistama 3-minutilise kõne ühel järgneval teemal:
+<ul>
+<li align="left">
+					Can a society exist without laws?</li>
+<li align="left">
+					What is culture?</li>
+<li>
+					Societal change only comes from government, not individuals</li>
+<li align="left">
+					Affluence creates poverty</li>
+<li align="left">
+					Sport has the power to change the world</li>
+<li align="left">
+					Democracy is failing</li>
+<li align="left">
+					Social media erases national borders</li>
+</ul>
+</li>
+</ul>
+<div class="rteindent1">
+		Osalema on oodatud kõik 16-19aastased huvilised. Enda nimi pane palun kirja siia: <a href="https://bit.ly/3XL9bpA" target="_blank">https://bit.ly/3XL9bpA</a><br />
+		Lisainfo inglise keele õpetajate käest.</div>
+<p>	 <br />
+	 </p></div>
 <p>
- </p>
+	<a id="kiitus" name="kiitus"></a></p>
 <h2>
-	Olümpiaadid ja võistlused</h2>
-<ul>
-<li>
-		11. detsembril 2022 toimunud <strong>informaatikaolümpiaadi</strong> eelvooru 117 osaleja hulgas olid meie õpilastest parimad: 3.-4. koht Hans Gustav Kõljalg ja Kevin Akkermann (mõlemad 12.b), 10. koht Ralf Robert Paabo (10.a), 11. koht Kaur Huko Käämbre (11.b).<br />
-		Tüdrukute hulgas saavutas 3. tulemuse ja üldarvestuses 31. koha Maria Kozõreva (11b).<br />
-		Informaatikaolümpiaadi lõppvoor toimub 11.-12. veebruaril. Eelvooru ja lahtise võistluse tulemuste põhjal on meie õpilastest pälvinud kutse lõppvooru Ralf Robert Paabo, Jaan Artur Viirsalu (10.b), Kaur Huko Käämbre, Hans Gustav Kõljalg, Kevin Akkermann ja Kristjan-Erik Kahu (12.b). Lõppvooru kutsutud peavad registreerima oma osavõtu hiljemalt 3. veebruariks. Täpsem info <a href="https://eio.ee/" target="_blank">https://eio.ee/</a>.</li>
-<li>
-		<strong>Informaatikaviktoriini „Kobras“</strong> eelvoorus saavutas Kaur Huko Käämbre (11.b) 11.-12. klasside arvestuses 3. koha (osalejaid kokku 644) ja on kutsutud 11.-12. veebruaril toimuvale finaalvõistlusele. </li>
-<li>
-		Tartu Linnavalitsuse korraldusega nr 58 (16.01.2023) tunnustati <strong>tantsuansambli Tantsutallad</strong> tegevust ja saavutusi aastal 2022 huvihariduse esimese astme preemiaga.</li>
-</ul>
-<h2>
-	Konkursid</h2>
-<ul>
-<li>
-		2022/23. õa usundiõpetuse olümpiaadi eelvoor toimub 1. veebruaril Moodle’i keskkonnas. Eelvooru registreerimine toimub TÜ teaduskooli usundiõpetuse olümpiaadi veebilehel <a href="https://www.teaduskool.ut.ee/et/olumpiaadid/usundiopetuse-olumpiaad">https://www.teaduskool.ut.ee/et/olumpiaadid/usundiopetuse-olumpiaad</a> 9. jaanuarist 2023 kell 8.00 - 24. jaanuarini 2023 kell 23.59. Alates 25. jaanuarist saadetakse registreerunud õpilase e‑posti aadressile paroolid Moodle’isse sisenemiseks. Täpsema info saamiseks pöörduda õpetaja Toomas Jürgensteini poole e-kirja teel aadressil <u><a href="mailto:toomas.jyrgenstein@htg.tartu.ee">toomas.jyrgenstein@htg.tartu.ee</a></u></li>
-<li>
-		Tartu Kristjan Jaak Petersoni Gümnaasium kutsub esitama filme esmakordselt toimuvale <strong>filmifestivalile</strong>. Registreerimise aeg on 26. veebruar, täpsem info <a href="https://drive.google.com/file/d/1Y8VL1vTLIyNM2H7h2StDUJlfA7TThZzI/view">https://drive.google.com/file/d/1Y8VL1vTLIyNM2H7h2StDUJlfA7TThZzI/view</a>.</li>
-<li>
-		Sisekaitseakadeemia finantskolledž kuulutab välja esseekonkursi „<strong>Eesti maksusüsteem aastal 2050</strong>“. Tööde esitamise tähtaeg on 7. märts, täpsem info <u><a href="https://www.sisekaitse.ee/et/finantskolledzi-esseekonkurss">https://www.sisekaitse.ee/et/finantskolledzi-esseekonkurss</a></u>.</li>
-<li>
-		Kogukonnapraktika on välja kuulutanud <strong>logokonkursi</strong>. Tööde esitamise tähtaeg on 20. märts, täpsem info <u><a href="https://kogukonnapraktika.ee/uudis/kuulutame-valja-kogukonnapraktika-logo-konkurssi">https://kogukonnapraktika.ee/uudis/kuulutame-valja-kogukonnapraktika-log...</a></u>.</li>
-<li>
-		MTÜ Mondo ootab õpilasi osalema loomingulisel noortekonkursil „<strong>Teated tulevikust</strong>“. Tööde esitamise tähtaeg on 15. mai, täpsem info <u><a href="https://maailmakool.ee/mondo-noortekonkurss-2022-2023">https://maailmakool.ee/mondo-noortekonkurss-2022-2023</a></u>.</li>
-</ul>
-<h2>
-	Teated</h2>
-<ul>
-<li>
-		Täna, 23. jaanuaril kell 16.10 toimub raamatukogu lugemissaalis <strong>klassivanemate ümarlaud</strong>, millest on oodatud osa võtma kõikide klasside ja õpilasomavalitsuse esindajad. Küsimustele vastavad kooli juhtkonna liikmed.</li>
-<li>
-		Teisipäeval, 24. jaanuaril toimub <strong>ajalooringis</strong> taas HTG dokumentaalfilmiklubi. Vaatame mängulist dokumentaalfilmi „Disko ja tuumasõda“, mis jutustab vaimukalt infosõjast 1980ndate Eesti NSVs. Filmi kommenteerib ja küsimustele vastab režissöör Jaak Kilmi. Alustame kell 16.00 ruumis 141, kõik on oodatud!</li>
-<li>
-		Käesoleva nädala keskpaigast alates saab 2. korruse koridori galeriis nautida uut <strong>kunstinäitust</strong>. Näitusel astuvad üles meie kooli vilistlased ja kaks õpetajat.</li>
-<li>
-		Neljapäeval, 26. jaanuaril kell 18.00 toimub 11.b, 11.c ja 11.d klasside <strong>lastevanemate koosolek</strong> järgmistes klassiruumides: <strong>11.b</strong> – 136, <strong>11.c – </strong>139 ja<strong> 11.d – </strong>135.</li>
-<li>
-		Neljapäeval, 26. jaanuaril kell 16.00 tutvustab ruumis 202 Tallinna Tehnikaülikooli arhitektuuriosakonna üliõpilane <strong>õppimis-võimalusi arhitektuuri </strong>erialal. Kõik huvilised on oodatud.</li>
-<li>
-		Neljapäeval, 26. jaanuaril kell 16.00 tutvustab <strong>Autosõit OÜ</strong> 10. ja 11. klasside õpilastele ruumis 135 õppimisvõimalusi nende koolis.</li>
-<li>
-		Esmaspäeval, 30. jaanuaril kell 16.30 toimub auditooriumis HTG <strong>mälumänguturniir</strong>.</li>
-</ul>
-<h2>
-	Õpetajad koolist eemal</h2>
-<ul>
-<li>
-		Õpetaja Eve Paap on segakooriga laulupeo üldproovil 25. jaanuaril alates kella 9.30, õpetaja Kristiina Punga sõidab rootsi keele grupiga keelepraktikale (UPT) 26.-28. jaanuarini, õp Ott Maidre osaleb 27. jaanuaril bioloogiaõpetajate koostööpäeval ja õpetaja Ave Külter viibib õpilastega Erasmus+ projekti üritustel Belgias 30. jaanuarist 3. veebruarini.</li>
-</ul>
-<h2>
-	Sport</h2>
-<ul>
-<li>
-		Üleriiklikul tantsuvõistlusel „Dancestar“ said grupi „Scarlet“ ridades showtantsu kategoorias esikoha Ingrid Järve (11.a), Annaliisa Karu ja Lota Kalberg (11.d). Contemporary kategoorias said grupi „Show small grupp“ ridades esikoha Emilia Bachman (10.c), Ingrid Järve, Annaliisa Karu, Lota Kalberg, Emma Pastak (11.d) ning Nele Rihma (11.e).</li>
-<li>
-		Tartu Ülikooli akadeemiline spordiklubi valis 2022. aasta parimaks noorsportlaseks kergejõustiklase Elsa Puu (11.a).</li>
-<li>
-		Tartu gümnaasiumide võrkpalliturniiri võitis HTG. Kooli esindasid Joosep Jürissaar, Artus Leo Marco Klemm, Marten Leosk (kõik 10.a), Ott Kruuse (10.b), Mirjam Gross (10.d), Heidi Tõnisson (11.a), Rando Lukk (12.a) ja Holger Eric Hain (12.c).</li>
-<li>
-		Kaia Laatspera (12.c) saavutas Põhjamaade meistrivõistlustel taekwondos 3. koha.</li>
-<li>
-		Eesti Võrkpalliföderatsiooni karikavõitjaks U20 vanuseklassis tuli SK Duo Olerex Tartu võistkond, kuhu kuulusid: Lisethe Kruus, Mia Marta Miller (mõl.11.e), Marta Kann (12.a) ja Emma Vahelaan (12.d).</li>
-</ul>
-<h2>
-	Eelteated</h2>
-<ul>
-<li>
-		<strong>11.a</strong> ja <strong>11.e</strong> klasside lastevanemate koosolek toimub kolmapäeval, 1. veebruaril.</li>
-<li>
-		Kolmapäeval, 1. veebruaril 5. tunni ajal toimub kõikidele 12. klassidele auditooriumis <strong>TÜ sisseastumistingimuste tutvustus</strong>.</li>
-<li>
-		Reedel, 3. veebruaril 5. tunni ajal toimub raamatukogu lugemissaalis HTG õpilaste kirjandusklubi kokkusaamine. Arutletakse Emily Brontë romaani „Vihurimäe“ üle. Oodatud on kõik huvilised: ka siis, kui pole raamatut (lõpuni) lugenud.</li>
-</ul>
-</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 00:26</div></div></div></div>
+	Hugo Treffneri Gümnaasiumi 30.01.2023. a direktori käskkirjaga nr 5 avaldatakse kiitust</h2>
+<p>
+	 <br />
+	1. Avaldan kiitust väga hea ja hea õppeedukuse eest I poolaastal järgmistele õpilastele:<br />
+	 <br />
+	10.a<br />
+	Andero Albrecht, Henri Jõeorg, Kaspar Jõeorg, Mattias Jõgi, Violeta Jürgens, Joosep Jürissaar, Markus Kaur, Artus Leo Marco Klemm, Robert Milan Kotjuh, Toomas Erik Kuhi, Grete Magerramov, Tomm Ragnar Maidla, Viktoria Misnik, Robin Mäeots, Morten Oscar Orussaar, Ralf Robert Paabo, Agnes Peitel, Kristi Pihlak, Even Puusepp, Kris Puusepp, Uku Toomas Rand, Roosi Raudsepp, Annabel Taaber, Kristella Mirell Uiboaed.<br />
+	 <br />
+	10.b<br />
+	Hedvig Altmäe, Teena Haabmets, Joonatan Kahre, Minna Marie Kask, Ott Kruuse, Kristiin Lõhmus, Mati Mansberg, Oliver Mihkel Mertelsmann, Martti Milk, Anna-Liisa Mägi, Mart Johannes Nacke, Tambet Parm, Morgan Mathias Rikken, Oskar Saareall, Andreas Soosaar, Rasmus Suur, Mihkel Tali, Ellinor Usai, Robin Vask, Jaan Artur Viirsalu, Sten Kaspar Vind.<br />
+	 <br />
+	10.c<br />
+	Emilia Bachman, Margaret Braun, Ivar Golubenko, Hanna Saara Hiir, Keili Krabbi, Kaisa Kõre, Liisi Liias, Helen Loot, Janee Lootus, Aleksander Lõhmus, Keilika Meos, Miia Helen Merilo, Triinu Part, Mihkel Pennar, Maarja-Leen Piirimäe, Kirke Viktoria Plaado, Viktoria Päll, Kärt Pürn, Annaliisa Rebane, Eva-Liisa Sepp, Emma Tammpere, Kirke Karolin Tark, Marjette Andrea Tederov, Karen Viira.<br />
+	 <br />
+	10.d<br />
+	Annabel Allas, Hanna Allikas, Hannah Judith Gisela Coenenberg, Brenda Järv, Eliis Kasenõmm, Marilis Kivi, Kristanna Koemets, Eliise Kolsar, Mona Leis, Marleene Randmaa, Polina Saar, Karl Silmere, Henri Suur, Marta Tammiksaar.<br />
+	 <br />
+	10.e<br />
+	Säde Einasto, Agne-Riin Mekk, Ketlin Mutso, Ats-Artur Ploomipuu, Elis Anete Saksman, Liina Sarv, Kadri-Liis Tamm, Ida Vares.<br />
+	 <br />
+	11.a<br />
+	Miia Isabel Anipai, Annette Annok, Klaus Jõela, Kirke Kisand, Marten Lõhmus, Heddy Ploom, Eva-Maria Raudsepp, Hans Henrik Rebane, Kädi Rõõmus, Annabel Rüütel, Leen Vallikivi.<br />
+	 <br />
+	11.b<br />
+	Annika Aho, Karoliina Enkvist, Georg Kurjama, Triin-Elis Kuum, Kirke Linda Kuuse, Liisa Laugesaar, Maria Helena Lõhmus, Katarina Ojaperv, Carol Rand, Laura-Liis Rull, Heliisa Theadora Sunts, Kristin Sõber, Joonas Teder.<br />
+	 <br />
+	11.c<br />
+	Arabella Antons, Mehka Kartau, Lauri Kask, Jaagup Konksi, August Lippus, Madli Maran, Rutha Pärt, Kreeta Roose, Annika Rääbis, Sander Sarapuu.<br />
+	 <br />
+	11.d<br />
+	Marit Anette Huik, Arlis Hunt, Laura Emilia Jõgi, Lota Kalberg, Emma Kilmi, Hilda Laidmets, Annika Moppel, Marta Näripä, Mete-Triin Otstavel, Emma Pastak, Henn-Jaagup Rooba.<br />
+	 <br />
+	11.e<br />
+	Marja Järv, Dea-Liis Kubbe, Gerda Lehis, Kertu Meerits, Jan Markus Metsoja, Mia Marta Miller.<br />
+	 <br />
+	12.a<br />
+	Jonathan Astmäe, Manfred Kukk, Markus Kõiv, Joosep Laanemägi, Laura Laugma, Aivo Liivat, Helena Lindeberg, Rando Lukk, Oskar Männik, Rauno Paasoja, Rainis Puusepp, Laura Maria Rekand, Kusti Sammul, Hanna Tali, Thomas Tennisson, Morten Ulp.<br />
+	 <br />
+	12.b<br />
+	Toomas Herodes, Laur Härm, Angela Ikonen, Hendrik Jaks, Karl Joonas Jõepere, Kristiine Kaldmaa, Jakob Miikael Kaljurand, Kertu Katriin Kotkas, Emma Kruusmäe, Loviisa Lätt, Liisa Matilda Palgi, Mere-Helina Panksepp, Kärt Trinity Sillaots, Mark Tarnovski, Triinu Vaher, Stella Vesi, Jakob Veske, Siim-Erik Viiding, Uku Viispert.<br />
+	 <br />
+	12.c<br />
+	Minna Gielen, Emma Goos,  Kauri Ilves, Doris Keernik, Marie Agathe Laugesaar, Christofer Lepaste,  Aia Adele Narits, Linda Piirimäe, Leene Pärtel, Helena Rähni, Tuuli Kärt Tammaru, Tiia Tomson, Anita Viineloo.<br />
+	 <br />
+	12.d<br />
+	Hanna Maria Fatkin, Berta Lorena Ipits, Magda Grete Kibuspuu, Märt Lillestik, Anna Mutso, Kert Raudnõmm, Emily Riismandel, Johanna Saare, Evelin Uue, Emma Vahelaan, Ville Markus Varik.<br />
+	 <br />
+	12.e<br />
+	Eliise Antonov, Triinu Aru, Alger Avi, Veera Beljajeva, Maria Jõesalu, Grete Kivirüüt, Annmari Meriste, Imre Nõmm, Maara Parhomenko, Lauri Raudsepp, Triinu Taivere, Brite Tõniste, Gerda Õunapuu.<br />
+	 </p>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 15:27</div></div></div></div>
 
   </div>
   

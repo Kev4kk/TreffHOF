@@ -1,251 +1,223 @@
 <div class="field-item even" property="content:encoded"><h1>
-	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2009_14.11.2022.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2009_14.11.2022.doc"><img alt="doc" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="float: right;" /></a></h1>
+	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2010_21.11.2022.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_nr%2010_21.11.2022.doc"><img alt="doc" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="float: right;" /></a></h1>
 <h1>
 	Juhtkond tänab</h1>
 <ul>
 <li>
-		12.d klassi õpilasi ja nende klassijuhatajat Aare Ristikivi, õpetaja Kristiina Pungat ning kõiki teisi humanitaarainete ja võõrkeelte õpetajaid, kes aitasid ette valmistada ja läbi viia kolme kooli kohtumist;</li>
+		õpetajaid Anneli Mägi, Tiina Pluumi, Julia Polikarpust, Anett Pulleritsu, Kristiina Pungat ja Karin Soodlat õpilaste konkurssideks ja konverentsiks ettevalmistamise eest;</li>
 <li>
-		11.c klassi õpilasi Sandra-Liisbet Lillestet, Madli Maranit ja Sireli Sildnikku ning nende klassijuhatajat Ave Külterit ülekoolilise kohvikute õhtu korraldamise eest;</li>
-<li>
-		õpetajaid Ülle Hüva, Julia Polikarpust ja Ehtel Timakut ning vilistlast Riko Piirisilda õpilaste konkurssideks ettevalmistamise eest;</li>
-<li>
-		trükikoda Greifi ja Gunnar Kalajast kolme kooli kohtumise auhindadeks raamatute andmise eest;</li>
-<li>
-		Silver Markus Käppat (vil. 2011), kes ostis koolile saalihoki varustust.</li>
+		kõiki vilistlasi, kes võtsid uudishimupäeval abituriendi endale töövarjuks.</li>
 </ul>
 <!--break--><h1>
 	Õppetöö</h1>
 <ul>
 <li>
-		I perioodi <strong>järelarvestused</strong> jätkuvad 14.-16. novembrini.<br />
-		<u>esmaspäev, 14.11</u><br />
-		kell 16.10        bioloogia, geograafia õp S. Kaarna, O. Maidre, Ü. Seevri – 227<br />
-		                        saksa keel õp M. Matto - 204<br />
-		<u>teisipäev, 15.11</u><br />
-		kell 16.00        ajalugu õp I. Pajur ja K. Punga – 203<br />
-		<u>Vene keele suuline</u> järelarvestus (õp L. Titova ja O. Titova) toimub kokkuleppel õpetajaga.<br />
-		<u>Neljapäeval, 17. novembril</u> kell 16.00 ruumis 221 toimuvas <strong>õnnetunnis</strong> on võimalus järelarvestust sooritada õpilastel, kellel langes kaks järelarvestust samale ajale või ei olnud haiguse tõttu võimalik järelarvestust ettenähtud ajal sooritada. Nimetatud juhul tuleb
+		22. novembril algab kahetunniliste kursuste teine kursus, muutub tunniplaan.</li>
+</ul>
+<p><u>Humanitaarsuuna</u></p>
 <ul>
 <li>
-				õpilasel valida õppeaine, milles ta sooritab järelarvestust ettenähtud ajal (suuline arvestus tuleb sooritada kindlasti õigel ajal);</li>
-<li>
-				teavitada teise aine õpetajat mitme järelarvestuse kokkulangevusest, paludes luba sooritada järelarvestus 17. novembril;</li>
-<li>
-				registreeruda elektrooniliselt õnnetundi hiljemalt 15. novembril Stuudiumi keskkonnas (menüü all ☰ &gt;Registreeri).</li>
-</ul>
-</li>
-</ul>
-<div class="rteindent1">
-	Lisaks järelarvestustele on 17. novembril toimuvas õnnetunnis võimalus kirjutada ka II perioodil ebaõnnestunud või sooritamata jäänud hindelisi töid. Registreerumine õnnetundi Stuudiumis (menüü all ☰&gt;Registreeri) lõpeb 15. novembril kell 23.00 või kui õnnetundi on registreerunud 40 osalejat.</div>
-<ul>
-<li>
-		Teisipäeval, 15. novembril viivad füüsikaõpetajad läbi <strong>füüsikaolümpiaadi koolivooru,</strong> algus kell 8.15. Täpsem info füüsikaõpetajatelt.</li>
-<li>
-		Kolmapäeval, 16. novembril on <strong>UPT-23</strong> tööde esitamise tähtaeg kolmandale kaitsmisele.</li>
-<li>
-		Neljapäeval, 17. novembril toimub 12. klasside <strong>töövarjupäev</strong>. Kõik 12. klasside õpilased, kes töövarjupäevale ei lähe, peavad sel päeval osalema tundides ja Töötukassa loengus.</li>
-<li>
-		Neljapäeval, 17. novembril toimub <strong>õppetöö analüüs.</strong> Kõikide aineõpetajate osavõtt on vajalik.</li>
-<li>
-		<strong>Tartu Ülikooli Tehnoloogiainstituut koostöös Arvutiteaduse Instituudiga</strong> korraldab gümnasistidele 17. novembril kell 12:00-15:15 projekti „Interactive Manufacturing @ Schools“ raames<strong> töötoad, </strong>kus 
-<ul>
-<li align="left">
-				antakse ülevaade EIT Manufacturing projektist “Interactive Manufacturing @ Schools“;</li>
-<li align="left">
-				räägitakse lähemalt tööstusliku tootmise vajadustest ja võimalustest ning sellest, mida teeb Tartu Ülikool selles vallas;</li>
-<li align="left">
-				viiakse läbi interaktiivsed töötoad, kus õpilased saavad ise käed külge panna robotitele, jootejaamadele ja ka 3D printeritele;</li>
-<li align="left">
-				tutvustatakse isesõitva auto võimalusi ja arendusi.</li>
-</ul>
-</li>
-</ul>
-<div class="rteindent1">
-	Kool on teinud pakkumise töötoas osalemiseks 11.a ja 11.b klassi õpilastele. Kuna aga grupis jäid üle mõned vabad kohad, siis töötoas osaleda soovijatel palun pöörduda õppealajuhataja poole hiljemalt 15. novembril. Töötoas osalevate õpilaste arv on piiratud.</div>
-<ul>
-<li align="left">
-		<a id="22nov" name="22nov"></a>Esmaspäeval, 21. novembril lõpeb <strong>kahetunniliste kursuste</strong> esimene kursus ning teisipäeval, 22. novembril algab teine kursus. Lõppevate kursuste hinded märgitakse Stuudiumis II perioodi hinnete tabelisse.<br />
-		Seoses kahetunniliste kursuste vahetusega muutub alates 22. novembrist tunniplaan. Uus tunniplaan pannakse stendile 18. novembril.</li>
-</ul>
-<div class="rteindent1">
-	<u>Humanitaarsuuna</u></div>
-<ul class="rteindent1">
-<li>
-		10. klassil lõpeb inimeseõpetuse 1. kursus ning algab muusika 1. kursus;</li>
+		10. klassil lõpeb inimeseõpetuse 1. kursus ning algab muusika 1. kursus;</li>
 <li>
 		11. klassil jätkub õppetöö endise tunniplaani alusel;</li>
 <li>
-		12.d klassil lõpeb bioloogia 3. ja algab eesti keele 7. kursus;</li>
+		12.d klassil lõpeb bioloogia 3. ja algab eesti keele 7. kursus;</li>
 <li>
 		12.e klassil lõpeb eesti keele 7. kursus.</li>
 </ul>
-<div class="rteindent1">
-	<u>Loodussuuna</u></div>
-<ul class="rteindent1">
+<p><u>Loodussuuna</u></p>
+<ul>
 <li>
-		10. klassil lõpeb inimeseõpetuse 1. kursus ja algab muusika 1. kursus;</li>
+		10. klassil lõpeb inimeseõpetuse 1. kursus ja algab muusika 1. kursus;</li>
 <li>
 		11. klassil lõpeb keemia praktikumi 2. kursus;</li>
 <li>
 		12. klassil jätkub õppetöö endise tunniplaani alusel.</li>
 </ul>
+<p><u>Reaalsuuna</u></p>
+<ul>
+<li>
+		10. klassil jätkub õppetöö endise tunniplaani alusel. Eelmises infolehes avaldatud teade oli ekslik;</li>
+<li>
+		11. klassil lõpeb matemaatika praktikumi 3. kursus ning algavad ja matemaatika praktikumi 4. kursus ning füüsika praktikumi 2 kursus (õpilase valikul);</li>
+<li>
+		12. klassidel jätkuvad matemaatika praktikumi 5. ja füüsika praktikumi 3. kursus. Füüsika praktikumi 3. kursus jätkub alates 22. novembrist õpetaja Siim Oksa juhendamisel TÜ füüsikahoones Physicum, mis asub W. Ostwaldi 1 ja kuhu saab sõita linnaliinibussiga nr 1. Buss väljub peatusest Kesklinn IV (Kaubamaja küljel) ja sõita tuleb Soinaste II peatusse. Praktikumi jõudmiseks sobivad väljumisajad vastavalt praktikumi algusajale on: kell 12.53, 13.03, 14.33, 14.43, 14.53.<br />
+		Täpsem info ülikooli tervishoiunõuetest ja kokkulepped õpetaja Siim Oksalt.</li>
+</ul>
+<p> </p>
+<ul>
+<li>
+		<strong>Saksa II astme keelediplomi DSD II eksami</strong> kirjalik osa toimub 22. novembril Kristjan Jaak Petersoni Gümnaasiumis, suuline osa 20. detsembril meie majas ruumides 301 ja 302.</li>
+<li>
+		Teisipäeval, 22. novembril külastab 11.c klass Tartu Ülikooli <strong>Keemia Instituuti ning nelja teadustöö- ja õppelaborit</strong>. Kogunemine kell 14.40 Chemicumi (Ravila 14a) fuajees.</li>
+<li>
+		 <strong>Rahvusvahelise inglise keele CAE eksami kirjalik</strong> osa toimub laupäeval, 26. novembril</li>
+<li>
+		pabereksam kell 10.00–14.15 ruumides 105, 107 ja 202 ning</li>
+<li>
+		arvutil I vahetus kell 10.00-14.15 ja II vahetus kell 15.00-19.15 ruumides 206 ja 303.<br />
+		Kohal tuleb olla vähemalt 30 minutit enne eksami algust, koolimajja saab 26. novembril siseneda peauksest.</li>
+</ul>
 <div class="rteindent1">
-	<u>Reaalsuuna</u></div>
-<ul class="rteindent1">
+	28. novembrist kuni 1. detsembrini toimub ruumides 308, 309 ja 312 inglise keele rahvusvahelise <strong>CAE eksami suuline osa.</strong> Õpilastele on suletud puhkeruum ning kõik võõrkeelte tunnid toimuvad teistes klassiruumides. Palun väga tähelepanelikult jälgida muudatusi ruumide plaanis!</div>
+<ul>
 <li>
-		10. klassil lõpeb matemaatika praktikumi 1. kursus ning algavad füüsika praktikumi 1. ja matemaatika praktikumi 2. kursuse I osa (õpilase valikul);</li>
+		Õpetajad teatavad I perioodi <strong>järelarvestuste hinded</strong> 23. novembril.</li>
 <li>
-		11. klassil lõpeb matemaatika praktikumi 3. kursus ning algavad matemaatika praktikumi 4. kursus ning füüsika praktikumi 2. kursus (õpilase valikul).</li>
+		23. novembri <strong>õnnetunnis</strong> osalemiseks tuleb  registreeruda elektrooniliselt hiljemalt 21. novembril Stuudiumi keskkonnas (menüü all ☰ &gt;Registreeri). Õnnetund toimub kell 16.00 – 17.15 ruumis 107.</li>
 <li>
-		12. klassidel jätkuvad matemaatika praktikumi 5. ja füüsika praktikumi 3. kursus. Füüsika praktikumi 3. kursus toimub alates 22. novembrist õpetaja Siim Oksa juhendamisel TÜ füüsikahoones Physicum.</li>
+		Kolmapäeval, 23. novembril 5. tunni ajal esineb aulas loenguga TÜ biomeditsiinitehnoloogia PhD Mart Ustav jr (HTG vil 2004). Ta räägib ravimiarendusest, biotehnoloogiast, ettevõttest Icosagen ning millised on õppimis- ja uurimissuunad, kuhu tasuks panustada järgmise 10 aasta ravimiarenduste kontekstis.</li>
 </ul>
 <h2>
 	Muudatused tunniplaanis</h2>
-<p><u>teisipäev, 15.11</u><br />
-kell 8.15 – 12.15 füüsikaolümpiaadi koolivoor õp J. Paaver – 221<br />
-<strong>10.a     </strong>3. tund inimeseõpetus õp U. Saar – 107<br />
-<strong>10.b     </strong>2. tund inimeseõpetus  õp U. Saar – 107<br />
-<u>kolmapäev, 16.11</u><br />
-<strong>10.a     </strong>5. tund õppealajuhataja infotund – 221<br />
-<strong>10.b     </strong>5. tund õppealajuhataja infotund – 221<br />
-<strong>10.c     </strong>5. tund enesehoole kursus psühholoog T. Ulst – 225<br />
-<strong>10.d     </strong>5. tund enesehoole kursus õpilasnõustaja M. Nuut – 203<br />
-<strong>10.e     </strong>5. tund enesehoole kursus med. õde J. Saarepuu – 107<br />
-<strong>11.a     </strong>5. tund informaatika rühm TÜ raamatukogus – õp A. Mägi<br />
-<strong>11.b     </strong>5. tund informaatika rühm TÜ raamatukogus – õp A. Mägi<br />
-<strong>11.d     </strong>5. tund eesti keel õp A. Pullerits – 105<br />
-<strong>11.e     </strong>5. tund matemaatika õp E. Timak – 135<br />
-<strong>12.d     </strong>5. tund eesti keel õp K. Soodla/A. Salo – 105/107<br />
-Ülejäänud klassidel 5. tundi ei toimu<br />
-<u>neljapäev, 17.11</u><br />
-<strong>10.a     </strong>3. tund matemaatika õp E. Timak – 144<br />
-<strong>10.b     </strong>2. tund matemaatika õp E. Timak – 135<br />
-<strong>10.d     </strong>1. tund matemaatika õp A. Külter – 139<br />
-2.-3. tund keemia õp K.-R. Rohtmaa – 227<br />
-<strong>10.e</strong>     4. tund matemaatika iseseisev töö õp A. Külter – 227<br />
-<strong>11.e     </strong>2. tund eesti keel õp A. Salo – 107<br />
-            4. tund matemaatika õp E. Timak – 144<br />
-<strong>12.a     </strong>tunnid toimuvad koos 12.b klassiga<br />
-            1. tund matemaatika õp Ü. Hüva – 136<br />
-2. tund ühiskonnaõpetus õp A. Ristikivi – 141<br />
-            3. tund Töötukassa loeng – 107<br />
-<strong>12.b     </strong>tunnid toimuvad koos 12.a klassiga<br />
-            1. tund matemaatika õp Ü. Hüva – 136<br />
-2. tund ühiskonnaõpetus õp A. Ristikivi – 141<br />
-            3. tund Töötukassa loeng – 107<br />
-<strong>12.d     </strong>tunnid toimuva koos 12.e klassiga<br />
-1. tund filosoofia õp M. Reiljan – 203<br />
-2. tund matemaatika õp K. Orav-Puurand<br />
-– 203<br />
-3. tund Töötukassa loeng – 107<br />
-<strong>12.e     </strong>tunnid toimuva koos 12.d klassiga<br />
-1. tund filosoofia õp M. Reiljan – 203<br />
-2. tund matemaatika õp K. Orav-Puurand<br />
-– 203<br />
-3. tund Töötukassa loeng – 107<br />
-<strong>MAJ2 </strong>5. tund toimub, juhendab psühholoog T. Ulst – 227<br />
-<u>reede, 18.11</u><br />
-<strong>10.a     </strong>4. tund geograafia iseseisev töö õp Ü. Hüva – 303<br />
-<strong>10.b</strong>     4. tund inglise keel õp S. Sagari rühma tundi asendab õp Ü. Roostoja – 312<br />
-<strong>11.a     </strong>2. tund matemaatika õp Ü. Hüva – 136<br />
-4. tund kehaline kasvatus õp A. Saarva/ A. Poom – 228<br />
-<strong>11.d     </strong>3. tund eesti keel õp A. Pullerits – 107<br />
-            4. tund füüsika õp J. Paaver – 202<br />
-<strong>12.a     </strong>3. tund kohtumine EU saadiku Urmas Paetiga – aula<br />
-4. tund matemaatika õp Ü. Hüva – 136<br />
-<strong>12.b</strong>     3. tund kohtumine EU saadiku Urmas Paetiga – aula<br />
-<strong>12.c</strong>     3. tund kohtumine EU saadiku Urmas Paetiga – aula<br />
-<strong>12.d     </strong>2. tund kehaline kasvatus õp A. Saarva/ A. Poom – 228<br />
-3. tund kohtumine EU saadiku Urmas Paetiga – aula<br />
-<strong>12.e     </strong>1. tund füüsika õp J. Paaver – 225<br />
-3. tund kohtumine EU saadiku Urmas Paetiga – aula<br />
+<p><u>esmaspäev, 21.11</u><br />
+<strong>10.e     </strong>5. tund inglise keel õp K. Ojaveeri rühmal jääb ära, kodune töö on Stuudiumis<br />
+ <br />
+<u>teisipäev, 22.11</u><br />
+<strong>10.c</strong>     5. tund saksa keel õp M. Matto – 204<br />
+<strong>10.d</strong>     5. tund saksa keel õp M. Matto – 204, inglise keel õp K. Ojaveeri rühmal jääb ära, kodune töö on Stuudiumis<br />
+<strong>11.b</strong>     4. tund saksa keel iseseisev töö õp S. Sagar – 204<br />
+<strong>11.c</strong>     4. tund saksa keel iseseisev töö õp S. Sagar – 204<br />
+<strong>11.c     </strong>4. tund inglise keel õp K. Ojaveeri rühmal jääb ära, kodune töö on Stuudiumis<br />
+<strong>12.b</strong>     3. tund inglise keel õp K. Ojaveeri rühmal – 303, koos õp M. Hildebrandti rühmaga<br />
+<strong>12.c</strong>     3. tund inglise keel õp K. Ojaveeri rühmal – 303, koos õp M. Hildebrandti rühmaga<br />
+<strong>12.d</strong>     3. tund inglise keel õp K. Ojaveeri rühmal – 303, koos õp M. Hildebrandti rühmaga<br />
+<u>kolmapäev, 23.11</u><br />
+<strong>10.a     </strong>5. tund enesehoole kursus med.-õde J. Saarepuu – 107<br />
+<strong>10.b     </strong>5. tund matemaatika õp E. Timak – 135<br />
+<strong>10.c     </strong>5. tund Mart Ustavi loeng – aula<br />
+<strong>10.d     </strong>5. tund enesehoole kursus psühholoog T. Ulst – 203<br />
+<strong>10.e     </strong>2. tund inglise keel õp K. Ojaveeri rühmal õp Ü. Roostoja - 303<br />
+5. tund enesehoole kursus õpilasnõustaja M. Nuut – 144<br />
+<strong>11.a     </strong>5. tund füüsika praktikum 2 (õpilase valikul) õp M. Reemann – 212<br />
+<strong>11.b     </strong>5. tund füüsika praktikum 2 (õpilase valikul) õp M. Reemann – 212<br />
+<strong>11.c     </strong>5. tund Mart Ustavi loeng – aula<br />
+<strong>12.a     </strong>4. tund inglise keel õp K. Ojaveeri rühmal – 303, koos õp M. Hildebrandti rühmaga<br />
+5. tund (osalemine on kohustuslik) Mart Ustavi loeng – aula<br />
+<strong>12.b     </strong>3. tund inglise keel õp K. Ojaveeri rühmal – 303, koos õp M. Hildebrandti rühmaga<br />
+5. tund (osalemine on kohustuslik) Mart Ustavi loeng – aula<br />
+<strong>12.c     </strong>3. tund inglise keel õp K. Ojaveeri rühmal – 303, koos õp M. Hildebrandti rühmaga<br />
+5. tund (osalemine on kohustuslik) Mart Ustavi loeng – aula<br />
+<strong>12.d     </strong>3. tund inglise keel õp K. Ojaveeri rühmal – 303, koos õp M. Hildebrandti rühmaga<br />
+            5. tund Mart Ustavi loeng - aula<br />
+<strong>12.e     </strong>4. tund inglise keel õp K. Ojaveeri rühmal – 303, koos õp M. Hildebrandti rühmaga<br />
+            5. tund Mart Ustavi loeng - aula<br />
+Ülejäänud klassidel 5. tundi ei toimu.<br />
+ <br />
+<u>neljapäev, 24.11</u><br />
+<strong>11.e     </strong>tunde ei toimu, klass on õppekäigul Tallinnas<br />
+<strong>RK5</strong>    5. tund jääb ära<br />
+<u>reede, 25.11</u><br />
+<strong>11.a</strong>     1. tund eesti keel õp T. Pluum – 102<br />
+<strong>11.c</strong>     3.-4. tund eesti keel õp T. Pluum – 102<br />
+<strong>11.d     </strong>2. tund eesti keel õp A. Pullerits – 202<br />
             4. tund ajalugu õp K. Punga – 144<br />
-<strong>MAJ2 </strong>5. tund külalisesineja Liina Lindsalu – 227</p>
+<strong>12. klassidel</strong> tunde ei toimu, õpilased valmistuvad inglise keele CAE eksamiks<br />
+<strong>SK9</strong>    5. tund saksa keel õp M. Matto – 301<br />
+<strong>EKab</strong>  5. tund eesti keele ab-kursus õp K. Soodla – 102<br />
+<u>esmaspäev, 28.11</u><br />
+<strong>10.a</strong>     2. tund inglise keel õp M. Hildebrandt – 225<br />
+<strong>10.b</strong>     3. tund inglise keel õp S. Sagar – 144<br />
+3. tund prantsuse keel õp K.-K. Pere – 220<br />
+4. tund inglise keel õp S. Sagar – 227<br />
+<strong>10.c</strong>     3. tund prantsuse keel õp K.-K. Pere – 220<br />
+5. tund inglise keel õp M<strong>. </strong>Hildebrandt – 225, õp Ü. Roostoja – 203<br />
+<strong>10.d</strong>     3. tund prantsuse keel õp K.-K. Pere – 220, inglise keel õp K. Ojaveer – 227<br />
+<strong>10.e</strong>     5. tund inglise keel õp S. Sagar – 227<br />
+<strong>11.c</strong>     2. tund inglise keel õp K. Ojaveer – raamatukogu lugemissaal (108)<br />
+<strong>11.d</strong>     2. tund inglise keel õp Ü. Roostoja – 213<br />
+<strong>12.a</strong>     4. tund inglise keel õp M. Hildebrandt – 213, õp Ü. Roostoja – raamatukogu lugemissaal (108)<br />
+<strong>12.e</strong>     4. tund inglise keel õp M. Hildebrandt – 213, õp Ü. Roostoja - raamatukogu lugemissaal (108)<br />
+<strong>PK4    </strong>1. tund prantsuse keel õp K.-K. Pere – 225</p>
 <h2>
 	Olümpiaadid ja võistlused</h2>
 <ul>
 <li>
-		4.-6. novembrini toimusid Lätis <strong>Vonazdinis bridge</strong> Läti juunioride meistrivõistlused, kus osales kokku 35 paari ning 18 tiimi. Seal osalesid ka 20 HTG õpilast, kes saavutasid oma vähesest mängukogemusest olenemata väga häid tulemusi:<br />
-		Jürgen Güsson (11.b) ja Mehka Kartau (11.c) 10. koht paarides, 5. koht tiimides;<br />
-		Aia Adele Narits (12.c) ja Kirke Kisand (11.a) 14. koht paarides, 6. koht tiimides;<br />
-		Rando Pihlak (10.b) ja Ott Kruuse (10.b) 19. koht paarides, 17. koht tiimides;<br />
-		Aarto Abroi (11.d) ja Rasmus Raie (11.a) 21. koht paarides, 10. koht tiimides;<br />
-		Rasmus Suur (10.b) ja Mart Johannes Nacke (10.b) 25. koht paarides, 11. koht tiimides;<br />
-		Mattias Sinilaht (10.b) ja Ats-Artur Ploomipuu (10.e) 28. koht paarides, 12. koht tiimides;<br />
-		Säde Sepp (10.d) ja Triin Prii (10.b) 29. koht paarides, 13. koht tiimides;<br />
-		Jaan Artur Viirsalu (10.b) ja Ralf Robert Paabo (10.a) 30. koht paarides, 12. koht tiimides;<br />
-		Oliver Mikli (10.b) ja Oliver Mihkel Mertelsmann (10.b) 31. koht paarides, 11. koht tiimides;<br />
-		Rando Remm (11.c) ja Beril-Amabel Lindmäe (10.c) 32. koht paarides, 10. koht tiimides.</li>
+		10.-14. novembril Norras 10 riigi osalusel toimunud <strong>„Balti Tee“ matemaatikavõistlusel</strong> saavutasid 12.b klassi õpilased Toomas Herodes ja Kristjan-Erik Kahu (mõlemad 12.b)  Eesti võistkonna koosseisus meeskondliku 4. koha.</li>
 <li>
-		8. novembril toimus „<strong>Balti Tee“ treeningvõistlus</strong>, kus esinesid tublilt meie kooli õpilased Mattias Jõgi (10.a), Robert Paabo (10.a), Karina Saealle (10.b), Kirke Kisand (11.a), Jürgen Güsson (11.b), Kaur Huko Käämbre (11.b), Rainis Puusepp (12.a), Mattias Timm Rast (12.a), Laur Härm (12.b) ja Hans Gustav Kõljalg (12.b).Teated</li>
+		Arabella Antons (11.c) osales 11. novembril Lydia Koidulale pühendatud <strong>etluskonkursil</strong>, kus pälvis gümnaasiumiastmes I koha ning sai konkursi parima Koidula pala esitaja auhinna. Arabella esindab Tartu linna 12. detsembril üleriigilisel etluskonkursil ,,Koidulauliku valgel”.</li>
 <li>
-		<strong>Etiketiõpetuse pidulikud õhtusöögid</strong> restoranis Vilde ja Vine toimuvad järgmiselt:<br />
-		esmaspäeval, 14.11. – 10.c klass; teisipäeval, 15.11. – 10.d klass; esmaspäeval, 21.11. – 10.e klass; esmaspäeval, 28.11. – 10.a klass ja teisipäeval, 29.11. – 10.b klass.</li>
+		Selgunud on <strong>kokkuvõttevõistluse TUUM</strong> võitjad. Võistlusele laekus 189 tööd. Nende seas oli 142 üksiküritajat ja 47 võistkonda, kokku 258 osalejat. Parima kooliõpilase auhinna pälvis Johanna Saare (12.d). 25 parema hulka mahtusid meie õpilastest veel Elise Belov (11.d), Hendrik Pajur (12.b), Kaur Kivilaan (12.a), Liisa Tafenau (12.c), Marie Loog (12.c), Märt Lillestik (12.d), Triinu Aru (12.e), Ville Markus Varik (12.d), samuti võistkondadena osalenud Anita Viineloo, Doris Keernik ja Kea Rael Kukk (kõik 12.c) ning Gerda Õunapuu ja Annmari Meriste (12.e).</li>
 <li>
-		12.-19. novembril võõrustame <strong>Erasmus+</strong> projekti raames külalisi Ungarist Budapestist, sellega seoses on esmaspäevast neljapäevani kell 9-16 hõivatud raamatukogu lugemissaal.</li>
+		2022/23 õppeaasta sügise jooksul toimunud kooli <strong>küberturvalisuse</strong> võistluse tulemuste põhjal on parimad küberturvalisuse teemades orienteerujad Mattias Jõgi ja Ralf Robert Paabo (10.a), Madis Repän,  Anna-Liisa Mägi, Karina Saelle, Sten Kaspar Vind, Andreas Soosaar ja Oliver Mikli (10.b), Aleksander Lõhmus, Mihkel Pennar, Janee Lootus, Eliise Siimon, Kirke Karolin Tark ja Liisi Liias (10.c), Ragnar Sarapuu, Kaur Ruuben Ragis, Kert Lelov, Emma Luht, Markos Soodla, Kirke Kisand, Annabel Rüütel ja Miia Isabel Anipai (11.a), Uku Mihkel Kolka ja Kirke Linda Kuuse (11.b), Jaagup Konksi, Iko Heero, Mehka Kartau, Joosep Rand, Sander Sarapuu ja Sonja Sareal (11.c), Juhan Martten Kull ja Robin Virunurm (11.d). 
+<p>		17. novembril koolitusena toimunud võistlusel osales kolm võistkonda koosseisudes neidude 1. võistkond - Miia Isabel Anipai, Kirke Kisand, Annabel Rüütel, Emma Luht (kõik 11.a), noormeeste 1. võistkond - Kert Lelov (11.a), Mattias Jõgi (10.a), Jaan Artur Viirsalu (10.b)  ning noormeeste 2. võistkond - Uku Mihkel Kolka (11.b), Iko Heero (11.c), Marvin Kask (11.b).<br />
+		Osalenud 90 võistkonna hulgas saavutas noormeeste 1. võistkond kolmanda koha ja noormeeste 2. võistkond kümnenda koha.
+	</p></li>
+</ul>
+<h2>
+	Konkursid</h2>
+<ul>
 <li>
-		Kõrgkooli algus pole enam kaugel, seega on õige aeg koondada oma mõtted ja jõuda selgusele, millise valdkonnaga edaspidine elu siduda. Täna kell 16.10, teisipäeval, 15. novembril kell 16.00 ja kolmapäeval, 16. novembril kell 14.35 toimuvad koolis klassiruumis 202 <strong>karjääripäevad</strong>, kuhu on oodatud kõik huvilised kuulama erinevaid külalisi, kes kirjeldavad oma karjääri olemust ja kuidas nad oma karjäärini jõudsid. Igast klassist ootame kuulama vähemalt kahte õpilast. Kuulajatele pakume ka kommi, teed ja küpsiseid. Rohkem infot leiate koolis olevatelt plakatitelt ja Facebook’is karjääripäevade ürituse alt.</li>
+		30. novembril toimub 3. tunni ajal <strong>rahvusvaheline inglise keele võistlus</strong> <strong>“Best in English”</strong>. Info ja registreerimine (tähtaeg 27.11) aadressil <a href="https://htg.ope.ee/suhtlus/p/14707760" target="_blank">https://htg.ope.ee/suhtlus/p/14707760</a>.</li>
+</ul>
+<ul>
 <li>
-		Ajalooring ootab teisipäeval, 15. novembril kell 16.00 ruumi 141 kõiki, keda huvitab <strong>Ungari</strong> ajalugu ja tänapäev, meie kooli külastavad Erasmus+ õpilased räägivad oma riigist.</li>
+		02.-03. detsembril (vabalt valitud 4 tunni raames) toimuvasse <strong>KüberNaaskli</strong> võistluse eelvooru on oodatud ka algajad huvilised. Selle keskmeks on 2007. aastal toimunud Pronksiöö rahutused ning küberrünnakud Eesti riigiasutuste ning organisatsioonide arvutivõrkude ja nende pakutavate e-teenuste vastu. Võistleja on Kaitseliidu Küberkaitseüksuse salajane abiline, kes kutsutakse eksperdina appi. Võistlusel toimuvad erinevad lihtsamad tegevused, ülesannete lahendamiseks saab kasutada ka vihjesüsteemi, vihjed maksvad punkte.<br />
+		<strong>Registreerumine võistlusele lõpeb 27.11.2022</strong><br />
+		<a href="https://docs.google.com/forms/d/e/1FAIpQLSe_dyqxJjO9Vxcx7-NNsVJmxzxOPrYAdp1SdVu-H8YVILDEMQ/viewform" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSe_dyqxJjO9Vxcx7-NNsVJmxzxOPrYAdp1SdVu-H8YVILDEMQ/viewform</a>.</li>
+</ul>
+<ul>
 <li>
-		Kolmapäeval, 16.11. kell 16.00 toimub auditooriumis <strong>kooli ajaloo viktoriin</strong> 10. klassidele.</li>
+		<strong>Kunstiolümpiaadi</strong> koolivoorus osalemiseks tuleb hiljemalt 20. jaanuariks esitada omaloominguline kunstitöö. Täpsem info on saadetud õpilastele Stuudiumi sõnumina. Küsimuste korral pöörduda õpetaja R. Lepiste poole.</li>
 <li>
-		Neljapäeval, 10. novembril kuulas 12.c klass vestlust Euroopa Liidu poliitikast, oma kogemustest rääkis Euroopa Liidu Sekretariaadi direktori asetäitja <strong>Katrin Juhandi</strong>.</li>
+		Eesti Goethe-Selts koostöös Weimari Goethe-Seltsi ja Tartu Saksa Kultuuri Instituudiga kuulutab välja järjekordse <strong>tõlkevõistluse tudengite ja gümnaasiumiõpilaste seas</strong>. Tõlkevõistluse keskmes on baltisakslaste lapsepõlvemälestused, Lähemalt saab selleaastase võistluse kohta lugeda Eesti Goethe-Seltsi kodulehelt: <a href="https://goetheselts.wordpress.com/2022/11/14/taas-on-eesti-goethe-seltsi-tolkevoitluse-aeg/" target="_blank">https://goetheselts.wordpress.com/2022/11/14/taas-on-eesti-goethe-seltsi-tolkevoitluse-aeg/</a>.<br />
+		Võistlustööde esitamise tähtaeg on 15. veebruar 2023. Täiendava info saamiseks pöörduda õpetaja M. Matto poole.</li>
+</ul>
+<h2>
+	Teated</h2>
+<ul>
 <li>
-		<strong>Roheliste ring</strong> kutsub 17. novembril kell 16.00-17.15 klassiruumi 227 kõiki õpilasi kuulama arhitekt ja poliitik Yoko Alenderit, kes räägib linnaruumi rollist, looduse kestlikkusest ja kliimamuutuste mõjust.</li>
+		Täna kell 16.10–17.15 toimub raamatukogu lugemissaalis <strong>klassivanemate ümarlaud</strong>, kuhu on oodatud kõikide klasside esindajad. Õpilaste küsimustele vastavad kooli juhtkonna liikmed.</li>
 <li>
-		9. novembril toimus HTG kuues heategevuslik kohvikute õhtu. Üritust korraldasid 11.c klassi õpilased Madli Maran, Sandra-Liisbet Lilleste ja Sireli Sildnik.<br />
-		Oma kohvikutega osales üheksa klassi, kes esindasid Prantsusmaad, USA-d, Itaaliat, Jaapanit, Mehhikot, Saksamaad, Türgit, Belgiat ning Iisreali. Õhtut sisustasid esinemistega Arabella Antons, Anna Viktoria Tammik, Kertu Katriin Kotkas ja Karmen Kütt. Kohvikuid külastas ja hindas žürii, mille koosseisu kuulusid Jaagup Konksi (11.c), Sonja Nämi (11.c), Katrin Ojaveer (inglise keele õpetaja), Sarah Tali (HTG vilistlane ja eelmise kohvikute õhtu üks korraldajatest) ning Tõnis Nöps (restoranide Pompei ja Kampus juhataja ja HTG vilistlane). Parima 10. klassi auhinna sai 10.b (Mehhiko), parima 11. klassi auhinna 11.e (Türgi), parima 12. klassi auhinna 12.c (USA), parima teeninduse 10.c (Itaalia), parima kujunduse 10.d (Iisrael) ning eriauhinna parima liikuva vahvli eest 10.e klass (Belgia). Kogu saadud tulu läheb annetamiseks Punase Risti abitegevusele Ukrainas. Täname kõiki klasse, kes osa võtsid, ja kõiki, kes kohvikuid külastasid!</li>
+		Alates homsest, 22. novembrist on kooli kantseleis vilistlastele ja huvijuhi juures õpilastele müügis kooli <strong>139. aastapäeva balli pääsmed </strong>(vilistlased 15 eurot eelmüügist, kohapeal 20 eurot; õpilased 12 eurot eelmüügist ja 15 eurot kohapeal).</li>
 <li>
-		10.-11. novembril toimus meie koolis <strong>kolme kooli kohtumine</strong>, mis oli seekord pühendatud Kalevipojale. Tublid olid kõik osalejad, aukirjadele kirjutati nii: Ats-Artur Ploomipuu (10.e) ajaloo ainevõistluse kõige akadeemilisem kompromiss, Maarja Katariina Kerge (12.d) ajaloo ainevõistluse kõige kultuursem kalamehejutt, Adele Raidmets (11.d) kõige mitmekülgsem ajaloo tõlgendamine; draama kategoorias Maara Parhomenko (12.e) parim naisnäitleja, unelmate murueided ehk parima ansamblimängu preemia, Miili Lippus (11.d) suurim pisarakiskuja, koos Karoliina Kübaraga (10.d) preemia „Nii ilus ja valus, et unustasin analüüsida“, Ivan Kleštšin (11.e) „Et need Kaval-Antsud ja sortsid ka kuhugi ei kao“ ehk Eesti elu valus-naljaka portreteerimise preemia; kirjanduse ainevõistlusel pälvis Elise Belov (11.d) oma meeskonnaga tunnustuse „Kalevipoeg“ Marie Underi võtmes, Lauri Raudsepp (12.e) tunnustuse maagilise minimalismi eest „Kalevipoja“ laulu edasiandmisel, Marja Järv (11.e) „Kalevipoja“ keelele uue hoole andmise eest; kunstis tunnustati meie kooli võistkonda koosseisus Maria Zinatullina (12.d), Helena Ploom (11.e), Margot Liisbet Menind (10.d) aukirjaga koomiksi klassikaliselt akadeemilise teostuse eest; muusikas tunnustati Hella Hildegard Niitra (11.e) triot stiilide mitmekesisuse ja isikupärase narratiivi loomise eest, Lilian Hindriksoni (11.d) triot rikaste tämbrite ja hinge puudutamise eest ning Karmen Küti (12.e) triot haarava meeleolu loomise eest. Võõrkeeltes pälvis inglise keele meeskonnas Markos Mõttus-Asson (11.d) tunnustuse kõige musikaalsema ja humoorikama teemakäsitluse eest, prantsuse keeles Hilda Laidmets (11.d) kõige romantilisema ja põhjalikuma teemakäsitluse eest, saksa keeles Emma Kilmi (11.d) kõige uudishimulikuma Kalevipoja ja kõige spontaansema tegutsemise eest, vene keeles Veera Beljajeva (12.e) kõige poeetilisema ja emotsionaalsema käsitluse eest. Lisaks tänati kolme kooli kohtumise ajakirjandustraditsiooni jätkamise eest Eliise Kolsarit (10.d), Andra Tuurmaad (10.e) ja Markus Kauri (10.a).</li>
+		Teisipäeval, 22. novembril alustab <strong>ajalooringi</strong> raames üle mitme aasta <strong>HTG dokumentaalfilmiklubi</strong>. Vaatame filmi „Fashion's Dirty Secrets“, mis räägib kiirmoe pahupoolest, filmi kommenteerib Aili Elts Tartu loodusmajast. Alustame kell 16.00 ruumis 141, kõik huvilised on oodatud.</li>
 <li>
-		Möödunud nädalavahetusel toimunud Tantsutaldade sügislaagris valiti vanemate tantsijate poolt <strong>parimaks tantsutallakeseks</strong> 10.b klassi neiu Minna Marie Kask ja <strong>parimaks tantsutallaks</strong> 10.a klassi noormees Rasmus Kõllo. <strong>Vilistlaste eripreemia</strong> pälvis 11.c klassi noormees Jaagup Konksi. Palju õnne!</li>
+		Kolmapäeval, 23. novembril ja neljapäeval, 24. novembril korraldavad 12.c klassi õpilased Minna Gielen, Holger Eric Hain, Liisa Tafenau ja Tuuli Kärt Tammaru ühiskonnaõpetuse projekti raames <strong>lõõgastumisvahetunnid</strong>, mis toimuvad pärast 2. tundi võimlas. Osalema on oodatud nii õpilased kui ka kooli töötajad.</li>
 <li>
-		Esmaspäeval, 21. novembril kell 16.10–17.15 toimub raamatukogu lugemissaalis <strong>klassivanemate ümarlaud</strong>, kuhu on oodatud kõikide klasside esindajad. Õpilaste küsimustele vastavad kooli juhtkonna liikmed.</li>
+		Neljapäeval, 24. novembril toimub võimlas kell 12.40 kooli aastapäeva aktuse <strong>lipuvalve proov</strong> (aktust korraldab 12.b klass).</li>
+<li>
+		11.a klass käis õppekäigul Tallinnas Alexela kontserdimajas toimunud <strong>noortekonverentsil</strong>.<br />
+		Õpilased tutvusid erinevate edasiõppimise võimalustega ning kuulasid põnevaid esinejaid nagu Kristi Saare, Jüri Nael, Olav Ehala, Inga Lunge jpt, kes rääkisid rahaasjade korrashoiust, vaimse tervise tugevdamisest, oma isiklikest kogemustest, kuidas tulevast ametit valida jne.</li>
+<li>
+		Esmaspäeval, 14. novembril oli „Draama ja teatri“ kursuse õpilastel võimalus osaleda Tartu Ülikooli <strong>teatriteaduse</strong> aluste loengus, kus lektor Riina Oruaas rääkis köitvalt etendajast ja rollist teatris ning haaras ülesannete lahendamisse ka HTG õpilasi. Aitäh osalejatele!</li>
+<li>
+		14. novembril tähistati Tallinna Reaalkooli juurde püstitatud Vabadussõjas langenud õpilastele ja õpetajatele pühendatud mälestusmärgi 95. aastapäeva. <strong>Ajaloo-konverentsil</strong> esines kõnega Emili Kristelle Andrejev (11.e), kooli esindasid ka Mona-Liis Miil (11.e) ja Ats-Artur Ploomipuu (10.e).</li>
+<li>
+		12.-19. novembril viibisid meie koolil külas <strong>Erasmus+</strong> projekti raames Xántus János gümnaasiumi õpilased Budapestist. Koos meie õpilastega külastati Tartu Puškini kooli, Eesti Rahva Muuseumi, kuulati 2018. aasta vilistlase Kirill Jurkovi loengut Balti Uuringute instituudis ning tehti päevane reis Narva, läbivaks teemaks oli vähemusrahvuste integratsioon. Meie õpilastest osalesid projektis Anna Malena Kuris, Anastasiia Pershko (mõlemad 11.c), Karoliina Krautmann (11.e), Kaisa Kontkar (11.d) ja Liisi Liias (10.c).</li>
+<li>
+		Neljapäeval, 17. novembril toimus 12. klasside <strong>töövarjupäev</strong>, 102 abiturienti oli sel päeval oma elukutsevalikule kinnitust saamas. 12.a, 12.b, 12.d ja 12.e klassi õpilastele, kes jäid kooli, esines Töötukassa karjääriinfo spetsialist Maarika Allas.</li>
+<li>
+		12.a ja 12.b klassi õpilastele esines neljapäeval, 17. novembril <strong>uudishimupäeva</strong> tähistamise raames Tartu Ülikooli arheokeemia labori juht Ester Oras (vilistlane 2003).</li>
 </ul>
 <h2>
 	Õpetajad koolist eemal</h2>
 <ul>
 <li>
-		Õpetaja Ülle Seevri osaleb 17. novembril koolitusel, õpetajad Sandra Sagar ja Aare Ristikivi viibivad Erasmus+ projektil osalejatega Narvas.</li>
+		Õpetaja Kristiina Punga viibib 11.e klassiga õppekäigul Tallinnas 24. novembril, õpetaja Mall Matto osaleb saksa keele DSD eksami komisjoni töös teisipäeval, 22. novembril kell 12.00–14.30.</li>
+<li>
+		25. novembril viibib õpetaja Anett Pullerits näiteringiga Betti Alveri luulepäevadel Jõgeval ja õpetaja Siim Oks robootika kursuse õpilastega Tallinnas toimuval Robotexi võistlusel.</li>
 </ul>
 <h2>
-	Sport</h2>
-<ul>
-<li>
-		Artus Leo Marco Klemm (10.a) tuli võrkpallis “Neemeco“ võistkonna ridades Eesti U18 vanuseklassi karikavõitjaks.</li>
-<li>
-		Sõbralikus sportlikus õhkkonnas toimus HTGs kolme kooli saalihokiturniir. Õpilastest võitis HTG, teine oli Jõgeva ning kolmas Nõo. Õpetajatest võitis Nõo HTG ja Jõgeva ees. Aitäh kõikidele osalejatele, pealtvaatajatele ning abilistele!</li>
-<li>
-		<strong>Kooli</strong> <strong>aastapäeva spordinädala</strong> võistlused:<br />
-		<u>esmaspäev, 21. november </u><br />
-		kell 16.15 - saalihoki välkturniir (4T+4P);<br />
-		<u>teisipäev, 22. november </u><br />
-		kell 16.00 - SOPS (korvpalli kaugvisked) individuaalne võistlus<br />
-		kell 16.30 korvpalli välkturniir (4T+4P);<br />
-		<u>kolmapäev, 23. november </u><br />
-		kell 16.00 saalihoki õpilaste ja õpetajate vahel<br />
-		<u>neljapäev, 24. november </u><br />
-		Kell 16.00 võrkpalli välkturniir (3T+3P)<br />
-		<u>reede-laupäev, 25.-26.november </u><br />
-		vilistlasturniir korvpallis<br />
-		<u>pühapäev, 27. november </u><br />
-		vilistlasturniir saalihokis</li>
-</ul>
-<h2>
-	Raamatukogu teated</h2>
-<ul>
-<li>
-		Reedel, 18. novembril kell 14.35 saab raamatukogu lugemissaalis kokku HTG kirjandusklubi. Arutleme Jaan Krossi ja tema novelli „Väike Vipper“ üle. Oodatud on kõik huvilised: ka siis, kui pole novelli (lõpuni) lugenud.</li>
-</ul>
+	Koolisöökla teated</h2>
+<p>· Orientiiriks lapsevanematele <strong>detsembrikuu toiduraha</strong>:<br />
+* kui õpilane sööb ka arvestuste nädalal:<br />
+- tavatoit 14 päeva x 1 euro = 14.00 eurot, XL portsjon 14 päeva x 1.70 eurot = 23.80 eurot ja taimetoit 14 päeva x 1.25 eurot = 17.50 eurot;<br />
+** kui õpilane ei söö arvestuse nädalal:<br />
+- tavatoit 9 päeva x 1 euro = 9 eurot, XL portsjon 9 päeva x 1.70 eurot = 15.30 eurot ja taimetoit 9 päeva x 1.25 = 11.25 eurot.<br />
+· Tuletame meelde, et õpilased, kes ei söö arvestuste nädalal, peavad ennast süsteemis ARNO märkima sellel perioodil puudujaks.<br />
+· Toitlustamist ei toimu 21. detsembril.</p>
 <h2>
 	Eelteated</h2>
 <ul>
 <li>
-		23. novembril 5. tunni ajal esineb aulas loenguga Mart Ustav jr (HTG vil 2004). Ta räägib ravimiarendusest, biotehnoloogiast, ettevõttest Icosagen ning millised on õppimis- ja uurimissuunad, kuhu tasuks panustada järgmise 10 aasta ravimiarenduste kontekstis. Loeng on kohustuslik loodussuuna õpilastele ja reaalsuuna 12. klasside õpilastele.</li>
+		Viie kooli võistlus matemaatikas toimub Tartu Tamme Gümnaasiumis 1. detsembril. Meie kooli võistkond koguneb teisipäeval, 29. novembril kell 10.45 õpetajate toas (208).</li>
+<li>
+		Teisipäeval, 29. novembril kell 11.30–14.30 toimub auditooriumis keemiaolümpiaadi koolivoor. Täpsem info keemiaõpetajatelt.</li>
+<li>
+		Kolmapäeval, 30. novembril kell 14.00–17.00 toimub auditooriumis lingvistikaolümpiaadi eelvoor. Täpsem info õpetaja Kristiina Pungalt.</li>
 </ul>
-</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 00:26</div></div></div></div>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-15 15:27</div></div></div></div>
 
   </div>
   
