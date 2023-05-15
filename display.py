@@ -22,6 +22,7 @@ with open(file_path, "r") as file:
             print("Invalid JSON string:", line)
 
 # Create the bar chart
+plt.figure(figsize=(50, 6))
 plt.bar(range(len(summa_values)), summa_values)
 
 # Add labels and title
