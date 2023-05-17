@@ -13,7 +13,7 @@ export default function Home() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response1 = await fetch("/mentions.json");
+        const response1 = await fetch("/klassMentions.json");
         const data1 = await response1.json();
         setTop50stu(data1);
       } catch (error) {
@@ -37,24 +37,24 @@ export default function Home() {
           </div>
           <div className={styles.topid}>
             <div className={styles.vasakÕpilased}>
-              <h3 className={styles.subsubtitle}><Link href={"/students/"}><u>Õpilased</u></Link></h3>
+              <h3 className={styles.subsubtitle}><Link href={"/classes/"}><u>Klasside top 50</u></Link></h3>
               {(top50stu !== []) ? (
                 <table className={styles.table}>
                   <thead>
                     <tr>
                       <th>#</th>
-                      <th>Nimi</th>
                       <th style={{ width: "1rem", overflow: "clip", paddingRight: "0.5rem" }}>Lõpetamisaasta + klass</th>
                       <th>Mainimisi</th>
+                      <th>Keskmine</th>
                     </tr>
                   </thead>
                   <tbody>
                     {top50stu.map((element, index) => (
                       <tr key={index}>
                         <td>{index + 1}</td>
-                        <td><Link href={"/students/" + index}>{element.nimi}</Link></td>
-                        <td>{element.aasta}</td>
-                        <td>{element.summa}</td>
+                        <td><Link href={"/classes/" + index}>{element.aasta}</Link></td>
+                        <td>{element.kokku.reduce((partialSum, a) => partialSum + a, 0)}</td>
+                        <td>{element.keskmine.toFixed(2)}</td>
                       </tr>
                     ))}
                   </tbody>
@@ -72,7 +72,6 @@ export default function Home() {
           </div>
         </footer>
       </main>
-      
     </>
   )
 }

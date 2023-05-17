@@ -11,17 +11,6 @@ export default function Home() {
   const [top50stu, setTop50stu] = useState([]);
   const [top50cla, setTop50cla] = useState([]);
   const [top50tea, setTop50tea] = useState([]);
-  const [isNarrow, setIsNarrow] = useState(false);
-
-  useEffect(() => {
-    const handleResize = () => {
-      setIsNarrow(window.innerWidth < 768);
-    }
-    window.addEventListener("resize", handleResize);
-
-    return () => window.removeEventListener("resize", handleResize);
-
-  }, [])
 
   useEffect(() => {
     const fetchData = async () => {
@@ -70,7 +59,7 @@ export default function Home() {
                   {top50stu.map((element, index) => (
                     <tr key={index}>
                       <td>{index + 1}</td>
-                      <td>{element.nimi}</td>
+                      <td><Link href={"/students/" + index}>{element.nimi}</Link></td>
                       <td>{element.aasta}</td>
                       <td>{element.summa}</td>
                     </tr>
@@ -80,7 +69,7 @@ export default function Home() {
             </div>
 
             <div className={styles.keskelKlassid}>
-              <h3 className={styles.subsubtitle}><u>Klasside top 50</u></h3>
+              <h3 className={styles.subsubtitle}><Link href="/classes"><u>Klasside top 50</u></Link></h3>
               <table className={styles.table}>
                 <thead>
                   <tr>
@@ -94,7 +83,7 @@ export default function Home() {
                   {top50cla.map((element, index) => (
                     <tr key={index}>
                       <td>{index + 1}</td>
-                      <td>{element.aasta}</td>
+                      <td><Link href={"/classes/" + index}>{element.aasta}</Link></td>
                       <td>{element.kokku.reduce((partialSum, a) => partialSum + a, 0)}</td>
                       <td>{element.keskmine.toFixed(2)}</td>
                     </tr>
@@ -103,7 +92,7 @@ export default function Home() {
               </table>
             </div>
             <div className={styles.paremÕpetajad}>
-              <h3 className={styles.subsubtitle}><u>Õpetajate top 50</u></h3>
+              <h3 className={styles.subsubtitle}><Link href="/teachers"><u>Õpetajate top 50</u></Link></h3>
               <table className={styles.table}>
                 <thead>
                   <tr>
@@ -116,7 +105,7 @@ export default function Home() {
                   {top50tea.map((element, index) => (
                     <tr key={index}>
                       <td>{index + 1}</td>
-                      <td>{element.nimi}</td>
+                      <td><Link href={"/teachers/" + index}>{element.nimi}</Link></td>
                       <td>{element.summa}</td>
                     </tr>
                   ))}
@@ -125,6 +114,12 @@ export default function Home() {
             </div>
           </div>
         </div>
+        <footer className="bg-dark text-light text-center py-3" style={{width: "100%"}}>
+          <div className="container">
+            <p className="mb-0">Credit: Kevin Akkermann ja Toomas Herodes (B20)</p>
+          </div>
+        </footer>
+
       </main>
     </>
   )

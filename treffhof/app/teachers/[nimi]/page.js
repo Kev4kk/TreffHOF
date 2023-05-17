@@ -14,7 +14,7 @@ export default function Page({ params }) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response1 = await fetch("/mentions.json");
+        const response1 = await fetch("/teacherMentions.json");
         const data1 = await response1.json();
         setData(data1[params.nimi]);
         console.log(data1[params.nimi]);

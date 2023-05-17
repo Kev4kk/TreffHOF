@@ -14,7 +14,7 @@ export default function Page({ params }) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response1 = await fetch("/mentions.json");
+        const response1 = await fetch("/klassMentions.json");
         const data1 = await response1.json();
         setData(data1[params.nimi]);
         console.log(data1[params.nimi]);
@@ -41,7 +41,7 @@ export default function Page({ params }) {
             <div className={styles.vasakÕpilased}>
               {(top50stu !== {}) ? (
                 <>
-                <h3 className={styles.subsubtitle}><u>{data.nimi}</u></h3>
+                <h3 className={styles.subsubtitle}><u>{data.aasta}</u></h3>
               
                 <p>{data.summa}</p>
                 </>

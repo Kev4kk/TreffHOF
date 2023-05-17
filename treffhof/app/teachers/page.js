@@ -13,7 +13,7 @@ export default function Home() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response1 = await fetch("/mentions.json");
+        const response1 = await fetch("/teacherMentions.json");
         const data1 = await response1.json();
         setTop50stu(data1);
       } catch (error) {
@@ -37,14 +37,13 @@ export default function Home() {
           </div>
           <div className={styles.topid}>
             <div className={styles.vasakÕpilased}>
-              <h3 className={styles.subsubtitle}><Link href={"/students/"}><u>Õpilased</u></Link></h3>
+              <h3 className={styles.subsubtitle}><Link href={"/teachers/"}><u>Õpetajad</u></Link></h3>
               {(top50stu !== []) ? (
                 <table className={styles.table}>
                   <thead>
                     <tr>
                       <th>#</th>
                       <th>Nimi</th>
-                      <th style={{ width: "1rem", overflow: "clip", paddingRight: "0.5rem" }}>Lõpetamisaasta + klass</th>
                       <th>Mainimisi</th>
                     </tr>
                   </thead>
@@ -52,8 +51,7 @@ export default function Home() {
                     {top50stu.map((element, index) => (
                       <tr key={index}>
                         <td>{index + 1}</td>
-                        <td><Link href={"/students/" + index}>{element.nimi}</Link></td>
-                        <td>{element.aasta}</td>
+                        <td><Link href={"/teachers/" + index}>{element.nimi}</Link></td>
                         <td>{element.summa}</td>
                       </tr>
                     ))}
@@ -68,11 +66,10 @@ export default function Home() {
         </div>
         <footer className="bg-dark text-light text-center py-3" style={{width: "100%"}}>
           <div className="container">
-            <p className="mb-0">Credit: Kevin Akkermann ja Toomas Herodes (B20)</p>
+            <p className="mb-0">Credit: Kevin Akkermann and Toomas Herodes from B20</p>
           </div>
         </footer>
       </main>
-      
     </>
   )
 }
