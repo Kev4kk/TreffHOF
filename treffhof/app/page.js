@@ -11,6 +11,17 @@ export default function Home() {
   const [top50stu, setTop50stu] = useState([]);
   const [top50cla, setTop50cla] = useState([]);
   const [top50tea, setTop50tea] = useState([]);
+  const [isNarrow, setIsNarrow] = useState(false);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsNarrow(window.innerWidth < 768);
+    }
+    window.addEventListener("resize", handleResize);
+
+    return () => window.removeEventListener("resize", handleResize);
+
+  }, [])
 
   useEffect(() => {
     const fetchData = async () => {
@@ -39,8 +50,10 @@ export default function Home() {
       <Header />
       <main className={styles.main}>
         <div className={styles.content}>
-          <h1 className={styles.title}>HTG Hall Of Fame</h1>
-          <h2 className={styles.subtitle}>Vaata, kui palju on sind infolehes mainitud</h2>
+          <div className={styles.titles}>
+            <h1 className={styles.title}>HTG Hall Of Fame</h1>
+            <h2 className={styles.subtitle}>Vaata, kui palju on sind infolehes mainitud</h2>
+          </div>
           <div className={styles.topid}>
             <div className={styles.vasakÕpilased}>
               <h3 className={styles.subsubtitle}><Link href="/students"><u>Õpilaste top 50</u></Link></h3>
@@ -49,7 +62,7 @@ export default function Home() {
                   <tr>
                     <th>#</th>
                     <th>Nimi</th>
-                    <th style={{width:"1rem",overflow: "clip", paddingRight: "0.5rem"}}>Lõpetamisaasta + klass</th>
+                    <th style={{ width: "1rem", overflow: "clip", paddingRight: "0.5rem" }}>Lõpetamisaasta + klass</th>
                     <th>Mainimisi</th>
                   </tr>
                 </thead>
@@ -72,7 +85,7 @@ export default function Home() {
                 <thead>
                   <tr>
                     <th>#</th>
-                    <th style={{width:"1rem",overflow: "clip", paddingRight: "0.5rem"}}>Lõpetamisaasta + klass</th>
+                    <th style={{ width: "1rem", overflow: "clip", paddingRight: "0.5rem" }}>Lõpetamisaasta + klass</th>
                     <th>Mainimisi</th>
                     <th>Keskmine</th>
                   </tr>

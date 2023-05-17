@@ -31,32 +31,34 @@ export default function Home() {
       <Header />
       <main className={styles.main}>
         <div className={styles.content}>
-          <h1 className={styles.title}>HTG Hall Of Fame</h1>
-          <h2 className={styles.subtitle}>Vaata, kui palju on sind infolehes mainitud</h2>
+          <div className={styles.titles}>
+            <h1 className={styles.title}>HTG Hall Of Fame</h1>
+            <h2 className={styles.subtitle}>Vaata, kui palju on sind infolehes mainitud</h2>
+          </div>
           <div className={styles.topid}>
             <div className={styles.vasakÕpilased}>
               <h3 className={styles.subsubtitle}><u>Õpilased</u></h3>
               {(top50stu !== []) ? (
-              <table className={styles.table}>
-                <thead>
-                  <tr>
-                    <th>#</th>
-                    <th>Nimi</th>
-                    <th style={{width:"1rem",overflow: "clip", paddingRight: "0.5rem"}}>Lõpetamisaasta + klass</th>
-                    <th>Mainimisi</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {top50stu.map((element, index) => (
-                    <tr key={index}>
-                      <td>{index + 1}</td>
-                      <td><Link href={"/students/" + index}>{element.nimi}</Link></td>
-                      <td>{element.aasta}</td>
-                      <td>{element.summa}</td>
+                <table className={styles.table}>
+                  <thead>
+                    <tr>
+                      <th>#</th>
+                      <th>Nimi</th>
+                      <th style={{ width: "1rem", overflow: "clip", paddingRight: "0.5rem" }}>Lõpetamisaasta + klass</th>
+                      <th>Mainimisi</th>
                     </tr>
-                  ))}
-                </tbody>
-              </table>
+                  </thead>
+                  <tbody>
+                    {top50stu.map((element, index) => (
+                      <tr key={index}>
+                        <td>{index + 1}</td>
+                        <td><Link href={"/students/" + index}>{element.nimi}</Link></td>
+                        <td>{element.aasta}</td>
+                        <td>{element.summa}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
               ) : (
                 <p>Laen...</p>
               )}
