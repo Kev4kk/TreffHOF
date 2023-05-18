@@ -67,12 +67,12 @@ for õpetaja in text_array:
         if result is not None:
             mainimisiÕpilasena = result["summa"]
         
-        for filename in os.listdir("./infolehed3"):
-            file_path = os.path.join("./infolehed3", filename)
+        for filename in os.listdir("./infolehed4"):
+            file_path = os.path.join("./infolehed4", filename)
         
             # Check if the current item is a file
             if os.path.isfile(file_path):        
-                f = open("./infolehed3/" + filename, "r")
+                f = open("./infolehed4/" + filename, "r")
                 cntnt = f.read()
                 f.close()
                 cnt = cntnt.count(nimi)
@@ -92,12 +92,12 @@ for õpetaja in text_array:
         if result is not None:
             mainimisiÕpilasena = result["summa"]
         
-        for filename in os.listdir("./infolehed3"):
-            file_path = os.path.join("./infolehed3", filename)
+        for filename in os.listdir("./infolehed4"):
+            file_path = os.path.join("./infolehed4", filename)
         
             # Check if the current item is a file
             if os.path.isfile(file_path):        
-                f = open("./infolehed3/" + filename, "r")
+                f = open("./infolehed4/" + filename, "r")
                 cntnt = f.read()
                 f.close()
                 cnt = cntnt.count(nimi)
