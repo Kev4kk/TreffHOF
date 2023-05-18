@@ -37,7 +37,7 @@ export default function Home() {
           </div>
           <div className={styles.topid}>
             <div className={styles.vasakÕpilased}>
-              <h3 className={styles.subsubtitle}><Link href={"/classes/"}><u>Klasside top 50</u></Link></h3>
+              <h3 className={styles.subsubtitle}><Link href={"/classes/"}><u>Klasside kaupa</u></Link></h3>
               {(top50stu !== []) ? (
                 <table className={styles.table}>
                   <thead>
@@ -52,8 +52,8 @@ export default function Home() {
                     {top50stu.map((element, index) => (
                       <tr key={index}>
                         <td>{index + 1}</td>
-                        <td><Link href={"/classes/" + index}>{element.aasta}</Link></td>
-                        <td>{element.kokku.reduce((partialSum, a) => partialSum + a, 0)}</td>
+                        <td><Link href={"/classes/" + index}><u>{element.aasta}</u></Link></td>
+                        <td>{element.kokku.reduce((partialSum, a) => partialSum + a[1], 0)}</td>
                         <td>{element.keskmine.toFixed(2)}</td>
                       </tr>
                     ))}

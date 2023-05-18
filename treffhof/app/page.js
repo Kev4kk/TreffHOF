@@ -59,7 +59,7 @@ export default function Home() {
                   {top50stu.map((element, index) => (
                     <tr key={index}>
                       <td>{index + 1}</td>
-                      <td><Link href={"/students/" + index}>{element.nimi}</Link></td>
+                      <td><Link href={"/students/" + index}><u>{element.nimi}</u></Link></td>
                       <td>{element.aasta}</td>
                       <td>{element.summa}</td>
                     </tr>
@@ -83,8 +83,8 @@ export default function Home() {
                   {top50cla.map((element, index) => (
                     <tr key={index}>
                       <td>{index + 1}</td>
-                      <td><Link href={"/classes/" + index}>{element.aasta}</Link></td>
-                      <td>{element.kokku.reduce((partialSum, a) => partialSum + a, 0)}</td>
+                      <td><Link href={"/classes/" + index}><u>{element.aasta}</u></Link></td>
+                      <td>{element.kokku.reduce((partialSum, a) => partialSum + a[1], 0)}</td>
                       <td>{element.keskmine.toFixed(2)}</td>
                     </tr>
                   ))}
@@ -105,7 +105,7 @@ export default function Home() {
                   {top50tea.map((element, index) => (
                     <tr key={index}>
                       <td>{index + 1}</td>
-                      <td><Link href={"/teachers/" + index}>{element.nimi}</Link></td>
+                      <td><Link href={"/teachers/" + index}><u>{element.nimi}</u></Link></td>
                       <td>{element.summa}</td>
                     </tr>
                   ))}
@@ -116,6 +116,7 @@ export default function Home() {
         </div>
         <footer className="bg-dark text-light text-center py-3" style={{width: "100%"}}>
           <div className="container">
+            <p className="mb-0" style={{color: "#BBB"}}>Kogu info ei pruugi olla korrektne</p>
             <p className="mb-0">Credit: Kevin Akkermann ja Toomas Herodes (B20)</p>
           </div>
         </footer>

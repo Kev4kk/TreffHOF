@@ -45,6 +45,7 @@ export default function Page({ params }) {
                 <h1 className={styles.subsubtitle}><u>{data.nimi}</u></h1>
               
                 <p>Mainimisi kokku: {data.summa}</p>
+                <p>Koht: {parseInt(params.nimi)+1}</p>
                 
                 
                 <MainimisteTabel data={data.mentions}/>
