@@ -4,7 +4,7 @@ import os
 import json
 
 # Folder path
-folder_path = './infolehed3'
+folder_path = './infolehed4'
 
 sf = open("students.txt", "r")
 students = []
@@ -35,7 +35,7 @@ for student in students:
             # print(filename)
             if filename[0:4] not in vaadeldavad:
                 continue
-            f = open("./infolehed3/" + filename, "r")
+            f = open(f"./{folder_path}/" + filename, "r")
             cntnt = f.read()
             f.close()
             cnt = cntnt.count(student[0])

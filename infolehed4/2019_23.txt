@@ -1,0 +1,180 @@
+<div class="field-item even" property="content:encoded"><h1>
+	<strong>HTG INFO </strong><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_02_16.09.2019.pdf"><img alt="" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/PDFvv.png" style="float: right;" /></a><a href="https://www.htg.tartu.ee/sites/default/files/files/HTG_infoleht_02_16.09.2019.doc"><img alt="doc" src="/d/sites/all/libraries/kcfinder/sites/default/files/kcfinder/images/icons/DOCvv.png" style="float: right;" /></a></h1>
+<h1>
+	Juhtkond tänab</h1>
+<ul>
+<li>
+		11.b klassi õpilasi ja nende klassijuhatajat Anneli Saarvat sügispikniku korraldamise eest Taevaskojas.</li>
+</ul>
+<h1>
+	Õppetöö</h1>
+<ul>
+<li>
+		Kolmapäeval, 18. septembril kell 8.05–11.00 toimub matemaatikaõpetajate eestvedamisel ruumides 105, 107 ja 221 <strong>matemaatika-olümpiaadi koolivoor.</strong> Olümpiaadist võtavad osa <strong>kõik</strong> <strong>10.a</strong> ja <strong>10.b</strong> klassi õpilased ning valikuliselt õpilased ülejäänud klassidest.
+<!--break--><p> Olümpiaadil osaleda soovijatel (ka humanitaar- ja loodusharu õpilastel) palutakse pöörduda oma matemaatikaõpetaja poole.<br />
+		Olümpiaadil osalevad õpilased lõunatavad kohe pärast ülesannete lahendamist või klassile ette nähtud vahetunnil ning osalevad 3. ja 4. tunniplaanijärgses tunnis.<br />
+		Olümpiaadi ajal on klassiruumides:<br />
+		221      õp Ülle Hüva (kell 8.05 – 11.00)<br />
+		107      õp Ehtel Timak (kell 8.05 – 11.00)<br />
+		105      õp Ülle Seevri (kell 8.05 – 9.25)<br />
+		õp Kerli Orav-Puurand (kell 9.25 – 11.00)</p></li>
+</ul>
+<ul>
+<li>
+		Huvilistel abiturientidel on võimalik neljapäeval, 19. septembril osaleda <strong>UPT-20</strong> koordinaatori konsultatsioonis, eelregistreerimine Moodles lõpeb 18. septembril kell 20.</li>
+</ul>
+<h1>
+	Muudatused tunniplaanis</h1>
+<p><u>teisipäev, 17.09</u><br />
+<strong>11.b     </strong>3. ja 5. tund matemaatika õp Ü. Hüva - 136<br />
+<u>kolmapäev, 18.09</u><br />
+<strong>10.a     </strong>1. ja 2. tund jäävad ära, kõik õpilased osalevad matemaatika olümpiaadi koolivoorul<br />
+<strong>10.b     </strong>1. ja 2. tund jäävad ära, kõik õpilased osalevad matemaatika olümpiaadi koolivoorul<br />
+<strong>10.e</strong>     4. tund kehaline kasvatus kogu klassil Tähtvere pargis õp A. Saarva<br />
+<strong>11.a</strong>     1. tund kehaline kasvatus kogu klassil Tähtvere pargis õp A. Saarva<br />
+<strong>11.b     </strong>2. tund füüsika õp M. Reemann - 213<br />
+<strong>12.b     </strong>2. tund ajalugu õp K. Punga - 202<br />
+4. tund matemaatika õp K. Orav-Puurand - 135<br />
+<strong>12.c     </strong>3. tund matemaatika õp K. Orav-Puurand - 135<br />
+      4. tund ajalugu õp K. Punga - 144<br />
+<u>neljapäev, 19.09</u><br />
+<strong>10.a     </strong>2. tund matemaatika õp E. Timak - 135<br />
+3. tund geograafia õp Ü. Seevri - 227<br />
+<strong>10.d</strong>     1. tund kehaline kasvatus kogu klassil Tähtvere pargis õp A. Saarva<br />
+<strong>11.c     </strong>2. tund kirjandus õp M. Piirimäe - 102<br />
+3. tund matemaatika õp E. Timak - 135<br />
+<strong>12.c</strong>     2. tund kehaline kasvatus kogu klassil Tähtvere pargis õp A. Saarva<br />
+<strong>12.e</strong>     3. tund kehaline kasvatus kogu klassil Tähtvere pargis õp A. Saarva<br />
+<strong>12.d</strong>     4. tund kehaline kasvatus kogu klassil Tähtvere pargis õp A. Saarva<br />
+<strong>12.e     </strong>2. ja 4. tund kirjandus õp A. Salo - 105<br />
+<u>reede, 20.09</u><br />
+<strong>10.c     </strong>1. tund geograafia õp Ü. Seevri - 225<br />
+<strong>10.d     </strong>3. tund geograafia õp Ü. Seevri - 225<br />
+<strong>10.e     </strong>4. tund geograafia õp Ü. Seevri - 227<br />
+<strong>11.a     </strong>1. tund füüsika õp S. Oks - 213<br />
+      2.-3. tund matemaatika õp Ü. Hüva - 136<br />
+<strong>11.b     </strong>1<strong>.-</strong>4. tund matemaatika õp Ü Hüva - 136<br />
+<strong>11.c     </strong>3. tund kirjandus õp K. Soodla - 105<br />
+<strong>11.e     </strong>1. tund kirjandus õp K. Soodla - 139<br />
+<strong>12.a     </strong>tunde ei toimu, klass on õppekäigul Vargamäele<br />
+<strong>12.b     </strong>tunde ei toimu, klass on õppekäigul Vargamäele<br />
+<strong>12.c     </strong>tunde ei toimu, klass on õppekäigul Vargamäele<br />
+<strong>12.d     </strong>tunde ei toimu, klass on õppekäigul Vargamäele<br />
+<strong>12.e     </strong>tunde ei toimu, klass on õppekäigul Vargamäele<br />
+<u>esmaspäev, 23.09</u><br />
+<strong>10.a</strong>     5. tund kehaline kasvatus kogu klassil Tähtvere pargis õp A. Saarva<br />
+<strong>11.b</strong>     3. tund kehaline kasvatus kogu klassil Tähtvere pargis õp A. Saarva<br />
+<strong>12.a</strong>     4. tund kehaline kasvatus kogu klassil Tähtvere pargis õp A. Saarva<br />
+<strong>12.b</strong>     2. tund kehaline kasvatus kogu klassil Tähtvere pargis õp A. Saarva</p>
+<h1>
+	 </h1>
+<h1>
+	Konkursid</h1>
+<ul>
+<li>
+		LHV korraldab <strong>aktsiamängu</strong> „Börsihai“, mis toimub 7. oktoobrist kuni 1. novembrini. Mängule registreerimine algab 23. septembril, täpsem info <a href="https://www.lhv.ee/et/hai">https://www.lhv.ee/et/hai</a>.</li>
+<li>
+		Ene Mihkelsoni Selts kuulutab välja gümnaasiumiõpilaste konkursi „Ene Mihkelsoni lugedes“, kuhu ootame Ene Mihkelsoni loomingut tõlgendavaid <strong>esseid ja audiovisuaalseid tekste</strong>. Tööde esitamise tähtaeg on 30. september, täpsem info: <u><a href="http://www.enemihkelsoniselts.ee/haridusprogramm/esseekonkurss">http://www.enemihkelsoniselts.ee/haridusprogramm/esseekonkurss</a></u>.</li>
+</ul>
+<h1>
+	Teated</h1>
+<ul>
+<li>
+		Esmaspäeval, 16. septembril (ehk täna!) kell 16 räägivad ruumis 107 meie kooli vilistlased Eva‑Maria Tõnson ja Rando Künnapuu <strong>õpingutest</strong> <strong>Cambridge'i Ülikoolis</strong>. Vilistlased tutvustavad oma ülikooliteed ja räägivad ka täpsemalt kandideerimisest, mille tähtaeg uueks õppeaastaks on 15. oktoobril. Eriti oodatud on 12. klassi õpilased, aga ka 11. klassi õpilased.</li>
+<li>
+		Teisipäeval, 17. septembril alusab uut hooaega <strong>ajalooring</strong>. Esimese kohtumise teemat “Hiina tänapäeva maailmas” aitab avada Rando Künnapuu (vil! 2017), täpsem informatsioon Facebooki-lehel “HTG ajalooring”. Ajalooring algab kell 16.00 ja toimub klassiruumis 141. Kõik huvilised on teretulnud.</li>
+<li>
+		Reedel, 20. septembril toimub <strong>rebaste päev</strong>, mil 10. klasside õpilasi oodatakse koolimajja juba kella 7.30ks. Päeva korraldab 11.c klass.</li>
+<li>
+		Kõik 12. klasside õpilased, kes soovivad novembris sooritada <strong>CAE eksamit</strong>, millele nad registreeruvad iseseisvalt Eesti Hariduse Infosüsteemis (<a href="http://www.ehis.ee/" target="_blank">www.ehis.ee</a>) oktoobrikuus, peaksid praegu kontrollima ID-kaardi või Mobiil‑ID toimimist.</li>
+<li>
+		23. septembril kell 16 tutvustavad auditooriumis (221) <strong>vahetusprogrammi</strong> <strong>FLEX</strong> esindajad 10. klassidele võimalust õppida aasta USA keskkoolis ja elada kohalikus perekonnas. Programmis osalemine on õpilastele tasuta ning täisstipendium katab kõik reisi-, elamis- ja kindlustuskulud. Programmi poolt on ka taskuraha. Kandideerimiseks tuleb esmalt täita Internetis olev avaldus ning kirjutada kolm lühiesseed. Avaldus asub aadressil: <a href="http://ais.americancouncils.org/flex">http://ais.americancouncils.org/flex</a>. Avaldus ja esseed on inglisekeelsed, grammatikat nende puhul eraldi ei hinnata. Avalduste esitamise tähtaeg on 17. oktoober 2019.</li>
+<li>
+		Hugo Treffneri Gümnaasiumi kuulutab välja <strong>ideekavandi konkursi</strong> kooli tänu- ja kiituskirjadele uue kujunduse loomiseks. Kavand tuleb luua A4 formaadis vertikaalpaigutuses (soovitavalt vektorgraafikas). Töö tuleb esitada PDF-formaadis, tähtaeg on 14. oktoober 2019. Täpsema info saamiseks kirjutada õpetaja Raimond Lepistele.</li>
+</ul>
+<h1>
+	Õpetajad</h1>
+<ul>
+<li>
+		Õpetaja Aimar Poom osaleb petangi Euroopa meistrivõistlustel 16.-23. septembrini, õpetaja Tiina Pluum osaleb koolitusel 19. ja 20. septembril ning 20. septembril sõidavad koos 12. klasside õpilastega Vargamäele õpetajad Marcus Hildebrandt, Katrin Ojaveer, Saima Kaarna, Mall Matto, Ljubov Titova, Age Salo, Toomas Jürgenstein ja Aare Ristikivi.</li>
+</ul>
+<h1>
+	Sport</h1>
+<ul>
+<li>
+		Meie kooli õpilased olid suvel sõudmisvõistlustel väga edukad. Rachel Kõllo (12.a) võitis erinevates võistlusklassides nii Eesti meistrivõistlustel A-klassis, täiskasvanute hulgas kui ka Balti riikide tüdrukute hulgas kaks kuldmedalit. Helene Dimitrijev (11.a) võitis U‑23 Eesti meistrivõistlustel ühe kuldmedali, Balti MV-l tüdrukute hulgas kaks esikohta ning Eesti täiskasvanute meistrivõistlustel ühe esikoha. Mark Theodor Jalakas (11.a) võitis kuldmedali Eesti meistrivõistlusel poiste A‑klassi ühepaadil.</li>
+<li>
+		Tartumaa 3-3 korvpalli meistrivõistlustel saavutasid HTG noormehed teise koha. Kooli esindasid Märt Kilgi (10.a), Richard-Sven Rivik ja Kaspar Sepp (10.b) ning Christofer Kalda (11.b).</li>
+<li>
+		Pikniku spordivõistluste kokkuvõttes olid parimad 12.e klass, 11.a klass ja 10.a klass. Suurepärase tulemuse limbos saavutas Mihkel Mariusz Jezierski (12.e).</li>
+</ul>
+<h1>
+	Õpilaskogu teated</h1>
+<ul>
+<li>
+		9. septembril toimus selle õppeaasta esimene õpilaskogu koosolek, kus valiti uus president ja asepresident. Kõik kandidaadid pidasid lühikese ennast tutvustava kõne ning seejärel toimus hääletamine. Hääletustulemuste põhjal valiti HTG õpilaskogu uueks presidendiks Erich Richard Rosental (11.b) ja asepresidendiks Getter Kõiv (10.d).</li>
+</ul>
+<h2>
+	2019. aasta Kõvernaela tiitlid:</h2>
+<div class="rteindent1">
+	<u>Õpilased:</u><br />
+	Lennu päiksekiir - Henri Sellis<br />
+	Lennu lobamokk - Maru Arukask<br />
+	Lennu tarkpea taskus - Richard Luhtaru<br />
+	Lennu hilineja - Johanna Issak<br />
+	Lennu aktivist - Kirke Maria Lepik <br />
+	Lennu ärikas - Georg Kaasik<br />
+	Mida Juku ei õpi, seda vaatab spikri pealt –<br />
+	Iljas Abubakarov <br />
+	Lennu naljahammas - Oliver Valk<br />
+	Lennu sportlane - Robert Põldoja<br />
+	Lennu pudrupea - David Ryabchikov<br />
+	Lennu rahvamees - Georg Kaasik<br />
+	Lennu õnneseen - Oliver Valk<br />
+	Lennu prints - Raiki Mänd<br />
+	Lennu printsess - Liisi Tee
+<p>	<u>Õpetajad:</u><br />
+	Kõige energilisem - Helgi Pähno<br />
+	Kõige naerusuisem - Helen Köhler <br />
+	Kõige tormakam - Ülle Seevri<br />
+	Kõige salakavalam - Ülle Keerberg<br />
+	Kõige stiilsem - Andre Pettai<br />
+	Kõige suurem töömesilane - Kristiina Punga<br />
+	Kõige otsekohesem - Uve Saar<br />
+	Kõige muhedam - Madis Reemann<br />
+	Kõige sõbralikum - Kristiina Punga<br />
+	Kõige humoorikam - Madis Reemann</p></div>
+<h1>
+	Eelteated</h1>
+<ul>
+<li>
+		Esmaspäeval, 23. septembril kell 12.25 ootab huvijuht kõiki abituriente auditooriumisse <strong>koolimärgi infotundi</strong>.</li>
+<li>
+		Selle õppeaasta esimene <strong>õnnetund</strong> toimub 26. septembril kell 15.45–16.30 ruumis 107. Õnnetunni viib läbi õpetaja Monika Piirimäe.</li>
+<li>
+		Reedel, 27. septembril 5. tunni ajal toimub auditooriumis (ruum 221) <strong>õppealajuhataja infotund 10. klasside õpilastele</strong>, millest osavõtt on kõigile 10. klasside õpilastele kohustuslik.</li>
+<li>
+		Selle õppeaasta esimene <strong>klassivanemate ümarlaud</strong>, millest on oodatud osa võtma kõikide klasside ja õpilasomavalitsuse esindajad toimub 1. oktoobril kell 15.45-17.00 raamatukogu lugemissaalis.</li>
+</ul>
+<p>
+	 </p>
+</div></div></div><div class="field field-name-changed-date field-type-ds field-label-above"><div class="field-label">Viimati muudetud:&nbsp;</div><div class="field-items"><div class="field-item even">2023-05-18 18:37</div></div></div></div>
+
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+              
+               <div id="ulemine" class="clearfix">
+                  </div>
+            
+            </section> <!-- /#main -->
+        </div>
+          
+         
+      
+              
+        </div>
+
+                  
