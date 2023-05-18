@@ -117,7 +117,7 @@ export default function Home() {
         <footer className="bg-dark text-light text-center py-3" style={{width: "100%"}}>
           <div className="container">
             <p className="mb-0" style={{color: "#BBB"}}>Kogu info ei pruugi olla korrektne</p>
-            <p className="mb-0">Credit: Kevin Akkermann ja Toomas Herodes (B20)</p>
+            <p className="mb-0"><Link href="https://github.com/Kev4kk/TreffHOF"><u>Credit</u></Link>: Kevin Akkermann ja Toomas Herodes (B20)</p>
           </div>
         </footer>
 
