@@ -6,10 +6,13 @@ import 'bootstrap/dist/css/bootstrap.css';
 import '../../globals.css';
 import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
+import MainimisteTabel from "../../mainimisteTabel.js";
+
+
 
 export default function Page({ params }) {
   const [top50stu, setTop50stu] = useState([]);
-  const [data, setData] = useState({});
+  const [data, setData] = useState({mentions:[]});
 
   useEffect(() => {
     const fetchData = async () => {
@@ -34,16 +37,18 @@ export default function Page({ params }) {
       <main className={styles.main}>
         <div className={styles.content}>
           <div className={styles.titles}>
-          <h1 className={styles.title}>HTG Hall Of Fame</h1>
-          <h2 className={styles.subtitle}>Vaata, kui palju on sind infolehes mainitud</h2>
           </div>
           <div className={styles.topid}>
             <div className={styles.vasakÕpilased}>
               {(top50stu !== {}) ? (
                 <>
-                <h3 className={styles.subsubtitle}><u>{data.nimi}</u></h3>
+                <h1 className={styles.subsubtitle}><u>{data.nimi}</u></h1>
               
-                <p>{data.summa}</p>
+                <p>Mainimisi kokku: {data.summa}</p>
+                
+                
+                <MainimisteTabel data={data.mentions}/>
+
                 </>
               ) : (
                 <p>Laen...</p>
