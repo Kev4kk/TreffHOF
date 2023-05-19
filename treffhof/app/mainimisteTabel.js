@@ -61,7 +61,7 @@ function MainimisteTabel(props) {
                       <td>{element[1].slice(0,4)}</td>
                       <td>{element[1].split("_")[1].split(".txt")[0]}</td>
                       <td>{element[0]}</td>
-                      <td><Link href={Data["infolehed4/" + element[1]]} target="_blank"><u>Link</u></Link></td>
+                      <td><Link href={(Data.length == 0) ? "#": Data["infolehed4/" + element[1]]} target="_blank"><u>Link</u></Link></td>
                     </tr>
                     
                   ))}
