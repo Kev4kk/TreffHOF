@@ -195,6 +195,7 @@
   .content {
     padding: 4rem;
     flex-wrap: wrap;
+    font-size: smaller;
   }
 
   .grid {
