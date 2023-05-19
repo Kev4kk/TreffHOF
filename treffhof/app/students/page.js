@@ -44,7 +44,7 @@ export default function Home() {
                     <tr>
                       <th>#</th>
                       <th>Nimi</th>
-                      <th style={{ width: "1rem", overflow: "clip", paddingRight: "0.5rem" }}>Lõpetamisaasta + klass</th>
+                      <th style={{ width: "1rem", overflow: "clip" }}>Lõpuaasta + klass</th>
                       <th>Mainimisi</th>
                     </tr>
                   </thead>
@@ -52,7 +52,7 @@ export default function Home() {
                     {top50stu.map((element, index) => (
                       <tr key={index}>
                         <td>{index + 1}</td>
-                        <td><Link href={"/students/" + index}>{element.nimi}</Link></td>
+                        <td style={{width: "4rem"}}><Link href={"/students/" + index}><u>{element.nimi}</u></Link></td>
                         <td>{element.aasta}</td>
                         <td>{element.summa}</td>
                       </tr>

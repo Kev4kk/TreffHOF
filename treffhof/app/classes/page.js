@@ -43,7 +43,7 @@ export default function Home() {
                   <thead>
                     <tr>
                       <th>#</th>
-                      <th style={{ width: "1rem", overflow: "clip", paddingRight: "0.5rem" }}>Lõpetamisaasta + klass</th>
+                      <th style={{ width: "1rem", overflow: "clip", paddingRight: "0.5rem" }}>Lõpuaasta + klass</th>
                       <th>Mainimisi</th>
                       <th>Keskmine</th>
                     </tr>
