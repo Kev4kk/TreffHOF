@@ -68,7 +68,7 @@ export default function Home() {
         </div>
         <footer className="bg-dark text-light text-center py-3" style={{width: "100%"}}>
           <div className="container">
-            <p className="mb-0">Credit: Kevin Akkermann ja Toomas Herodes (B20)</p>
+            <p className="mb-0">Credit: Kevin Akkermann B20</p>
           </div>
         </footer>
       </main>
