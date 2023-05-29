@@ -44,8 +44,11 @@ export default function Page({ params }) {
               {(data != {}) ? (
                 <>
                   <h3 className={styles.subsubtitle}><u>{data.aasta}</u></h3>
+                  <p>Mainimisi: {
+                      data.kokku?.reduce((partialSum, a) => partialSum + a[1], 0)
+                    }</p>
                   <p>Koht: {parseInt(params.nimi)+1}</p>
-
+                
                   <table className={styles.table}>
                     <thead>
                       <tr>
