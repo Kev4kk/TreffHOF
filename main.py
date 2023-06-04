@@ -42,7 +42,7 @@ for student in students:
             if (cnt == 0):
                 continue
             mentions.append([cnt, filename])
-    jsON = {"nimi": student[0], "aasta": student[1], "mentions": mentions}
+    jsON = {"nimi": student[0], "aasta": student[1], "mentions": mentions, "summa": sum(row[0] for row in mentions)}
     studentMentions.append(jsON)
 
 def key_func(obj):
@@ -52,12 +52,8 @@ print("DONE counting")
 
 sorteeritud = sorted(studentMentions, key=key_func)
 sorteeritud.reverse()
-fend = open("mentions.txt", "w")
-for student in sorteeritud:
-    student["summa"] = key_func(student)
-    fend.write(json.dumps(student) + "\n")
-
-fend.close()
+with open("mentions.json", "w") as json_file:
+    json.dump(sorteeritud, json_file)
 print("DONE writing")
 
 

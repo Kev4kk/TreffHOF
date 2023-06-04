@@ -43,9 +43,9 @@ export default function Page({ params }) {
             <div className={styles.vasakÕpilased}>
               {(data != {}) ? (
                 <>
-                  <h3 className={styles.subsubtitle}><u>{data.aasta}</u></h3>
+                  <h3 className={styles.subsubtitle}><u>{data?.aasta}</u></h3>
                   <p>Mainimisi: {
-                      data.kokku?.reduce((partialSum, a) => partialSum + a[1], 0)
+                      data?.kokku?.reduce((partialSum, a) => partialSum + a[1], 0)
                     }</p>
                   <p>Koht: {parseInt(params.nimi)+1}</p>
                 
@@ -58,7 +58,7 @@ export default function Page({ params }) {
                       </tr>
                     </thead>
                     <tbody>
-                      {(data["kokku"] != undefined) ? data["kokku"].map((element, index) => (
+                      {(data?.kokku != undefined) ? data?.kokku.map((element, index) => (
                         <tr key={index}>
                           <td>{index + 1}</td>
                           <td><Link href={"/students/" + element[2]}><u>{element[0]}</u></Link></td>

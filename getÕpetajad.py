@@ -117,8 +117,7 @@ def key_func(obj):
 sorteeritud = sorted(õpetajad, key=key_func)
 sorteeritud.reverse()
 
-fend = open("teacherMentions.txt", "w")
-for õp in sorteeritud:
-    fend.write(json.dumps(õp) + "\n")
-fend.close()
+with open("teacherMentions.json", "w") as json_file:
+    json.dump(sorteeritud, json_file)
+
 print("DONE writing")
